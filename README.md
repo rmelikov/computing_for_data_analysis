@@ -1,6 +1,6 @@
 ## Folder Infomation
 
-This repository contains all of the class materials for Georgia Tech's Spring 2020 CSE 6040, Computing for Data Analysis class with Dr. Richard Vuduc. (As a side note, this was the best class I ever took.) All of the content is in the `project_files` folder and it is sequenced for easier navigation. Inside of the `project_files`, you will find the `Getting Started` folder. So, start there. 
+This repository contains all of the class materials for **Georgia Tech's Spring 2020 CSE 6040, Computing for Data Analysis class with Dr. Richard Vuduc**. (As a side note, this was the best class I ever took.) All of the content is in the `project_files` folder and it is sequenced for easier navigation. Inside of the `project_files`, you will find the `Getting Started` folder. So, start there. 
 
 This class is based on Python 3.7 and Jupyter notebooks. I've included the virtual environment that you can use with it. However, you might need to install the needed packages every so often as you run into them throughout the course. I created the virtual environment after the fact.
 
