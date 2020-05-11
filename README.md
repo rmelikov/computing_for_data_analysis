@@ -6,4 +6,4 @@ This class is based on Python 3.7 and Jupyter notebooks. I've included the virtu
 
 You can ignore the `Scratch Pad` folder. You don't have to look at it, but you might find some interesting code there and hence why I kept it in there because I want to find that code myself if I'll be looking for it.
 
-Something else to note: some datasets are larger than 100 MB and they have to be stored in LFS (Github's Large File Storage). You will get them if you'll download the whole thing.
+Something else to note: some datasets are larger than 100 MB and they have to be stored as parts. So, you might see that a dataset is combined into a single file from multiple files and then the combined file is deleted again. This is so because of limitations of GitHub.
