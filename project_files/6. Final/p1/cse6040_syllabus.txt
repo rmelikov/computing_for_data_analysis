@@ -1,0 +1,204 @@
+# Syllabus (Final) - CSE 6040/x: Intro to Computing for Data Analysis, Spring 2020
+
+This course is a hands-on introduction to programming techniques relevant to data analysis and machine learning. Programming exercises use Python and SQL. It assumes some prior programming experience (not necessarily in Python) but asks you to review and extend that experience in the context of data analysis. 
+
+* Instructor and course creator (O/MSA): [Professor Richard (Rich) Vuduc](https://vuduc.org)
+* Co-creators: Vaishnavi Eleti and Rachel Wiseley
+* Co-instructor (for edX VMM sections): [Dr. Charles (Chuck) Turnitsa](https://www.csiac.org/person/charles-turnitsa/)
+
+
+## What will I learn?
+
+You will build "from scratch" the essential components of a data analysis pipeline: collection, preprocessing, storage, analysis, and visualization. You will see several examples of high-level data analysis questions, concepts and techniques for formalizing those questions into mathematical or computational tasks, and methods for translating those tasks into code. Beyond programming and best practices, you'll learn elementary data processing algorithms, notions of program correctness and efficiency, and numerical methods for linear algebra and mathematical optimization. 
+ 
+The underlying philosophy of this course is that you'll learn the material best by actively doing. Therefore, you should make an effort to complete all assignments, including any ungraded ("optional") parts, and go a bit beyond on your own (see [_How much time and effort are expected of you?_](#How-much-time-and-effort-do-you-expect-of-me), below). 
+
+
+## How will I do all that? 
+_(Assignments and grading.)_
+
+You'll learn the material through hands-on _lab notebook assignments_ (the "homework"), which will be required and whose completion will count toward your final grade, and we will assess your learning primarily through _exams_.
+
+Overall, the breakdown of your final grade is as follows:
+
+* Notebooks: 50% 
+* Midterm 1: 10% 
+* Midterm 2: 15% 
+* Final exam: 25%
+
+For Georgia Tech students, the threshold for the equivalent of an "A" grade is 90%, for a "B" 80%, a "C" 70%, a "D" 60%. Anything below is "not passing" (both at Georgia Tech and on edX).
+
+**Lab notebooks.** The primary vehicle for learning new material is a collection of **[Jupyter](https://jupyter.org) lab notebooks**, each of which introduces some concepts and reinforces them with programming exercises. These notebooks **are** the assignments of the course, too, and count towards your final grade. There are accompanying videos. However, these are a guide to the material, not an all-encompassing overview of everything you need to learn. Instead, you need to master the content of the notebooks using both the videos, references we provide, and some searching on your own.
+
+_The last sentence of the previous paragraph is essential!_ The notebooks are part of your grade to encourage you to go through the material. However, you should expect to spend **extra time** on your own and with your peers thinking about that material, looking things up to better understand something, and trying to master the material. See [_How much time and effort do you expect of me?_](#How-much-time-and-effort-do-you-expect-of-me) for more discussion of this point.
+
+**Autograding of assignments.** Your assignments are hosted on a cloud-based platform called [Vocareum](https://www.vocareum.com/). You are expected to work on and submit your assignments through Vocareum, which autogrades them. While you are welcome to download the assignments and work on them in your local environment, you must ensure that whatever you do also works when entered or uploaded to Vocareum and submitted through its autograder. **We will not accept any assignment because you claim it works on your local system but does not get through the autograder.**
+
+**Exams.** The way we assess how well you know that material is through two midterm exams and one final exam. Many prior students regard these as the toughest part of the course, but we will provide old exam problems for practice. See also [_How do exams work?_](This extension does not apply to exams; see [_How do exams work?_](#How-do-the-exams-work) for more information.).
+
+> There is approximately one notebook or exam due every week. The assignments vary in difficulty but are weighted roughly equally. Some students find this pace very demanding. We set it up this way is that we believe learning to program is like learning a foreign language, which demands constant and consistent practice. Please plan accordingly.
+
+
+## What should I know already? 
+_(Prerequisites.)_
+
+You should have at least an undergraduate-level understanding of the following topics. You'll have about a month at the beginning of the course to get up to speed on this material if you have gaps or haven't touched these subjects in a while.
+
+* Programming proficiency in some programming language
+* Basic calculus 
+* Probability and statistics 
+* Linear algebra
+
+What does "programming proficiency" mean? We use Python in this course and assume your prior programming experience (variables, functions, loops, and data structures) is enough that you can get up to speed in Python. Armed with basic Python, this course then aims to fill in gaps in your programming background that might keep you from succeeding in other programming-intensive courses of [Georgia Tech's MS Analytics program](http://analytics.gatech.edu/), most notably, [CSE 6242](http://poloclub.gatech.edu/cse6242/).
+
+If you already have a significant programming background, consider placing out. If you have no programming background, you will need to ramp up very quickly. See [_How much time and effort do you expect of me?_](#How-much-time-and-effort-do-you-expect-of-me) for more specific guidance on what we assume are the two hardest gaps to fill, namely, programming proficiency and linear algebra.
+
+
+## When are things due? 
+_(Deadlines and late submission policies.)_
+
+Because students from all over the world take this course, we have standardized on all assignments being due at 11:59 [UTC](https://en.wikipedia.org/wiki/Coordinated_Universal_Time) time of the designated date.
+
+**What is UTC?** Please make sure you are aware of the due date and time for your local area. UTC is an international standard time that uses a 24-hour convention (e.g., 11:59 UTC is distinct from 23:59 UTC) and has no notion of "AM" and "PM," nor does it observe "daylight savings time" changes. **You** need to figure out what all that means and how to translate that into your local time. 
+
+**We will not grant extensions based on your misunderstanding of how to translate dates and times.** You may wish to consult online tools, like the Time Zone Converter; here is an example of [TZC for 11:59 UTC on January 6, 2020](https://www.timeanddate.com/worldclock/converter.html?iso=20200106T115900&p1=1440&p2=25&p3=33&p4=195).
+
+**Late policy.** For your lab notebooks, you get an automatic 72-hour extension on every assignment **unless otherwise specified**; please refer to the course schedule. However, you will lose points every day the assignment is late, and we will not accept any assignment after the 72-hour period.
+
+This extension does not apply to exams; see [_How do exams work?_](#How-do-the-exams-work) for more information.
+
+_What are the late penalties?_ Each assignment has one or more _parts_, and each part consists of one or more _exercises_. The penalty is a deduction of 15% of the value of each late **part** each day.
+
+For instance, suppose an assignment has two parts, Part 0 and Part 1. Further, assume Part 0 is worth 10 points, and Part 1 is worth 15 points. Therefore, the assignment overall is worth 25 points. Now let's say you complete Part 0 on-time, thereby earning all 10 points on it, but you submit Part 1 late. The late penalty per day on Part 1 is (0.15 * 15) = 2.25 points per day, up to three days. Therefore, if it is two days late, even if you complete it, your maximum score on Part 1 will be 15 - (2 x 2.25) = 10.5 points, and your maximum score on the assignment will be 10 + 10.5 = 20.5 points, again out of 25 possible points.
+
+_Unsolicited advice._ Keep in mind that there are many assignments, so any given assignment is only worth a small percentage of your final grade.
+
+_Sample solutions._ Approximately 48 hours after an assignment is due, we will release sample solutions. Therefore, it's generally possible to get a nonzero score for every assignment, and we will not accept submissions after the 72-hour late period.
+
+## How do the exams work?
+
+For the exams, you will receive a window of about one week in which to attempt the exam, with a hard deadline to submit and **absolutely no extensions.** We will announce the exact format of the exam during the semester. Still, they will nearly identical in format and style as the notebooks, albeit with a time limit (to be specified) and using online proctoring software.
+
+
+## How much time and effort do you expect of me? 
+_(From the instructors' perspective, this section of the syllabus is the most important to accept before you sign up!)_
+
+At Georgia Tech, this course is a three-credit-hour graduate-level (Masters degree) course. So what does that mean? 
+
+The "3 credit hours" part translates into an average amount of time of about 10-12 hours per week. However, the actual amount of time you will spend depends heavily on your background and preparation. Past students who are very good at programming and math reporting spending much less time per week (maybe as few as 4-5 hours), and students who are rusty or novices at programming or math have reported spending more (say, 15 or more hours). 
+ 
+The "graduate-level" part means you are mature and independent enough to try to understand the material at more than a superficial level. That is, you don't just watch some videos, go through the assignments, and stop there; instead, you spend some extra time looking at the code and examples in detail, trying to cook up examples, and coming up with self-tests to check your understanding. Also, you will need to figure out quickly where your gaps are and make time to get caught up. 
+ 
+As noted above, in past runs of this course, we've found the two hardest parts for many students are catching up on (a) basic programming proficiency and (b) linear algebra, which are both prerequisites to this course. We'll supply some refresher material, but expect that you can catch up. Here is some additional advice on these two areas. 
+
+**Programming proficiency.** Regarding programming proficiency, we expect that you have taken at least one introductory programming course in some language, though Python will save you the most time. You should be familiar with basic programming ideas at least at the level of the Python Bootcamp that most on-campus MS Analytics students take just before they start. A useful textbook reference for Python as you go through this course is Jake Vanderplas's [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/).
+
+We can also recommend several online resources, like [CS 1301x](https://www.edx.org/course/computing-in-python-i-fundamentals-and-procedural-programming-2), which is Georgia Tech's undergraduate introduction to Python class. Students who struggled with this course in the past have reported success when taking CS 1301x and re-taking this class later. Beyond that, code drill sites, like [CodeSignal](https://codesignal.com) and [codewars.com](https://www.codewars.com) (the latter's absurdly combative name notwithstanding) can help improve your speed at general computational problem-solving. Please spend time looking at these or similar resources. 
+
+Part of developing and improving your programming proficiency is learning how to find answers. We can't give you every detail you might need; but, thankfully, you have access to the entire internet! Getting good at formulating queries, searching for helpful code snippets, and adapting those snippets into your solutions will be a lifelong skill and is common practice in the "real world" of software development, so use this class to practice doing so. (During exams, you will be allowed to search for stuff on the internet.) It's also an excellent skill to have because whatever we teach now might five years from now no longer be state-of-the-art, so knowing how to pick up new things quickly will be a competitive advantage for you. Of course, the time to search may make the assignments harder and more time-consuming, but you'll find that you get better and faster at it as you go, which will save you the same learning curve when you're on the job. 
+
+**Math proficiency.** Regarding math, and more specifically, your linear algebra background, we do provide some refresher material within this course. However, it is ungraded self-study material. Therefore, you should be prepared to fill in any gaps you find when you encounter unfamiliar ideas. We strongly recommend looking at the notes from the edX course, [Linear Algebra: Foundations to Frontiers (LAFF)](http://ulaff.net/). Its website includes a freely downloadable PDF with many helpful examples and exercises.
+
+## Can I work with others? Also: What can I ask of the teaching assistants (TAs)?
+_(Collaboration policy.)_
+
+You may collaborate with your peers on the lab notebooks at the "whiteboard" level. That is, you can discuss ideas and have technical conversations with other students in the class, which we especially encourage on the online forums. However, each student should write-up and submit his or her own notebooks. **Taking shortcuts will here only hurts you on the exams.**
+ 
+But what does "whiteboard level" mean? It's hard to define precisely, but here is what we have in mind.
+
+The **spirit** of this policy is that we do not want someone posting their solution attempt (possibly with bugs) and then asking their peers, "Hey, can someone help me figure out why this doesn't work?" **That's asking others (including the instructors and TAs) to debug your work for you.** That's a no-no.
+
+### But what can I do instead of just posting my code to ask for debugging help? (Answer: MREs!)
+
+In such situations, try to reduce the problem to the simplest possible example that also fails. Please see [Stackoverflow's guidelines on "MREs" -- minimal, reproducible examples](https://stackoverflow.com/help/minimal-reproducible-example). In that case, posting code on the class discussion site (Piazza; see below) would be OK. Indeed, the mere process of distilling an example often reveals the bug!
+
+In other words, it's okay and encouraged to post and discuss code examples as a way of learning. But you want to avoid doing so in a way that might reveal the solution to an assignment.
+
+_When posting questions in the online forums, the same policy outlined above applies._ Indeed, your peers will answer questions much faster if you pare it down to an MRE, and the instructors will advise the TAs to prioritize answering "well-formed" MREs over large code snippets.
+  
+You must do all exams entirely on your own, **without any assistance from others.** You can do internet searches. But, you cannot post questions or actively communicate with others during the exam period. Doing so may be considered a violation of the honor code (see below) and, depending on the nature of what you did, will result in no credit on the assignment or exam and a formal report to Georgia Tech or edX.
+
+**Honor code.** All course participants—you and we—are expected and required to abide by the letter and the spirit of the Georgia Tech and edX Honor Codes. In particular, always keep the following in mind: 
+  
+* Ethical behavior is critical in all facets of life. We expect honest and ethical conduct at all times.
+* You are responsible for completing your work.
+* Any learner found in violation of the edX Honor Code will be subject to any or all of the actions listed in the edX Honor Code.
+
+**Important note: No GitHub repos!** Students often ask if they can post their work on GitHub or in any other public source code repository. The answer is, "no!" Doing so is, essentially, publishing your homework solutions. If we determine that you have done so, we will consider it a violation of the honor code and take action accordingly.
+
+## Will I need school supplies? 
+_(Books, materials, equipment.)_
+
+The main pieces of equipment you will need are a pen or pencil, paper, an internet-enabled device, and your brain! 
+  
+We highly recommend the following three references for this course. 
+  
+* Jake Vanderplas. [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/). The full "source" of this book and a PDF version are freely available online (see the previous link).
+* William McKinney. [Python for Data Analysis: Data wrangling with Pandas, NumPy, and IPython, 2nd edition](http://shop.oreilly.com/product/0636920050896.do). O'Reilly Media, September 2017. ISBN-13: 978-1449319793. [Buy on Amazon](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_4?s=books&ie=UTF8&qid=1513180913&sr=1-4&keywords=python+for+data+analysis)
+* Jake Vanderplas. [Python for Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/). The full "source" of this book and a PDF version are freely available online (see the previous link).
+
+## I have more questions. Where do I go for help?
+_(Course discussion forum and office hours.)_
+
+The primary way for us to communicate is the online discussion forum, hosted on the class discussion site, [Piazza](https://piazza.com). _We will post instructions on how to reach this site when the course opens._ We will make all course announcements and host all course discussions there. Therefore, it is imperative that you access and refer to this forum when you have questions, issues, or want to know what is going on as we progress. You can post your questions or issues anonymously if you wish. You can also opt-in to receive email notification of new posts or follow-up discussions to your posts.
+
+> The professor's email situation is terrible, so do not expect timely responses on email queries.
+ 
+Here are some pro-tips to improve the response time for your questions:
+
+1. Make your post public, rather than private to the instructors. By doing so, anyone in the class can see and respond to your post.
+2. Adhere to the "Collaboration Policy," above (see [_Can I work with others?_](#Can-I-work-with-others-Also-What-can-I-ask-of-the-teaching-assistants-TAs)). If you create a post that violates this policy, the instructors may ignore your post or even delete it.
+3. Post during the week rather than the weekend. The staff is also trying to maintain some semblance of work-life balance so that you can expect slower responses over the weekend.
+4. Be sure to tag your post with the relevant notebook assignment so we can better triage issues. (In Piazza, a "tag" is also a "folder," though unlike desktop folders, you can place a post in more than one folder.) 
+
+**What if my question is private?** In that case, you can make your post private to the instructors. (After pressing `new post` to create the post, look for the `Post to` field and select `Individual student(s)/instructor(s)`. Then type `Instructors` to make the post visible only to all instructors—it's vital to include all instructors so that all of them will see and have a chance to address your post, which will be faster than sending only one person.) 
+
+**Office hours.** We will have live "dial-in" office hours, to-be-scheduled. Watch Piazza for an announcement and logistical details. 
+
+**Accommodations for individuals with disabilities** (GT students only). If you have learning needs that require special accommodation, please contact the Office of Disability Services at (404) 894-2563 or http://disabilityservices.gatech.edu/, as soon as possible, to make an appointment to discuss your individual needs and to obtain an accommodations letter.
+
+**Letters of completion.** Some of you require letters of completion to give to your employer to verify your final grade and the fact that you finished the course. We follow the [Georgia Tech calendar](https://registrar.gatech.edu/calendar?view=list&collection=current&category=gradu,holid,meeti,regis,nocat&exclude=201908,202005A,202005E,202005F,202005L&cache=1576698972) for submitting and releasing grades. Therefore, we will not be able to provide any such letter before the official date when grades are available to students (May 5, 2020). If your employer requires something sooner, please ask them for an extension.
+
+
+## Topics for Spring 2020
+
+The topics are divided into roughly three units, as outlined below. A more detailed schedule will be posted when the class begins, but the typical pace is 1 or 2 topics per week and one notebook (homework assignment or exam) per week. 
+
+**Module 0: Fundamentals.**
+- Topic 0: Course and co-developer intros 
+- Topic 1: Python bootcamp review + intro to Jupyter 
+- Topic 2: Pairwise association mining 
+    * Default dictionaries, asymptotic running time 
+- Topic 3: Mathematical preliminaries
+    * probability, calculus, linear algebra 
+- Topic 4: Representing numbers 
+    * floating-point arithmetic, numerical analysis 
+  
+**Module 1: Representing, transforming, and visualizing data.**
+- Topic 5: Preprocessing unstructured data
+    * Strings and regular expressions 
+- Topic 6: Mining the web
+    * (Ungraded; notebook only) HTML processing, web APIs
+- Topic 7: Tidying data
+    * Pandas, merge/join, tibbles and bits, melting and casting 
+- Topic 8: Visualizing data and results 
+    * Seaborn, Bokeh 
+- Topic 9: Relational data (SQL)
+  
+**Module 2: The analysis of data.**
+- Topic 10: Intro to numerical computing 
+    * NumPy / SciPy 
+- Topic 11: Ranking relational objects 
+    * Graphs as (sparse) matrices, PageRank 
+- Topic 12: Linear regression
+    * Direct (e.g., QR) and online (e.g., LMS) methods 
+- Topic 13: Classification 
+    * Logistic regression, numerical optimization 
+- Topic 14: Clustering 
+    * The k-means algorithm
+- Topic 15: Compression 
+    * Principal components analysis (PCA), singular value decomposition (SVD)
+- Topic 16: Putting it all together
+    * (Notebook only) Exact topic TBD, e.g., face recognition, text mining, deep neural networks
+
+> _Wiki rev: aee069a_
