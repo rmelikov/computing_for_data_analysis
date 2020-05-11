@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:452b7a4795b00ff8ce7f4a55acf51b5548e4b6087fd40513793ffca3738b059b
-size 205
+country,year,cases,population
+Afghanistan,1999,745,19987071
+Afghanistan,2000,2666,20595360
+Brazil,1999,37737,172006362
+Brazil,2000,80488,174504898
+China,1999,212258,1272915272
+China,2000,213766,1280428583

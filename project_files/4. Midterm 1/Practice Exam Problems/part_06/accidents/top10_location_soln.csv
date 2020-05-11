@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a691e1f933c8c6343e01ff2a68370090450b3473163745141b498e55ccec3546
-size 591
+"Location_Easting_OSGR","Location_Northing_OSGR","Road_Surface_Conditions","Num_of_Accidents"
+408860,284550,"Dry",13
+408860,284550,"Wet/Damp",3
+452740,338230,"Dry",11
+452740,338230,"Wet/Damp",4
+454440,341450,"Dry",9
+454440,341450,"Frost/Ice",1
+454440,341450,"Wet/Damp",6
+468790,339640,"Dry",15
+468790,339640,"Wet/Damp",1
+522430,180080,"Dry",12
+522430,180080,"Wet/Damp",4
+526930,177490,"Dry",15
+526930,177490,"Wet/Damp",2
+530760,186270,"Dry",21
+530760,186270,"Wet/Damp",2
+534940,181890,"Dry",19
+534940,181890,"Wet/Damp",2
+540870,182730,"Dry",17
+540870,182730,"Wet/Damp",2

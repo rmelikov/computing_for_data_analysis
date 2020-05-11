@@ -1,3 +1,69 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e82df865e198918446dd101d418969e0570e345198f671b549baafebe4524204
-size 2543
+cast_member_1,cast_member_2,num_movies,avg_score
+Ahmed Best,Anthony Daniels,3,54.67
+Ahmed Best,Ewan McGregor,3,54.67
+Ahmed Best,Frank Oz,3,54.67
+Ahmed Best,Ian McDiarmid,3,54.67
+Ahmed Best,Kenny Baker,3,54.67
+Ahmed Best,Natalie Portman,3,54.67
+Ahmed Best,Oliver Ford Davies,3,54.67
+Ahmed Best,Samuel L. Jackson,3,54.67
+Ahmed Best,Silas Carson,3,54.67
+Anthony Daniels,Ewan McGregor,3,54.67
+Anthony Daniels,Frank Oz,5,50.6
+Anthony Daniels,Ian McDiarmid,4,53.75
+Anthony Daniels,Jeremy Bulloch,3,50.0
+Anthony Daniels,Natalie Portman,3,54.67
+Anthony Daniels,Oliver Ford Davies,3,54.67
+Anthony Daniels,Samuel L. Jackson,4,53.0
+Anthony Daniels,Silas Carson,3,54.67
+Billy Dee Williams,Carrie Fisher,3,57.0
+Billy Dee Williams,Frank Oz,3,57.0
+Billy Dee Williams,Harrison Ford,3,57.0
+Billy Dee Williams,James Earl Jones,3,57.0
+Billy Dee Williams,Kenny Baker,3,57.0
+Billy Dee Williams,Mark Hamill,3,57.0
+Billy Dee Williams,Peter Mayhew,3,57.0
+Carrie Fisher,Frank Oz,3,57.0
+Dakota Fanning,Gene Barry,3,87.0
+Dakota Fanning,Miranda Otto,3,87.0
+Dakota Fanning,Tom Cruise,3,87.0
+Dick Cheney,George W. Bush,3,77.0
+Ewan McGregor,Frank Oz,3,54.67
+Ewan McGregor,Ian McDiarmid,3,54.67
+Ewan McGregor,Kenny Baker,3,54.67
+Ewan McGregor,Natalie Portman,3,54.67
+Ewan McGregor,Oliver Ford Davies,3,54.67
+Ewan McGregor,Samuel L. Jackson,3,54.67
+Ewan McGregor,Silas Carson,3,54.67
+Frank Oz,Harrison Ford,3,57.0
+Frank Oz,Ian McDiarmid,4,53.75
+Frank Oz,James Earl Jones,4,58.0
+Frank Oz,Jeremy Bulloch,3,50.0
+Frank Oz,Kenny Baker,6,55.83
+Frank Oz,Mark Hamill,3,57.0
+Frank Oz,Natalie Portman,3,54.67
+Frank Oz,Oliver Ford Davies,3,54.67
+Frank Oz,Peter Mayhew,4,58.0
+Frank Oz,Samuel L. Jackson,3,54.67
+Frank Oz,Silas Carson,3,54.67
+Gene Barry,Miranda Otto,3,87.0
+Gene Barry,Tom Cruise,3,87.0
+Ian McDiarmid,Kenny Baker,4,53.75
+Ian McDiarmid,Natalie Portman,3,54.67
+Ian McDiarmid,Oliver Ford Davies,3,54.67
+Ian McDiarmid,Samuel L. Jackson,3,54.67
+Ian McDiarmid,Silas Carson,3,54.67
+James Earl Jones,Jeremy Bulloch,3,50.0
+Jeremy Bulloch,Kenny Baker,3,50.0
+Jeremy Bulloch,Peter Mayhew,3,50.0
+Kenny Baker,Natalie Portman,3,54.67
+Kenny Baker,Oliver Ford Davies,3,54.67
+Kenny Baker,Samuel L. Jackson,4,53.0
+Kenny Baker,Silas Carson,3,54.67
+Miranda Otto,Tom Cruise,3,87.0
+Natalie Portman,Oliver Ford Davies,3,54.67
+Natalie Portman,Samuel L. Jackson,3,54.67
+Natalie Portman,Silas Carson,3,54.67
+Oliver Ford Davies,Samuel L. Jackson,3,54.67
+Oliver Ford Davies,Silas Carson,3,54.67
+Samuel L. Jackson,Silas Carson,3,54.67

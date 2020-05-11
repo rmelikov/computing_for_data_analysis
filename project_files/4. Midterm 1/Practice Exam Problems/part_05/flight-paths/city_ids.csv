@@ -1,3 +1,294 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5c1069e7c8cd93ae5c6986cec90c89d7348d97d786ba983a51e12568b821d80b
-size 6019
+City,id
+"Abilene, TX",0
+"Adak Island, AK",1
+"Aguadilla, PR",2
+"Albany, GA",3
+"Albany, NY",4
+"Albuquerque, NM",5
+"Alexandria, LA",6
+"Allentown, PA",7
+"Amarillo, TX",8
+"Anchorage, AK",9
+"Appleton, WI",10
+"Arcata/Eureka, CA",11
+"Asheville, NC",12
+"Aspen, CO",13
+"Atlanta, GA",14
+"Augusta, GA",15
+"Austin, TX",16
+"Avoca, PA",17
+"BWI Airport, MD",18
+"Bakersfield, CA",19
+"Bangor, ME",20
+"Barrow, AK",21
+"Baton Rouge, LA",22
+"Beaumont / Port Arthur, TX",23
+"Bellingham, WA",24
+"Bemidji, MN",25
+"Bethel, AK",26
+"Billings, MT",27
+"Binghamton, NY",28
+"Birmingham, AL",29
+"Bismarck, ND",30
+"Bloomington, IL",31
+"Blountville, TN",32
+"Boise, ID",33
+"Boston, MA",34
+"Bozeman, MT",35
+"Brownsville, TX",36
+"Brunswick, GA",37
+"Buffalo, NY",38
+"Burbank, CA",39
+"Butte, MT",40
+"Casper, WY",41
+"Cedar City, UT",42
+"Cedar Rapids, IA",43
+"Champaign, IL",44
+"Charleston, SC",45
+"Charleston, WV",46
+"Charlotte Amalie, VI",47
+"Charlotte, NC",48
+"Charlottesville, VA",49
+"Chattanooga, TN",50
+"Chicago, IL",51
+"Chico, CA",52
+"Christiansted, VI",53
+"Cincinnati, OH",54
+"Cleveland, OH",55
+"Cody, WY",56
+"College Station, TX",57
+"Colorado Springs, CO",58
+"Columbia, SC",59
+"Columbus, GA",60
+"Columbus, MS",61
+"Columbus, OH",62
+"Cordova, AK",63
+"Corpus Christi, TX",64
+"Crescent City, CA",65
+"Dallas, TX",66
+"Dayton, OH",67
+"Daytona Beach, FL",68
+"Deadhorse, AK",69
+"Denver, CO",70
+"Des Moines, IA",71
+"Detroit, MI",72
+"Dillingham, AK",73
+"Dothan, AL",74
+"Dubuque, IA",75
+"Duluth, MN",76
+"Durango, CO",77
+"Eagle, CO",78
+"Egg Harbor Township, NJ",79
+"El Paso, TX",80
+"Elko, NV",81
+"Elmira / Corning, NY",82
+"Erie, PA",83
+"Eugene, OR",84
+"Evansville, IN",85
+"Fairbanks, AK",86
+"Fargo, ND",87
+"Fayetteville / Springdale, AR",88
+"Fayetteville, NC",89
+"Flagstaff, AZ",90
+"Flint, MI",91
+"Florence, SC",92
+"Fort Hood / Killeen, TX",93
+"Fort Lauderdale, FL",94
+"Fort Myers, FL",95
+"Fort Smith, AR",96
+"Fort Wayne, IN",97
+"Fresno, CA",98
+"Gainesville, FL",99
+"Gillette, WY",100
+"Grand Forks, ND",101
+"Grand Junction, CO",102
+"Grand Rapids, MI",103
+"Great Falls, MT",104
+"Green Bay, WI",105
+"Greensboro, NC",106
+"Greenville, SC",107
+"Gulfport, MS",108
+"Gunnison, CO",109
+"Gustavus, AK",110
+"Hailey, ID",111
+"Hancock, MI",112
+"Harlingen, TX",113
+"Harrisburg, PA",114
+"Hayden, CO",115
+"Helena, MT",116
+"Hilo, HI",117
+"Honolulu, HI",118
+"Houston, TX",119
+"Huntington, WV",120
+"Huntsville, AL",121
+"Idaho Falls, ID",122
+"Imperial, CA",123
+"Indianapolis, IN",124
+"International Falls, MN",125
+"Inyokern, CA",126
+"Islip, NY",127
+"Ithaca, NY",128
+"Jackson, MS",129
+"Jackson, WY",130
+"Jacksonville, FL",131
+"Jacksonville, NC",132
+"Juneau, AK",133
+"Kahului, HI",134
+"Kalamazoo, MI",135
+"Kansas City, MO",136
+"Keahole, HI",137
+"Ketchikan, AK",138
+"Key West, FL",139
+"King Salmon, AK",140
+"Klamath Falls, OR",141
+"Knoxville, TN",142
+"Kodiak, AK",143
+"Kotzebue, AK",144
+"La Crosse, WI",145
+"Lafayette, LA",146
+"Lake Charles, LA",147
+"Lansing, MI",148
+"Laredo, TX",149
+"Las Vegas, NV",150
+"Lawton, OK",151
+"Lewisburg, WV",152
+"Lewiston, ID",153
+"Lexington, KY",154
+"Lihue, HI",155
+"Lincoln, NE",156
+"Little Rock, AR",157
+"Long Beach, CA",158
+"Longview, TX",159
+"Los Angeles, CA",160
+"Louisville, KY",161
+"Lubbock, TX",162
+"Lynchburg, VA",163
+"Macon, GA",164
+"Madison, WI",165
+"Manchester, NH",166
+"Mcallen, TX",167
+"Medford, OR",168
+"Melbourne, FL",169
+"Memphis, TN",170
+"Meridian, MS",171
+"Miami, FL",172
+"Midland, TX",173
+"Milwaukee, WI",174
+"Minneapolis, MN",175
+"Minot, ND",176
+"Missoula, MT",177
+"Mobile, AL",178
+"Modesto, CA",179
+"Moline, IL",180
+"Monroe, LA",181
+"Monterey, CA",182
+"Montgomery, AL",183
+"Montrose, CO",184
+"Mosinee, WI",185
+"Muskegon, MI",186
+"Myrtle Beach, SC",187
+"Nantucket, MA",188
+"Nashville, TN",189
+"New Bern, NC",190
+"New Orleans, LA",191
+"New York, NY",192
+"Newark, NJ",193
+"Newburgh, NY",194
+"Newport News, VA",195
+"Nome, AK",196
+"Norfolk, VA",197
+"North Bend, OR",198
+"North Canton, OH",199
+"Oakland, CA",200
+"Oklahoma City, OK",201
+"Omaha, NE",202
+"Ontario, CA",203
+"Orange County, CA",204
+"Orlando, FL",205
+"Oxnard, CA",206
+"Palm Springs, CA",207
+"Palmdale, CA",208
+"Panama City, FL",209
+"Pasco, WA",210
+"Pellston, MI",211
+"Pensacola, FL",212
+"Peoria, IL",213
+"Petersburg, AK",214
+"Philadelphia, PA",215
+"Phoenix, AZ",216
+"Pierre, SD",217
+"Pittsburgh, PA",218
+"Pocatello, ID",219
+"Ponce, PR",220
+"Portland, ME",221
+"Portland, OR",222
+"Providence, RI",223
+"Pueblo, CO",224
+"Rapid City, SD",225
+"Rdu Airport, NC",226
+"Redding, CA",227
+"Redmond, OR",228
+"Reno, NV",229
+"Rhinelander, WI",230
+"Richmond, VA",231
+"Roanoke, VA",232
+"Rochester, MN",233
+"Rochester, NY",234
+"Rock Springs, WY",235
+"Rockford, IL",236
+"Roswell, NM",237
+"Sacramento, CA",238
+"Saginaw, MI",239
+"Saint Louis, MO",240
+"Salem, OR",241
+"Salt Lake City, UT",242
+"San Angelo, TX",243
+"San Antonio, TX",244
+"San Diego, CA",245
+"San Francisco, CA",246
+"San Jose, CA",247
+"San Juan, PR",248
+"San Luis Obispo, CA",249
+"Santa Barbara, CA",250
+"Santa Maria, CA",251
+"Sarasota, FL",252
+"Savannah, GA",253
+"Seattle, WA",254
+"Shreveport, LA",255
+"Sioux City, IA",256
+"Sioux Falls, SD",257
+"Sitka, AK",258
+"South Bend, IN",259
+"South Burlington, VT",260
+"Spokane, WA",261
+"Springfield, IL",262
+"Springfield, MO",263
+"St George, UT",264
+"Syracuse, NY",265
+"Tallahassee, FL",266
+"Tampa, FL",267
+"Telluride, CO",268
+"Texarkana, AR",269
+"Toledo, OH",270
+"Traverse City, MI",271
+"Tucson, AZ",272
+"Tulsa, OK",273
+"Tupelo, MS",274
+"Twin Falls, ID",275
+"Tyler, TX",276
+"Valdosta, GA",277
+"Valparaiso, FL",278
+"Waco, TX",279
+"Washington, DC",280
+"Waterloo, IA",281
+"West Palm Beach, FL",282
+"West Yellowstone, MT",283
+"White Plains, NY",284
+"Wichita Falls, TX",285
+"Wichita, KS",286
+"Wilmington, NC",287
+"Windsor Locks, CT",288
+"Wrangell, AK",289
+"Yakima, WA",290
+"Yakutat, AK",291
+"Yuma, AZ",292

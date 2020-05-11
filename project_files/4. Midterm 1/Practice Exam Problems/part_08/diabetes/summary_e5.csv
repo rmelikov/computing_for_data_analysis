@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:19a5a84ac67f0ddd2b3b7a9fd2508879dbc19689fa37acba724b0c291ce99594
-size 350
+treatment_type,hba1c,glucose,creatinine
+Glipizide,-0.2273,-0.0484,-0.25
+Glipizide-Insulin,-0.0982,0.2528,0.1066
+Insulin,0.058,0.4097,0.1173
+Metformin,1.1241,0.0809,0.0331
+Metformin-Glipizide,-0.0508,-0.158,-0.0112
+Metformin-Glipizide-Insulin,-0.0514,0.1578,0.0669
+Metformin-Insulin,-0.1369,-0.0394,0.0822
+No Treatment,-0.0164,-0.0733,0.0076

@@ -1,3 +1,4610 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:35c66d7a7a41ece7dee72909e11de3bbea83368073f7d849fb9fdef4caf6c1d8
-size 180027
+origin_city,destination_city,average_time
+"Abilene, TX","Dallas, TX",59.84
+"Adak Island, AK","Anchorage, AK",220.04
+"Aguadilla, PR","New York, NY",200.63
+"Aguadilla, PR","Newark, NJ",220.54
+"Aguadilla, PR","Orlando, FL",143.21
+"Albany, GA","Atlanta, GA",56.72
+"Albany, NY","Atlanta, GA",157.16
+"Albany, NY","BWI Airport, MD",71.3
+"Albany, NY","Charlotte, NC",128.14
+"Albany, NY","Chicago, IL",86.27
+"Albany, NY","Cincinnati, OH",128.32
+"Albany, NY","Cleveland, OH",94.46
+"Albany, NY","Detroit, MI",114.65
+"Albany, NY","Las Vegas, NV",149.19
+"Albany, NY","Minneapolis, MN",117.0
+"Albany, NY","New York, NY",78.67
+"Albany, NY","Newark, NJ",76.92
+"Albany, NY","Orlando, FL",175.72
+"Albany, NY","Philadelphia, PA",85.12
+"Albany, NY","Tampa, FL",186.86
+"Albany, NY","Washington, DC",85.0
+"Albuquerque, NM","Amarillo, TX",113.48
+"Albuquerque, NM","Atlanta, GA",296.28
+"Albuquerque, NM","Austin, TX",162.15
+"Albuquerque, NM","BWI Airport, MD",334.78
+"Albuquerque, NM","Chicago, IL",222.09
+"Albuquerque, NM","Cincinnati, OH",289.12
+"Albuquerque, NM","Cleveland, OH",302.0
+"Albuquerque, NM","Dallas, TX",155.5
+"Albuquerque, NM","Denver, CO",74.14
+"Albuquerque, NM","El Paso, TX",50.04
+"Albuquerque, NM","Houston, TX",183.8
+"Albuquerque, NM","Kansas City, MO",165.22
+"Albuquerque, NM","Las Vegas, NV",32.39
+"Albuquerque, NM","Los Angeles, CA",60.97
+"Albuquerque, NM","Lubbock, TX",113.2
+"Albuquerque, NM","Midland, TX",117.92
+"Albuquerque, NM","Minneapolis, MN",211.6
+"Albuquerque, NM","Newark, NJ",358.86
+"Albuquerque, NM","Oakland, CA",87.44
+"Albuquerque, NM","Oklahoma City, OK",142.52
+"Albuquerque, NM","Ontario, CA",52.54
+"Albuquerque, NM","Orlando, FL",320.85
+"Albuquerque, NM","Phoenix, AZ",36.59
+"Albuquerque, NM","Portland, OR",110.82
+"Albuquerque, NM","Sacramento, CA",98.74
+"Albuquerque, NM","Saint Louis, MO",185.37
+"Albuquerque, NM","Salt Lake City, UT",94.41
+"Albuquerque, NM","San Antonio, TX",153.9
+"Albuquerque, NM","San Diego, CA",47.9
+"Albuquerque, NM","San Francisco, CA",97.22
+"Albuquerque, NM","Seattle, WA",120.7
+"Albuquerque, NM","Tampa, FL",308.88
+"Albuquerque, NM","Tucson, AZ",25.64
+"Albuquerque, NM","Tulsa, OK",153.2
+"Albuquerque, NM","Washington, DC",325.79
+"Alexandria, LA","Atlanta, GA",162.06
+"Alexandria, LA","Dallas, TX",101.14
+"Alexandria, LA","Houston, TX",69.96
+"Allentown, PA","Atlanta, GA",131.95
+"Allentown, PA","Birmingham, AL",76.0
+"Allentown, PA","Charlotte, NC",101.29
+"Allentown, PA","Chicago, IL",75.93
+"Allentown, PA","Cincinnati, OH",108.5
+"Allentown, PA","Cleveland, OH",79.32
+"Allentown, PA","Detroit, MI",112.94
+"Allentown, PA","New York, NY",57.75
+"Allentown, PA","Philadelphia, PA",55.0
+"Amarillo, TX","Albuquerque, NM",5.33
+"Amarillo, TX","Dallas, TX",65.08
+"Amarillo, TX","Denver, CO",11.28
+"Amarillo, TX","Houston, TX",103.42
+"Amarillo, TX","Las Vegas, NV",11.83
+"Amarillo, TX","Tulsa, OK",56.0
+"Anchorage, AK","Adak Island, AK",130.1
+"Anchorage, AK","Bethel, AK",77.81
+"Anchorage, AK","Chicago, IL",542.0
+"Anchorage, AK","Cordova, AK",50.79
+"Anchorage, AK","Deadhorse, AK",102.48
+"Anchorage, AK","Denver, CO",432.67
+"Anchorage, AK","Fairbanks, AK",57.47
+"Anchorage, AK","Honolulu, HI",280.1
+"Anchorage, AK","Juneau, AK",99.91
+"Anchorage, AK","King Salmon, AK",62.11
+"Anchorage, AK","Kodiak, AK",61.6
+"Anchorage, AK","Kotzebue, AK",93.96
+"Anchorage, AK","Las Vegas, NV",353.49
+"Anchorage, AK","Los Angeles, CA",365.8
+"Anchorage, AK","Minneapolis, MN",498.47
+"Anchorage, AK","Nome, AK",95.0
+"Anchorage, AK","Phoenix, AZ",406.71
+"Anchorage, AK","Portland, OR",261.15
+"Anchorage, AK","Salt Lake City, UT",381.74
+"Anchorage, AK","San Francisco, CA",338.62
+"Anchorage, AK","Seattle, WA",253.91
+"Appleton, WI","Atlanta, GA",194.88
+"Appleton, WI","Chicago, IL",62.24
+"Appleton, WI","Cincinnati, OH",151.17
+"Appleton, WI","Des Moines, IA",75.0
+"Appleton, WI","Detroit, MI",144.88
+"Appleton, WI","Milwaukee, WI",40.47
+"Appleton, WI","Minneapolis, MN",77.62
+"Arcata/Eureka, CA","Crescent City, CA",36.0
+"Arcata/Eureka, CA","Sacramento, CA",59.05
+"Arcata/Eureka, CA","Salt Lake City, UT",161.35
+"Arcata/Eureka, CA","San Francisco, CA",79.6
+"Asheville, NC","Atlanta, GA",67.64
+"Asheville, NC","Cincinnati, OH",67.5
+"Asheville, NC","Detroit, MI",105.65
+"Asheville, NC","Houston, TX",92.3
+"Asheville, NC","Minneapolis, MN",99.24
+"Asheville, NC","Newark, NJ",122.51
+"Asheville, NC","Orlando, FL",107.14
+"Aspen, CO","Atlanta, GA",320.0
+"Aspen, CO","Chicago, IL",222.21
+"Aspen, CO","Denver, CO",54.83
+"Aspen, CO","Los Angeles, CA",74.93
+"Aspen, CO","Phoenix, AZ",106.46
+"Aspen, CO","Salt Lake City, UT",77.44
+"Aspen, CO","San Francisco, CA",84.29
+"Atlanta, GA","Albany, GA",54.35
+"Atlanta, GA","Albany, NY",134.25
+"Atlanta, GA","Albuquerque, NM",92.58
+"Atlanta, GA","Alexandria, LA",40.79
+"Atlanta, GA","Allentown, PA",115.33
+"Atlanta, GA","Anchorage, AK",208.77
+"Atlanta, GA","Appleton, WI",71.21
+"Atlanta, GA","Asheville, NC",58.57
+"Atlanta, GA","Aspen, CO",93.5
+"Atlanta, GA","Augusta, GA",56.42
+"Atlanta, GA","Austin, TX",89.46
+"Atlanta, GA","Avoca, PA",119.56
+"Atlanta, GA","BWI Airport, MD",107.69
+"Atlanta, GA","Bangor, ME",159.11
+"Atlanta, GA","Baton Rouge, LA",35.81
+"Atlanta, GA","Birmingham, AL",13.77
+"Atlanta, GA","Bloomington, IL",43.37
+"Atlanta, GA","Blountville, TN",68.07
+"Atlanta, GA","Boise, ID",161.8
+"Atlanta, GA","Boston, MA",151.39
+"Atlanta, GA","Bozeman, MT",141.83
+"Atlanta, GA","Brunswick, GA",67.5
+"Atlanta, GA","Buffalo, NY",118.23
+"Atlanta, GA","Cedar Rapids, IA",66.51
+"Atlanta, GA","Charleston, SC",70.23
+"Atlanta, GA","Charleston, WV",77.75
+"Atlanta, GA","Charlotte Amalie, VI",237.45
+"Atlanta, GA","Charlotte, NC",76.48
+"Atlanta, GA","Charlottesville, VA",88.03
+"Atlanta, GA","Chattanooga, TN",48.92
+"Atlanta, GA","Chicago, IL",68.87
+"Atlanta, GA","Christiansted, VI",240.39
+"Atlanta, GA","Cincinnati, OH",88.3
+"Atlanta, GA","Cleveland, OH",106.86
+"Atlanta, GA","Colorado Springs, CO",76.62
+"Atlanta, GA","Columbia, SC",60.02
+"Atlanta, GA","Columbus, GA",46.55
+"Atlanta, GA","Columbus, MS",11.01
+"Atlanta, GA","Columbus, OH",92.47
+"Atlanta, GA","Corpus Christi, TX",84.33
+"Atlanta, GA","Dallas, TX",86.05
+"Atlanta, GA","Dayton, OH",90.11
+"Atlanta, GA","Daytona Beach, FL",78.41
+"Atlanta, GA","Denver, CO",83.26
+"Atlanta, GA","Des Moines, IA",73.5
+"Atlanta, GA","Detroit, MI",117.66
+"Atlanta, GA","Dothan, AL",14.95
+"Atlanta, GA","Eagle, CO",113.61
+"Atlanta, GA","Egg Harbor Township, NJ",113.43
+"Atlanta, GA","El Paso, TX",97.91
+"Atlanta, GA","Evansville, IN",18.74
+"Atlanta, GA","Fayetteville / Springdale, AR",53.86
+"Atlanta, GA","Fayetteville, NC",74.75
+"Atlanta, GA","Flint, MI",112.63
+"Atlanta, GA","Florence, SC",65.83
+"Atlanta, GA","Fort Hood / Killeen, TX",85.35
+"Atlanta, GA","Fort Lauderdale, FL",111.39
+"Atlanta, GA","Fort Myers, FL",99.01
+"Atlanta, GA","Fort Smith, AR",52.41
+"Atlanta, GA","Fort Wayne, IN",99.16
+"Atlanta, GA","Gainesville, FL",81.82
+"Atlanta, GA","Grand Rapids, MI",113.52
+"Atlanta, GA","Green Bay, WI",69.32
+"Atlanta, GA","Greensboro, NC",75.52
+"Atlanta, GA","Greenville, SC",55.47
+"Atlanta, GA","Gulfport, MS",23.33
+"Atlanta, GA","Harrisburg, PA",108.97
+"Atlanta, GA","Hayden, CO",106.96
+"Atlanta, GA","Honolulu, HI",262.9
+"Atlanta, GA","Houston, TX",77.97
+"Atlanta, GA","Huntsville, AL",12.51
+"Atlanta, GA","Indianapolis, IN",95.1
+"Atlanta, GA","Islip, NY",130.16
+"Atlanta, GA","Jackson, MS",22.57
+"Atlanta, GA","Jackson, WY",123.7
+"Atlanta, GA","Jacksonville, FL",67.43
+"Atlanta, GA","Jacksonville, NC",82.64
+"Atlanta, GA","Kansas City, MO",73.26
+"Atlanta, GA","Key West, FL",109.27
+"Atlanta, GA","Knoxville, TN",52.59
+"Atlanta, GA","Lafayette, LA",44.65
+"Atlanta, GA","Las Vegas, NV",95.93
+"Atlanta, GA","Lawton, OK",85.38
+"Atlanta, GA","Lewisburg, WV",81.57
+"Atlanta, GA","Lexington, KY",75.33
+"Atlanta, GA","Little Rock, AR",36.75
+"Atlanta, GA","Los Angeles, CA",118.35
+"Atlanta, GA","Louisville, KY",80.14
+"Atlanta, GA","Lynchburg, VA",81.31
+"Atlanta, GA","Macon, GA",45.98
+"Atlanta, GA","Madison, WI",63.39
+"Atlanta, GA","Manchester, NH",146.18
+"Atlanta, GA","Mcallen, TX",101.8
+"Atlanta, GA","Melbourne, FL",88.74
+"Atlanta, GA","Memphis, TN",25.27
+"Atlanta, GA","Meridian, MS",12.33
+"Atlanta, GA","Miami, FL",112.0
+"Atlanta, GA","Milwaukee, WI",61.3
+"Atlanta, GA","Minneapolis, MN",99.91
+"Atlanta, GA","Mobile, AL",16.71
+"Atlanta, GA","Moline, IL",56.53
+"Atlanta, GA","Monroe, LA",33.97
+"Atlanta, GA","Montgomery, AL",11.55
+"Atlanta, GA","Montrose, CO",115.0
+"Atlanta, GA","Myrtle Beach, SC",94.52
+"Atlanta, GA","Nashville, TN",11.45
+"Atlanta, GA","New Bern, NC",85.43
+"Atlanta, GA","New Orleans, LA",34.55
+"Atlanta, GA","New York, NY",139.94
+"Atlanta, GA","Newark, NJ",141.75
+"Atlanta, GA","Newburgh, NY",137.94
+"Atlanta, GA","Newport News, VA",94.64
+"Atlanta, GA","Norfolk, VA",95.37
+"Atlanta, GA","North Canton, OH",96.3
+"Atlanta, GA","Oakland, CA",142.89
+"Atlanta, GA","Oklahoma City, OK",77.22
+"Atlanta, GA","Omaha, NE",86.19
+"Atlanta, GA","Ontario, CA",105.28
+"Atlanta, GA","Orange County, CA",112.62
+"Atlanta, GA","Orlando, FL",88.95
+"Atlanta, GA","Panama City, FL",22.29
+"Atlanta, GA","Pensacola, FL",13.51
+"Atlanta, GA","Peoria, IL",46.4
+"Atlanta, GA","Philadelphia, PA",125.35
+"Atlanta, GA","Phoenix, AZ",98.51
+"Atlanta, GA","Pittsburgh, PA",100.65
+"Atlanta, GA","Portland, ME",150.62
+"Atlanta, GA","Portland, OR",137.35
+"Atlanta, GA","Providence, RI",138.74
+"Atlanta, GA","Rdu Airport, NC",81.31
+"Atlanta, GA","Reno, NV",118.67
+"Atlanta, GA","Richmond, VA",91.45
+"Atlanta, GA","Roanoke, VA",82.22
+"Atlanta, GA","Rochester, NY",120.57
+"Atlanta, GA","Sacramento, CA",132.15
+"Atlanta, GA","Saint Louis, MO",43.01
+"Atlanta, GA","Salt Lake City, UT",130.53
+"Atlanta, GA","San Antonio, TX",94.56
+"Atlanta, GA","San Diego, CA",107.32
+"Atlanta, GA","San Francisco, CA",144.21
+"Atlanta, GA","San Jose, CA",140.98
+"Atlanta, GA","San Juan, PR",236.44
+"Atlanta, GA","Sarasota, FL",89.67
+"Atlanta, GA","Savannah, GA",63.42
+"Atlanta, GA","Seattle, WA",144.44
+"Atlanta, GA","Shreveport, LA",49.37
+"Atlanta, GA","Sioux Falls, SD",101.1
+"Atlanta, GA","South Bend, IN",107.56
+"Atlanta, GA","South Burlington, VT",139.71
+"Atlanta, GA","Springfield, MO",54.03
+"Atlanta, GA","Syracuse, NY",125.77
+"Atlanta, GA","Tallahassee, FL",64.81
+"Atlanta, GA","Tampa, FL",86.49
+"Atlanta, GA","Toledo, OH",97.29
+"Atlanta, GA","Tucson, AZ",86.39
+"Atlanta, GA","Tulsa, OK",68.23
+"Atlanta, GA","Tupelo, MS",8.0
+"Atlanta, GA","Valdosta, GA",63.02
+"Atlanta, GA","Valparaiso, FL",17.73
+"Atlanta, GA","Washington, DC",104.09
+"Atlanta, GA","West Palm Beach, FL",103.31
+"Atlanta, GA","White Plains, NY",138.92
+"Atlanta, GA","Wichita, KS",81.14
+"Atlanta, GA","Wilmington, NC",79.36
+"Atlanta, GA","Windsor Locks, CT",138.32
+"Augusta, GA","Atlanta, GA",62.74
+"Augusta, GA","Charlotte, NC",63.2
+"Augusta, GA","New York, NY",139.0
+"Austin, TX","Albuquerque, NM",54.21
+"Austin, TX","Atlanta, GA",190.91
+"Austin, TX","BWI Airport, MD",236.62
+"Austin, TX","Boston, MA",285.15
+"Austin, TX","Charlotte, NC",218.12
+"Austin, TX","Chicago, IL",157.48
+"Austin, TX","Cincinnati, OH",209.73
+"Austin, TX","Cleveland, OH",229.04
+"Austin, TX","Dallas, TX",58.4
+"Austin, TX","Denver, CO",71.58
+"Austin, TX","Des Moines, IA",121.0
+"Austin, TX","El Paso, TX",31.4
+"Austin, TX","Fort Lauderdale, FL",217.56
+"Austin, TX","Harlingen, TX",58.51
+"Austin, TX","Houston, TX",56.79
+"Austin, TX","Indianapolis, IN",207.36
+"Austin, TX","Jacksonville, FL",198.16
+"Austin, TX","Kansas City, MO",108.6
+"Austin, TX","Las Vegas, NV",55.36
+"Austin, TX","Long Beach, CA",72.67
+"Austin, TX","Los Angeles, CA",74.43
+"Austin, TX","Lubbock, TX",67.34
+"Austin, TX","Memphis, TN",105.98
+"Austin, TX","Midland, TX",62.7
+"Austin, TX","Minneapolis, MN",165.73
+"Austin, TX","Nashville, TN",110.62
+"Austin, TX","New Orleans, LA",78.53
+"Austin, TX","New York, NY",284.87
+"Austin, TX","Newark, NJ",287.1
+"Austin, TX","Oakland, CA",105.86
+"Austin, TX","Oklahoma City, OK",70.74
+"Austin, TX","Ontario, CA",69.54
+"Austin, TX","Orange County, CA",72.0
+"Austin, TX","Orlando, FL",203.33
+"Austin, TX","Philadelphia, PA",265.11
+"Austin, TX","Phoenix, AZ",48.23
+"Austin, TX","Rdu Airport, NC",217.72
+"Austin, TX","Saint Louis, MO",114.2
+"Austin, TX","Salt Lake City, UT",119.52
+"Austin, TX","San Diego, CA",60.48
+"Austin, TX","San Francisco, CA",117.92
+"Austin, TX","San Jose, CA",103.04
+"Austin, TX","Seattle, WA",146.79
+"Austin, TX","Tampa, FL",190.62
+"Austin, TX","Tucson, AZ",34.23
+"Austin, TX","Tulsa, OK",76.77
+"Austin, TX","Washington, DC",246.92
+"Avoca, PA","Atlanta, GA",141.41
+"Avoca, PA","Chicago, IL",76.87
+"Avoca, PA","Cincinnati, OH",106.67
+"Avoca, PA","Detroit, MI",107.47
+"Avoca, PA","New York, NY",55.5
+"BWI Airport, MD","Albany, NY",65.86
+"BWI Airport, MD","Albuquerque, NM",135.29
+"BWI Airport, MD","Atlanta, GA",118.01
+"BWI Airport, MD","Austin, TX",152.8
+"BWI Airport, MD","Birmingham, AL",59.55
+"BWI Airport, MD","Boston, MA",90.36
+"BWI Airport, MD","Buffalo, NY",63.32
+"BWI Airport, MD","Charlotte, NC",88.77
+"BWI Airport, MD","Chicago, IL",69.18
+"BWI Airport, MD","Cincinnati, OH",102.54
+"BWI Airport, MD","Cleveland, OH",74.38
+"BWI Airport, MD","Columbus, OH",73.49
+"BWI Airport, MD","Dallas, TX",143.22
+"BWI Airport, MD","Dayton, OH",87.07
+"BWI Airport, MD","Daytona Beach, FL",123.7
+"BWI Airport, MD","Denver, CO",119.83
+"BWI Airport, MD","Detroit, MI",92.72
+"BWI Airport, MD","Fort Lauderdale, FL",149.34
+"BWI Airport, MD","Fort Myers, FL",157.66
+"BWI Airport, MD","Houston, TX",146.0
+"BWI Airport, MD","Indianapolis, IN",106.15
+"BWI Airport, MD","Islip, NY",57.97
+"BWI Airport, MD","Jackson, MS",89.76
+"BWI Airport, MD","Jacksonville, FL",117.11
+"BWI Airport, MD","Kansas City, MO",104.1
+"BWI Airport, MD","Las Vegas, NV",135.57
+"BWI Airport, MD","Little Rock, AR",89.84
+"BWI Airport, MD","Los Angeles, CA",162.43
+"BWI Airport, MD","Louisville, KY",100.97
+"BWI Airport, MD","Manchester, NH",75.1
+"BWI Airport, MD","Memphis, TN",94.14
+"BWI Airport, MD","Miami, FL",156.72
+"BWI Airport, MD","Milwaukee, WI",61.0
+"BWI Airport, MD","Minneapolis, MN",106.57
+"BWI Airport, MD","Nashville, TN",50.88
+"BWI Airport, MD","New Orleans, LA",107.06
+"BWI Airport, MD","New York, NY",80.69
+"BWI Airport, MD","Newark, NJ",77.29
+"BWI Airport, MD","Norfolk, VA",46.35
+"BWI Airport, MD","Oklahoma City, OK",130.57
+"BWI Airport, MD","Orlando, FL",135.8
+"BWI Airport, MD","Philadelphia, PA",58.32
+"BWI Airport, MD","Phoenix, AZ",149.73
+"BWI Airport, MD","Pittsburgh, PA",56.78
+"BWI Airport, MD","Portland, ME",82.7
+"BWI Airport, MD","Providence, RI",66.87
+"BWI Airport, MD","Rdu Airport, NC",62.77
+"BWI Airport, MD","Rochester, NY",68.64
+"BWI Airport, MD","Saint Louis, MO",71.63
+"BWI Airport, MD","Salt Lake City, UT",163.11
+"BWI Airport, MD","San Antonio, TX",162.61
+"BWI Airport, MD","San Diego, CA",158.37
+"BWI Airport, MD","San Francisco, CA",187.54
+"BWI Airport, MD","San Juan, PR",254.6
+"BWI Airport, MD","Sarasota, FL",149.72
+"BWI Airport, MD","Seattle, WA",158.97
+"BWI Airport, MD","South Burlington, VT",82.3
+"BWI Airport, MD","Tampa, FL",143.5
+"BWI Airport, MD","West Palm Beach, FL",143.53
+"BWI Airport, MD","Windsor Locks, CT",64.48
+"Bakersfield, CA","Denver, CO",194.78
+"Bakersfield, CA","Las Vegas, NV",64.9
+"Bakersfield, CA","Los Angeles, CA",51.72
+"Bakersfield, CA","Phoenix, AZ",108.04
+"Bakersfield, CA","Sacramento, CA",67.8
+"Bakersfield, CA","Salt Lake City, UT",164.52
+"Bakersfield, CA","San Diego, CA",54.0
+"Bakersfield, CA","San Francisco, CA",76.86
+"Bangor, ME","Atlanta, GA",183.71
+"Bangor, ME","Boston, MA",75.47
+"Bangor, ME","Cincinnati, OH",166.93
+"Bangor, ME","Detroit, MI",151.27
+"Bangor, ME","Minneapolis, MN",136.5
+"Bangor, ME","New York, NY",103.0
+"Bangor, ME","Newark, NJ",122.75
+"Bangor, ME","South Burlington, VT",58.0
+"Barrow, AK","Anchorage, AK",110.13
+"Barrow, AK","Fairbanks, AK",78.51
+"Baton Rouge, LA","Atlanta, GA",151.51
+"Baton Rouge, LA","Chicago, IL",154.45
+"Baton Rouge, LA","Dallas, TX",88.87
+"Baton Rouge, LA","Denver, CO",106.0
+"Baton Rouge, LA","Houston, TX",74.97
+"Baton Rouge, LA","Memphis, TN",79.15
+"Baton Rouge, LA","Washington, DC",203.45
+"Beaumont / Port Arthur, TX","Houston, TX",38.85
+"Bellingham, WA","Salt Lake City, UT",183.5
+"Bemidji, MN","Minneapolis, MN",75.0
+"Bethel, AK","Anchorage, AK",66.68
+"Billings, MT","Chicago, IL",226.06
+"Billings, MT","Denver, CO",85.34
+"Billings, MT","Minneapolis, MN",178.0
+"Billings, MT","Salt Lake City, UT",80.39
+"Binghamton, NY","Detroit, MI",95.86
+"Birmingham, AL","Atlanta, GA",122.59
+"Birmingham, AL","Austin, TX",125.0
+"Birmingham, AL","BWI Airport, MD",168.49
+"Birmingham, AL","Charlotte, NC",138.72
+"Birmingham, AL","Chicago, IL",128.94
+"Birmingham, AL","Cincinnati, OH",149.1
+"Birmingham, AL","Cleveland, OH",166.16
+"Birmingham, AL","Dallas, TX",115.09
+"Birmingham, AL","Denver, CO",121.17
+"Birmingham, AL","Detroit, MI",185.79
+"Birmingham, AL","Houston, TX",115.35
+"Birmingham, AL","Huntsville, AL",45.0
+"Birmingham, AL","Jacksonville, FL",128.62
+"Birmingham, AL","Las Vegas, NV",128.76
+"Birmingham, AL","Louisville, KY",123.45
+"Birmingham, AL","Memphis, TN",72.21
+"Birmingham, AL","Nashville, TN",51.85
+"Birmingham, AL","New Orleans, LA",65.05
+"Birmingham, AL","New York, NY",218.91
+"Birmingham, AL","Newark, NJ",217.02
+"Birmingham, AL","Orlando, FL",147.45
+"Birmingham, AL","Phoenix, AZ",133.63
+"Birmingham, AL","Rdu Airport, NC",144.32
+"Birmingham, AL","Saint Louis, MO",79.1
+"Birmingham, AL","Salt Lake City, UT",182.75
+"Birmingham, AL","Tampa, FL",138.68
+"Birmingham, AL","Washington, DC",176.44
+"Bismarck, ND","Denver, CO",37.46
+"Bismarck, ND","Minneapolis, MN",82.83
+"Bloomington, IL","Atlanta, GA",166.27
+"Bloomington, IL","Chicago, IL",60.34
+"Bloomington, IL","Las Vegas, NV",105.0
+"Bloomington, IL","Orlando, FL",196.6
+"Blountville, TN","Atlanta, GA",74.72
+"Blountville, TN","Cincinnati, OH",59.4
+"Boise, ID","Chicago, IL",262.54
+"Boise, ID","Denver, CO",105.98
+"Boise, ID","Las Vegas, NV",36.65
+"Boise, ID","Los Angeles, CA",68.21
+"Boise, ID","Minneapolis, MN",224.8
+"Boise, ID","Oakland, CA",36.32
+"Boise, ID","Ontario, CA",57.56
+"Boise, ID","Phoenix, AZ",72.76
+"Boise, ID","Pittsburgh, PA",338.0
+"Boise, ID","Portland, OR",9.52
+"Boise, ID","Reno, NV",5.8
+"Boise, ID","Salt Lake City, UT",63.52
+"Boise, ID","San Diego, CA",69.89
+"Boise, ID","San Francisco, CA",48.6
+"Boise, ID","Seattle, WA",21.66
+"Boise, ID","Spokane, WA",4.15
+"Boston, MA","Atlanta, GA",173.98
+"Boston, MA","Austin, TX",225.06
+"Boston, MA","BWI Airport, MD",96.84
+"Boston, MA","Bangor, ME",65.91
+"Boston, MA","Buffalo, NY",92.64
+"Boston, MA","Charleston, SC",166.42
+"Boston, MA","Charlotte Amalie, VI",268.58
+"Boston, MA","Charlotte, NC",142.65
+"Boston, MA","Chicago, IL",110.69
+"Boston, MA","Cincinnati, OH",147.7
+"Boston, MA","Cleveland, OH",122.62
+"Boston, MA","Columbus, OH",132.27
+"Boston, MA","Dallas, TX",197.45
+"Boston, MA","Denver, CO",156.93
+"Boston, MA","Detroit, MI",135.22
+"Boston, MA","Fort Lauderdale, FL",205.59
+"Boston, MA","Fort Myers, FL",215.18
+"Boston, MA","Greensboro, NC",137.56
+"Boston, MA","Houston, TX",205.71
+"Boston, MA","Indianapolis, IN",171.06
+"Boston, MA","Jacksonville, FL",188.65
+"Boston, MA","Las Vegas, NV",175.74
+"Boston, MA","Long Beach, CA",209.33
+"Boston, MA","Los Angeles, CA",204.27
+"Boston, MA","Louisville, KY",173.15
+"Boston, MA","Memphis, TN",149.12
+"Boston, MA","Miami, FL",199.87
+"Boston, MA","Milwaukee, WI",91.85
+"Boston, MA","Minneapolis, MN",135.11
+"Boston, MA","Myrtle Beach, SC",134.0
+"Boston, MA","Nashville, TN",145.0
+"Boston, MA","New Orleans, LA",179.5
+"Boston, MA","New York, NY",83.82
+"Boston, MA","Newark, NJ",103.23
+"Boston, MA","Newport News, VA",98.16
+"Boston, MA","Norfolk, VA",111.37
+"Boston, MA","North Canton, OH",112.07
+"Boston, MA","Oakland, CA",213.63
+"Boston, MA","Orlando, FL",193.09
+"Boston, MA","Philadelphia, PA",99.57
+"Boston, MA","Phoenix, AZ",194.88
+"Boston, MA","Pittsburgh, PA",109.76
+"Boston, MA","Portland, OR",192.04
+"Boston, MA","Rdu Airport, NC",125.42
+"Boston, MA","Richmond, VA",103.89
+"Boston, MA","Saint Louis, MO",122.46
+"Boston, MA","Salt Lake City, UT",204.51
+"Boston, MA","San Diego, CA",199.53
+"Boston, MA","San Francisco, CA",214.11
+"Boston, MA","San Jose, CA",211.61
+"Boston, MA","San Juan, PR",263.11
+"Boston, MA","Sarasota, FL",219.5
+"Boston, MA","Savannah, GA",173.95
+"Boston, MA","Seattle, WA",184.99
+"Boston, MA","Tampa, FL",200.81
+"Boston, MA","Washington, DC",101.53
+"Boston, MA","West Palm Beach, FL",198.49
+"Bozeman, MT","Atlanta, GA",339.29
+"Bozeman, MT","Chicago, IL",240.04
+"Bozeman, MT","Denver, CO",100.09
+"Bozeman, MT","Detroit, MI",309.0
+"Bozeman, MT","Minneapolis, MN",206.82
+"Bozeman, MT","Salt Lake City, UT",77.98
+"Bozeman, MT","San Francisco, CA",109.3
+"Brownsville, TX","Houston, TX",81.05
+"Brunswick, GA","Atlanta, GA",67.48
+"Buffalo, NY","Atlanta, GA",133.1
+"Buffalo, NY","BWI Airport, MD",65.04
+"Buffalo, NY","Boston, MA",88.51
+"Buffalo, NY","Charlotte, NC",116.61
+"Buffalo, NY","Chicago, IL",49.14
+"Buffalo, NY","Cincinnati, OH",103.86
+"Buffalo, NY","Cleveland, OH",60.87
+"Buffalo, NY","Dallas, TX",130.5
+"Buffalo, NY","Detroit, MI",77.88
+"Buffalo, NY","Fort Lauderdale, FL",187.69
+"Buffalo, NY","Fort Myers, FL",185.99
+"Buffalo, NY","Las Vegas, NV",114.87
+"Buffalo, NY","Minneapolis, MN",76.72
+"Buffalo, NY","New York, NY",90.95
+"Buffalo, NY","Newark, NJ",91.88
+"Buffalo, NY","Orlando, FL",157.57
+"Buffalo, NY","Philadelphia, PA",89.21
+"Buffalo, NY","Phoenix, AZ",136.86
+"Buffalo, NY","Tampa, FL",163.15
+"Buffalo, NY","Washington, DC",76.14
+"Burbank, CA","Dallas, TX",293.87
+"Burbank, CA","Denver, CO",194.29
+"Burbank, CA","Las Vegas, NV",60.39
+"Burbank, CA","New York, NY",495.18
+"Burbank, CA","Oakland, CA",69.82
+"Burbank, CA","Phoenix, AZ",109.81
+"Burbank, CA","Portland, OR",131.83
+"Burbank, CA","Sacramento, CA",72.86
+"Burbank, CA","Salt Lake City, UT",164.84
+"Burbank, CA","San Francisco, CA",81.68
+"Burbank, CA","San Jose, CA",63.36
+"Burbank, CA","Seattle, WA",154.27
+"Burbank, CA","Tucson, AZ",136.0
+"Butte, MT","Salt Lake City, UT",76.76
+"Casper, WY","Chicago, IL",212.43
+"Casper, WY","Denver, CO",72.16
+"Casper, WY","Minneapolis, MN",193.8
+"Casper, WY","Salt Lake City, UT",95.14
+"Cedar City, UT","Los Angeles, CA",55.0
+"Cedar City, UT","Salt Lake City, UT",67.62
+"Cedar Rapids, IA","Atlanta, GA",189.62
+"Cedar Rapids, IA","Chicago, IL",70.03
+"Cedar Rapids, IA","Cincinnati, OH",157.77
+"Cedar Rapids, IA","Dallas, TX",128.16
+"Cedar Rapids, IA","Denver, CO",67.03
+"Cedar Rapids, IA","Detroit, MI",160.24
+"Cedar Rapids, IA","Milwaukee, WI",47.0
+"Cedar Rapids, IA","Minneapolis, MN",73.41
+"Champaign, IL","Chicago, IL",65.19
+"Champaign, IL","Dallas, TX",139.21
+"Charleston, SC","Atlanta, GA",77.51
+"Charleston, SC","Boston, MA",145.57
+"Charleston, SC","Charlotte, NC",60.12
+"Charleston, SC","Chicago, IL",86.06
+"Charleston, SC","Cincinnati, OH",102.59
+"Charleston, SC","Cleveland, OH",121.69
+"Charleston, SC","Dallas, TX",121.96
+"Charleston, SC","Detroit, MI",133.8
+"Charleston, SC","Houston, TX",103.5
+"Charleston, SC","Memphis, TN",64.87
+"Charleston, SC","Minneapolis, MN",134.2
+"Charleston, SC","New York, NY",128.39
+"Charleston, SC","Newark, NJ",127.96
+"Charleston, SC","Washington, DC",91.17
+"Charleston, WV","Atlanta, GA",83.18
+"Charleston, WV","Chicago, IL",41.2
+"Charleston, WV","Cincinnati, OH",59.0
+"Charleston, WV","Detroit, MI",93.92
+"Charleston, WV","Houston, TX",115.74
+"Charlotte Amalie, VI","Atlanta, GA",229.76
+"Charlotte Amalie, VI","Boston, MA",207.56
+"Charlotte Amalie, VI","Charlotte, NC",206.45
+"Charlotte Amalie, VI","Miami, FL",157.53
+"Charlotte Amalie, VI","New York, NY",227.12
+"Charlotte Amalie, VI","Newark, NJ",235.22
+"Charlotte Amalie, VI","Philadelphia, PA",218.2
+"Charlotte Amalie, VI","San Juan, PR",40.59
+"Charlotte, NC","Albany, NY",112.17
+"Charlotte, NC","Allentown, PA",94.25
+"Charlotte, NC","Atlanta, GA",79.88
+"Charlotte, NC","Augusta, GA",63.86
+"Charlotte, NC","Austin, TX",114.42
+"Charlotte, NC","BWI Airport, MD",83.38
+"Charlotte, NC","Birmingham, AL",27.14
+"Charlotte, NC","Boston, MA",129.62
+"Charlotte, NC","Buffalo, NY",96.84
+"Charlotte, NC","Charleston, SC",59.76
+"Charlotte, NC","Charlotte Amalie, VI",235.21
+"Charlotte, NC","Chicago, IL",75.28
+"Charlotte, NC","Christiansted, VI",251.5
+"Charlotte, NC","Cincinnati, OH",91.05
+"Charlotte, NC","Cleveland, OH",97.12
+"Charlotte, NC","Columbus, OH",81.57
+"Charlotte, NC","Dallas, TX",112.85
+"Charlotte, NC","Daytona Beach, FL",80.88
+"Charlotte, NC","Denver, CO",105.03
+"Charlotte, NC","Detroit, MI",109.3
+"Charlotte, NC","Eagle, CO",111.4
+"Charlotte, NC","Fort Lauderdale, FL",116.74
+"Charlotte, NC","Fort Myers, FL",114.2
+"Charlotte, NC","Greensboro, NC",52.81
+"Charlotte, NC","Harrisburg, PA",87.65
+"Charlotte, NC","Houston, TX",112.14
+"Charlotte, NC","Indianapolis, IN",100.89
+"Charlotte, NC","Jacksonville, FL",75.61
+"Charlotte, NC","Kansas City, MO",91.79
+"Charlotte, NC","Las Vegas, NV",109.64
+"Charlotte, NC","Little Rock, AR",73.0
+"Charlotte, NC","Los Angeles, CA",145.41
+"Charlotte, NC","Louisville, KY",92.51
+"Charlotte, NC","Manchester, NH",128.53
+"Charlotte, NC","Memphis, TN",55.59
+"Charlotte, NC","Miami, FL",126.0
+"Charlotte, NC","Milwaukee, WI",75.05
+"Charlotte, NC","Minneapolis, MN",103.07
+"Charlotte, NC","Myrtle Beach, SC",56.56
+"Charlotte, NC","Nashville, TN",23.93
+"Charlotte, NC","New Orleans, LA",63.89
+"Charlotte, NC","New York, NY",120.33
+"Charlotte, NC","Newark, NJ",121.68
+"Charlotte, NC","Norfolk, VA",68.58
+"Charlotte, NC","Orlando, FL",96.52
+"Charlotte, NC","Pensacola, FL",42.13
+"Charlotte, NC","Philadelphia, PA",101.13
+"Charlotte, NC","Phoenix, AZ",124.08
+"Charlotte, NC","Pittsburgh, PA",83.53
+"Charlotte, NC","Portland, ME",131.29
+"Charlotte, NC","Portland, OR",159.33
+"Charlotte, NC","Providence, RI",112.56
+"Charlotte, NC","Rdu Airport, NC",52.92
+"Charlotte, NC","Richmond, VA",63.41
+"Charlotte, NC","Rochester, NY",102.25
+"Charlotte, NC","Sacramento, CA",163.43
+"Charlotte, NC","Saint Louis, MO",61.47
+"Charlotte, NC","Salt Lake City, UT",164.05
+"Charlotte, NC","San Antonio, TX",117.97
+"Charlotte, NC","San Diego, CA",134.29
+"Charlotte, NC","San Francisco, CA",164.6
+"Charlotte, NC","San Juan, PR",238.29
+"Charlotte, NC","Sarasota, FL",114.96
+"Charlotte, NC","Savannah, GA",63.05
+"Charlotte, NC","Seattle, WA",164.69
+"Charlotte, NC","Syracuse, NY",103.03
+"Charlotte, NC","Tallahassee, FL",84.07
+"Charlotte, NC","Tampa, FL",100.76
+"Charlotte, NC","Tucson, AZ",84.0
+"Charlotte, NC","Washington, DC",80.25
+"Charlotte, NC","West Palm Beach, FL",111.56
+"Charlotte, NC","Wilmington, NC",60.48
+"Charlotte, NC","Windsor Locks, CT",112.34
+"Charlottesville, VA","Atlanta, GA",100.21
+"Charlottesville, VA","Cincinnati, OH",89.0
+"Charlottesville, VA","Washington, DC",40.0
+"Chattanooga, TN","Atlanta, GA",53.97
+"Chattanooga, TN","Chicago, IL",62.37
+"Chattanooga, TN","Cincinnati, OH",73.0
+"Chattanooga, TN","Dallas, TX",77.58
+"Chattanooga, TN","Detroit, MI",113.0
+"Chattanooga, TN","Houston, TX",79.0
+"Chattanooga, TN","Memphis, TN",17.39
+"Chicago, IL","Albany, NY",173.31
+"Chicago, IL","Albuquerque, NM",124.86
+"Chicago, IL","Allentown, PA",169.37
+"Chicago, IL","Anchorage, AK",214.23
+"Chicago, IL","Appleton, WI",57.2
+"Chicago, IL","Aspen, CO",113.44
+"Chicago, IL","Atlanta, GA",179.57
+"Chicago, IL","Austin, TX",162.12
+"Chicago, IL","Avoca, PA",167.74
+"Chicago, IL","BWI Airport, MD",167.24
+"Chicago, IL","Baton Rouge, LA",139.04
+"Chicago, IL","Billings, MT",119.44
+"Chicago, IL","Birmingham, AL",104.89
+"Chicago, IL","Bloomington, IL",50.77
+"Chicago, IL","Boise, ID",166.76
+"Chicago, IL","Boston, MA",195.96
+"Chicago, IL","Bozeman, MT",136.61
+"Chicago, IL","Buffalo, NY",147.86
+"Chicago, IL","Casper, WY",107.86
+"Chicago, IL","Cedar Rapids, IA",63.17
+"Chicago, IL","Champaign, IL",52.31
+"Chicago, IL","Charleston, SC",186.39
+"Chicago, IL","Charleston, WV",151.05
+"Chicago, IL","Charlotte Amalie, VI",375.96
+"Chicago, IL","Charlotte, NC",173.41
+"Chicago, IL","Chattanooga, TN",157.67
+"Chicago, IL","Cincinnati, OH",137.72
+"Chicago, IL","Cleveland, OH",134.14
+"Chicago, IL","Colorado Springs, CO",95.36
+"Chicago, IL","Columbia, SC",175.36
+"Chicago, IL","Columbus, OH",131.33
+"Chicago, IL","Dallas, TX",149.08
+"Chicago, IL","Dayton, OH",129.11
+"Chicago, IL","Denver, CO",96.35
+"Chicago, IL","Des Moines, IA",76.32
+"Chicago, IL","Detroit, MI",136.04
+"Chicago, IL","Dubuque, IA",54.14
+"Chicago, IL","Eagle, CO",110.16
+"Chicago, IL","El Paso, TX",139.01
+"Chicago, IL","Evansville, IN",68.75
+"Chicago, IL","Fargo, ND",115.75
+"Chicago, IL","Fayetteville / Springdale, AR",106.94
+"Chicago, IL","Flint, MI",119.59
+"Chicago, IL","Fort Lauderdale, FL",234.6
+"Chicago, IL","Fort Myers, FL",223.75
+"Chicago, IL","Fort Wayne, IN",115.05
+"Chicago, IL","Grand Rapids, MI",111.77
+"Chicago, IL","Great Falls, MT",136.5
+"Chicago, IL","Green Bay, WI",57.15
+"Chicago, IL","Greensboro, NC",168.54
+"Chicago, IL","Greenville, SC",166.15
+"Chicago, IL","Gulfport, MS",143.82
+"Chicago, IL","Harrisburg, PA",161.7
+"Chicago, IL","Hayden, CO",111.49
+"Chicago, IL","Honolulu, HI",275.05
+"Chicago, IL","Houston, TX",164.19
+"Chicago, IL","Huntsville, AL",98.83
+"Chicago, IL","Indianapolis, IN",119.57
+"Chicago, IL","Islip, NY",184.13
+"Chicago, IL","Jackson, MS",115.81
+"Chicago, IL","Jackson, WY",128.54
+"Chicago, IL","Jacksonville, FL",203.41
+"Chicago, IL","Kahului, HI",260.19
+"Chicago, IL","Kalamazoo, MI",108.9
+"Chicago, IL","Kansas City, MO",87.05
+"Chicago, IL","Knoxville, TN",155.22
+"Chicago, IL","La Crosse, WI",67.57
+"Chicago, IL","Lansing, MI",117.6
+"Chicago, IL","Las Vegas, NV",116.83
+"Chicago, IL","Lexington, KY",138.1
+"Chicago, IL","Lincoln, NE",101.93
+"Chicago, IL","Little Rock, AR",106.13
+"Chicago, IL","Long Beach, CA",149.87
+"Chicago, IL","Los Angeles, CA",145.29
+"Chicago, IL","Louisville, KY",133.52
+"Chicago, IL","Madison, WI",51.92
+"Chicago, IL","Manchester, NH",181.96
+"Chicago, IL","Memphis, TN",106.79
+"Chicago, IL","Miami, FL",237.61
+"Chicago, IL","Milwaukee, WI",47.97
+"Chicago, IL","Minneapolis, MN",87.26
+"Chicago, IL","Missoula, MT",163.8
+"Chicago, IL","Mobile, AL",139.38
+"Chicago, IL","Moline, IL",52.66
+"Chicago, IL","Montrose, CO",121.6
+"Chicago, IL","Mosinee, WI",65.86
+"Chicago, IL","Nashville, TN",85.05
+"Chicago, IL","New Orleans, LA",137.89
+"Chicago, IL","New York, NY",196.37
+"Chicago, IL","Newark, NJ",199.15
+"Chicago, IL","Norfolk, VA",179.23
+"Chicago, IL","North Canton, OH",137.85
+"Chicago, IL","Oakland, CA",156.56
+"Chicago, IL","Oklahoma City, OK",131.96
+"Chicago, IL","Omaha, NE",90.13
+"Chicago, IL","Orange County, CA",141.49
+"Chicago, IL","Orlando, FL",212.84
+"Chicago, IL","Palm Springs, CA",133.19
+"Chicago, IL","Pensacola, FL",138.41
+"Chicago, IL","Peoria, IL",52.52
+"Chicago, IL","Philadelphia, PA",180.31
+"Chicago, IL","Phoenix, AZ",129.89
+"Chicago, IL","Pittsburgh, PA",142.84
+"Chicago, IL","Portland, ME",190.17
+"Chicago, IL","Portland, OR",140.42
+"Chicago, IL","Providence, RI",188.77
+"Chicago, IL","Rapid City, SD",80.93
+"Chicago, IL","Rdu Airport, NC",169.59
+"Chicago, IL","Reno, NV",133.05
+"Chicago, IL","Richmond, VA",175.52
+"Chicago, IL","Roanoke, VA",159.77
+"Chicago, IL","Rochester, MN",72.3
+"Chicago, IL","Rochester, NY",158.47
+"Chicago, IL","Sacramento, CA",145.93
+"Chicago, IL","Saginaw, MI",126.64
+"Chicago, IL","Saint Louis, MO",67.37
+"Chicago, IL","Salt Lake City, UT",147.74
+"Chicago, IL","San Antonio, TX",172.42
+"Chicago, IL","San Diego, CA",138.51
+"Chicago, IL","San Francisco, CA",159.67
+"Chicago, IL","San Jose, CA",155.74
+"Chicago, IL","San Juan, PR",366.88
+"Chicago, IL","Sarasota, FL",210.16
+"Chicago, IL","Savannah, GA",184.0
+"Chicago, IL","Seattle, WA",144.53
+"Chicago, IL","Shreveport, LA",141.79
+"Chicago, IL","Sioux Falls, SD",101.58
+"Chicago, IL","South Bend, IN",106.89
+"Chicago, IL","South Burlington, VT",182.1
+"Chicago, IL","Spokane, WA",111.07
+"Chicago, IL","Springfield, IL",60.71
+"Chicago, IL","Springfield, MO",97.31
+"Chicago, IL","Syracuse, NY",164.81
+"Chicago, IL","Tampa, FL",211.96
+"Chicago, IL","Toledo, OH",118.83
+"Chicago, IL","Traverse City, MI",125.17
+"Chicago, IL","Tucson, AZ",131.36
+"Chicago, IL","Tulsa, OK",115.6
+"Chicago, IL","Valparaiso, FL",142.42
+"Chicago, IL","Washington, DC",165.23
+"Chicago, IL","West Palm Beach, FL",233.32
+"Chicago, IL","White Plains, NY",188.55
+"Chicago, IL","Wichita, KS",117.69
+"Chicago, IL","Windsor Locks, CT",182.36
+"Chico, CA","San Francisco, CA",63.03
+"Christiansted, VI","Atlanta, GA",251.73
+"Christiansted, VI","Charlotte, NC",202.67
+"Christiansted, VI","Miami, FL",146.82
+"Cincinnati, OH","Albany, NY",108.98
+"Cincinnati, OH","Albuquerque, NM",89.19
+"Cincinnati, OH","Allentown, PA",93.93
+"Cincinnati, OH","Anchorage, AK",190.0
+"Cincinnati, OH","Appleton, WI",31.29
+"Cincinnati, OH","Asheville, NC",68.2
+"Cincinnati, OH","Atlanta, GA",97.09
+"Cincinnati, OH","Austin, TX",113.77
+"Cincinnati, OH","Avoca, PA",92.76
+"Cincinnati, OH","BWI Airport, MD",92.71
+"Cincinnati, OH","Bangor, ME",136.13
+"Cincinnati, OH","Baton Rouge, LA",85.5
+"Cincinnati, OH","Birmingham, AL",27.63
+"Cincinnati, OH","Blountville, TN",63.49
+"Cincinnati, OH","Boston, MA",128.09
+"Cincinnati, OH","Buffalo, NY",85.62
+"Cincinnati, OH","Cedar Rapids, IA",33.5
+"Cincinnati, OH","Charleston, SC",98.96
+"Cincinnati, OH","Charleston, WV",51.94
+"Cincinnati, OH","Charlotte, NC",92.37
+"Cincinnati, OH","Charlottesville, VA",66.67
+"Cincinnati, OH","Chattanooga, TN",75.0
+"Cincinnati, OH","Chicago, IL",28.38
+"Cincinnati, OH","Cleveland, OH",69.89
+"Cincinnati, OH","Colorado Springs, CO",59.63
+"Cincinnati, OH","Columbia, SC",82.93
+"Cincinnati, OH","Columbus, OH",50.44
+"Cincinnati, OH","Dallas, TX",94.99
+"Cincinnati, OH","Dayton, OH",42.34
+"Cincinnati, OH","Denver, CO",66.82
+"Cincinnati, OH","Des Moines, IA",45.35
+"Cincinnati, OH","Detroit, MI",78.96
+"Cincinnati, OH","Eagle, CO",86.2
+"Cincinnati, OH","Evansville, IN",13.33
+"Cincinnati, OH","Fayetteville / Springdale, AR",43.33
+"Cincinnati, OH","Fort Lauderdale, FL",153.7
+"Cincinnati, OH","Fort Myers, FL",148.76
+"Cincinnati, OH","Grand Rapids, MI",67.81
+"Cincinnati, OH","Green Bay, WI",29.68
+"Cincinnati, OH","Greensboro, NC",79.56
+"Cincinnati, OH","Greenville, SC",69.39
+"Cincinnati, OH","Harrisburg, PA",87.04
+"Cincinnati, OH","Houston, TX",108.55
+"Cincinnati, OH","Huntsville, AL",16.49
+"Cincinnati, OH","Indianapolis, IN",51.22
+"Cincinnati, OH","Jackson, MS",52.7
+"Cincinnati, OH","Jackson, WY",100.8
+"Cincinnati, OH","Jacksonville, FL",109.34
+"Cincinnati, OH","Kalamazoo, MI",52.33
+"Cincinnati, OH","Kansas City, MO",53.54
+"Cincinnati, OH","Knoxville, TN",65.77
+"Cincinnati, OH","Lansing, MI",64.8
+"Cincinnati, OH","Las Vegas, NV",79.45
+"Cincinnati, OH","Lexington, KY",39.09
+"Cincinnati, OH","Little Rock, AR",37.0
+"Cincinnati, OH","Los Angeles, CA",106.93
+"Cincinnati, OH","Louisville, KY",45.77
+"Cincinnati, OH","Madison, WI",13.0
+"Cincinnati, OH","Manchester, NH",122.49
+"Cincinnati, OH","Memphis, TN",32.25
+"Cincinnati, OH","Miami, FL",158.13
+"Cincinnati, OH","Milwaukee, WI",25.12
+"Cincinnati, OH","Minneapolis, MN",62.96
+"Cincinnati, OH","Myrtle Beach, SC",83.0
+"Cincinnati, OH","Nashville, TN",13.83
+"Cincinnati, OH","New Orleans, LA",81.73
+"Cincinnati, OH","New York, NY",126.66
+"Cincinnati, OH","Newark, NJ",124.91
+"Cincinnati, OH","Norfolk, VA",98.2
+"Cincinnati, OH","North Canton, OH",64.0
+"Cincinnati, OH","Oklahoma City, OK",88.52
+"Cincinnati, OH","Omaha, NE",63.08
+"Cincinnati, OH","Orange County, CA",107.79
+"Cincinnati, OH","Orlando, FL",130.88
+"Cincinnati, OH","Panama City, FL",57.0
+"Cincinnati, OH","Philadelphia, PA",105.51
+"Cincinnati, OH","Phoenix, AZ",99.75
+"Cincinnati, OH","Pittsburgh, PA",71.69
+"Cincinnati, OH","Portland, ME",129.88
+"Cincinnati, OH","Portland, OR",112.62
+"Cincinnati, OH","Providence, RI",123.54
+"Cincinnati, OH","Rdu Airport, NC",85.54
+"Cincinnati, OH","Richmond, VA",87.27
+"Cincinnati, OH","Rochester, NY",93.1
+"Cincinnati, OH","Saint Louis, MO",33.5
+"Cincinnati, OH","Salt Lake City, UT",112.0
+"Cincinnati, OH","San Antonio, TX",122.75
+"Cincinnati, OH","San Diego, CA",100.85
+"Cincinnati, OH","San Francisco, CA",121.69
+"Cincinnati, OH","Sarasota, FL",138.72
+"Cincinnati, OH","Savannah, GA",98.31
+"Cincinnati, OH","Seattle, WA",113.96
+"Cincinnati, OH","Sioux Falls, SD",72.74
+"Cincinnati, OH","South Bend, IN",49.0
+"Cincinnati, OH","South Burlington, VT",116.89
+"Cincinnati, OH","Springfield, MO",44.29
+"Cincinnati, OH","Syracuse, NY",97.16
+"Cincinnati, OH","Tampa, FL",130.55
+"Cincinnati, OH","Traverse City, MI",82.75
+"Cincinnati, OH","Tulsa, OK",68.79
+"Cincinnati, OH","Valparaiso, FL",58.17
+"Cincinnati, OH","Washington, DC",87.12
+"Cincinnati, OH","West Palm Beach, FL",147.9
+"Cincinnati, OH","White Plains, NY",116.0
+"Cincinnati, OH","Wilmington, NC",98.4
+"Cincinnati, OH","Windsor Locks, CT",112.62
+"Cleveland, OH","Albany, NY",81.02
+"Cleveland, OH","Albuquerque, NM",108.0
+"Cleveland, OH","Allentown, PA",72.1
+"Cleveland, OH","Atlanta, GA",116.18
+"Cleveland, OH","Austin, TX",129.45
+"Cleveland, OH","BWI Airport, MD",74.15
+"Cleveland, OH","Birmingham, AL",48.31
+"Cleveland, OH","Boston, MA",111.54
+"Cleveland, OH","Buffalo, NY",57.43
+"Cleveland, OH","Charleston, SC",103.3
+"Cleveland, OH","Charlotte, NC",98.12
+"Cleveland, OH","Chicago, IL",31.29
+"Cleveland, OH","Cincinnati, OH",73.39
+"Cleveland, OH","Columbus, OH",47.33
+"Cleveland, OH","Dallas, TX",116.65
+"Cleveland, OH","Dayton, OH",54.24
+"Cleveland, OH","Daytona Beach, FL",129.0
+"Cleveland, OH","Denver, CO",84.66
+"Cleveland, OH","Des Moines, IA",49.11
+"Cleveland, OH","Detroit, MI",64.34
+"Cleveland, OH","Fort Lauderdale, FL",178.0
+"Cleveland, OH","Fort Myers, FL",170.16
+"Cleveland, OH","Grand Rapids, MI",64.08
+"Cleveland, OH","Greensboro, NC",80.56
+"Cleveland, OH","Greenville, SC",87.89
+"Cleveland, OH","Harrisburg, PA",59.7
+"Cleveland, OH","Houston, TX",126.96
+"Cleveland, OH","Indianapolis, IN",73.71
+"Cleveland, OH","Jacksonville, FL",127.0
+"Cleveland, OH","Kansas City, MO",73.36
+"Cleveland, OH","Knoxville, TN",83.61
+"Cleveland, OH","Las Vegas, NV",98.14
+"Cleveland, OH","Los Angeles, CA",124.13
+"Cleveland, OH","Louisville, KY",80.63
+"Cleveland, OH","Madison, WI",27.9
+"Cleveland, OH","Manchester, NH",95.09
+"Cleveland, OH","Memphis, TN",69.04
+"Cleveland, OH","Miami, FL",179.06
+"Cleveland, OH","Milwaukee, WI",24.5
+"Cleveland, OH","Minneapolis, MN",76.52
+"Cleveland, OH","Nashville, TN",40.17
+"Cleveland, OH","New Orleans, LA",101.0
+"Cleveland, OH","New York, NY",108.12
+"Cleveland, OH","Newark, NJ",106.0
+"Cleveland, OH","Norfolk, VA",95.0
+"Cleveland, OH","Oklahoma City, OK",102.17
+"Cleveland, OH","Omaha, NE",74.08
+"Cleveland, OH","Orlando, FL",144.06
+"Cleveland, OH","Philadelphia, PA",94.73
+"Cleveland, OH","Phoenix, AZ",116.48
+"Cleveland, OH","Portland, ME",100.88
+"Cleveland, OH","Providence, RI",98.36
+"Cleveland, OH","Rdu Airport, NC",94.59
+"Cleveland, OH","Richmond, VA",78.74
+"Cleveland, OH","Rochester, NY",63.16
+"Cleveland, OH","Saint Louis, MO",41.23
+"Cleveland, OH","Salt Lake City, UT",129.64
+"Cleveland, OH","San Antonio, TX",139.8
+"Cleveland, OH","San Diego, CA",129.75
+"Cleveland, OH","San Francisco, CA",144.45
+"Cleveland, OH","San Juan, PR",313.0
+"Cleveland, OH","Sarasota, FL",173.77
+"Cleveland, OH","Savannah, GA",110.65
+"Cleveland, OH","Seattle, WA",117.87
+"Cleveland, OH","South Burlington, VT",92.99
+"Cleveland, OH","Syracuse, NY",70.31
+"Cleveland, OH","Tampa, FL",154.29
+"Cleveland, OH","Washington, DC",78.33
+"Cleveland, OH","West Palm Beach, FL",167.37
+"Cleveland, OH","Windsor Locks, CT",98.07
+"Cody, WY","Denver, CO",102.58
+"Cody, WY","Salt Lake City, UT",86.69
+"College Station, TX","Dallas, TX",69.05
+"College Station, TX","Houston, TX",48.84
+"Colorado Springs, CO","Albuquerque, NM",72.0
+"Colorado Springs, CO","Atlanta, GA",284.77
+"Colorado Springs, CO","Chicago, IL",206.55
+"Colorado Springs, CO","Cincinnati, OH",270.17
+"Colorado Springs, CO","Cleveland, OH",274.0
+"Colorado Springs, CO","Dallas, TX",166.45
+"Colorado Springs, CO","Denver, CO",43.04
+"Colorado Springs, CO","Houston, TX",199.04
+"Colorado Springs, CO","Kansas City, MO",153.65
+"Colorado Springs, CO","Las Vegas, NV",54.64
+"Colorado Springs, CO","Los Angeles, CA",95.58
+"Colorado Springs, CO","Memphis, TN",200.4
+"Colorado Springs, CO","Minneapolis, MN",186.8
+"Colorado Springs, CO","Ontario, CA",77.98
+"Colorado Springs, CO","Phoenix, AZ",69.52
+"Colorado Springs, CO","Sacramento, CA",97.82
+"Colorado Springs, CO","Salt Lake City, UT",104.56
+"Colorado Springs, CO","San Diego, CA",92.74
+"Colorado Springs, CO","San Francisco, CA",125.5
+"Columbia, SC","Atlanta, GA",69.62
+"Columbia, SC","Chicago, IL",73.85
+"Columbia, SC","Cincinnati, OH",86.83
+"Columbia, SC","Dallas, TX",111.34
+"Columbia, SC","Detroit, MI",121.96
+"Columbia, SC","Houston, TX",103.65
+"Columbia, SC","Memphis, TN",54.47
+"Columbia, SC","New York, NY",117.63
+"Columbia, SC","Newark, NJ",117.57
+"Columbia, SC","Washington, DC",84.72
+"Columbus, GA","Atlanta, GA",48.15
+"Columbus, MS","Atlanta, GA",127.71
+"Columbus, OH","Atlanta, GA",101.57
+"Columbus, OH","BWI Airport, MD",68.18
+"Columbus, OH","Boston, MA",114.75
+"Columbus, OH","Charlotte, NC",82.4
+"Columbus, OH","Chicago, IL",23.42
+"Columbus, OH","Cincinnati, OH",50.85
+"Columbus, OH","Cleveland, OH",48.67
+"Columbus, OH","Dallas, TX",104.53
+"Columbus, OH","Denver, CO",71.76
+"Columbus, OH","Detroit, MI",67.87
+"Columbus, OH","Fort Myers, FL",164.93
+"Columbus, OH","Houston, TX",115.04
+"Columbus, OH","Kansas City, MO",61.57
+"Columbus, OH","Las Vegas, NV",86.11
+"Columbus, OH","Los Angeles, CA",105.2
+"Columbus, OH","Memphis, TN",51.79
+"Columbus, OH","Miami, FL",164.2
+"Columbus, OH","Milwaukee, WI",20.38
+"Columbus, OH","Minneapolis, MN",65.0
+"Columbus, OH","Nashville, TN",13.66
+"Columbus, OH","New York, NY",112.83
+"Columbus, OH","Newark, NJ",110.28
+"Columbus, OH","Orlando, FL",127.39
+"Columbus, OH","Philadelphia, PA",81.26
+"Columbus, OH","Phoenix, AZ",92.18
+"Columbus, OH","Rdu Airport, NC",74.86
+"Columbus, OH","Saint Louis, MO",21.71
+"Columbus, OH","Salt Lake City, UT",123.06
+"Columbus, OH","Tampa, FL",129.72
+"Columbus, OH","Washington, DC",75.0
+"Columbus, OH","West Palm Beach, FL",143.0
+"Cordova, AK","Anchorage, AK",46.51
+"Cordova, AK","Yakutat, AK",49.1
+"Corpus Christi, TX","Atlanta, GA",200.0
+"Corpus Christi, TX","Dallas, TX",80.59
+"Corpus Christi, TX","Houston, TX",52.6
+"Crescent City, CA","Arcata/Eureka, CA",36.65
+"Crescent City, CA","San Francisco, CA",96.27
+"Dallas, TX","Abilene, TX",53.72
+"Dallas, TX","Albuquerque, NM",46.25
+"Dallas, TX","Alexandria, LA",87.96
+"Dallas, TX","Amarillo, TX",69.08
+"Dallas, TX","Anchorage, AK",224.85
+"Dallas, TX","Atlanta, GA",186.7
+"Dallas, TX","Austin, TX",53.75
+"Dallas, TX","BWI Airport, MD",231.48
+"Dallas, TX","Baton Rouge, LA",80.68
+"Dallas, TX","Birmingham, AL",94.9
+"Dallas, TX","Boston, MA",272.67
+"Dallas, TX","Buffalo, NY",232.0
+"Dallas, TX","Burbank, CA",81.63
+"Dallas, TX","Cedar Rapids, IA",116.03
+"Dallas, TX","Champaign, IL",115.38
+"Dallas, TX","Charleston, SC",209.58
+"Dallas, TX","Charlotte, NC",202.03
+"Dallas, TX","Chattanooga, TN",177.0
+"Dallas, TX","Chicago, IL",141.19
+"Dallas, TX","Cincinnati, OH",192.05
+"Dallas, TX","Cleveland, OH",210.71
+"Dallas, TX","College Station, TX",65.12
+"Dallas, TX","Colorado Springs, CO",53.87
+"Dallas, TX","Columbia, SC",197.19
+"Dallas, TX","Columbus, OH",199.61
+"Dallas, TX","Corpus Christi, TX",76.52
+"Dallas, TX","Dayton, OH",190.64
+"Dallas, TX","Denver, CO",63.51
+"Dallas, TX","Des Moines, IA",105.86
+"Dallas, TX","Detroit, MI",212.95
+"Dallas, TX","Eagle, CO",82.7
+"Dallas, TX","El Paso, TX",41.13
+"Dallas, TX","Evansville, IN",111.72
+"Dallas, TX","Fayetteville / Springdale, AR",65.11
+"Dallas, TX","Flint, MI",209.97
+"Dallas, TX","Fort Hood / Killeen, TX",46.1
+"Dallas, TX","Fort Lauderdale, FL",218.95
+"Dallas, TX","Fort Myers, FL",208.36
+"Dallas, TX","Fort Smith, AR",60.44
+"Dallas, TX","Fort Wayne, IN",193.69
+"Dallas, TX","Fresno, CA",92.65
+"Dallas, TX","Grand Junction, CO",74.81
+"Dallas, TX","Grand Rapids, MI",203.37
+"Dallas, TX","Greensboro, NC",207.29
+"Dallas, TX","Greenville, SC",192.43
+"Dallas, TX","Gulfport, MS",89.97
+"Dallas, TX","Gunnison, CO",68.08
+"Dallas, TX","Harlingen, TX",81.33
+"Dallas, TX","Harrisburg, PA",224.69
+"Dallas, TX","Hayden, CO",78.98
+"Dallas, TX","Honolulu, HI",211.53
+"Dallas, TX","Houston, TX",68.14
+"Dallas, TX","Huntsville, AL",98.81
+"Dallas, TX","Indianapolis, IN",185.33
+"Dallas, TX","Jackson, MS",79.08
+"Dallas, TX","Jackson, WY",111.95
+"Dallas, TX","Jacksonville, FL",194.26
+"Dallas, TX","Kahului, HI",205.74
+"Dallas, TX","Kansas City, MO",88.06
+"Dallas, TX","Knoxville, TN",180.31
+"Dallas, TX","Lafayette, LA",101.06
+"Dallas, TX","Laredo, TX",84.87
+"Dallas, TX","Las Vegas, NV",57.47
+"Dallas, TX","Lawton, OK",60.07
+"Dallas, TX","Lexington, KY",185.59
+"Dallas, TX","Little Rock, AR",64.21
+"Dallas, TX","Longview, TX",57.64
+"Dallas, TX","Los Angeles, CA",80.0
+"Dallas, TX","Louisville, KY",180.81
+"Dallas, TX","Lubbock, TX",64.21
+"Dallas, TX","Madison, WI",130.95
+"Dallas, TX","Mcallen, TX",89.29
+"Dallas, TX","Memphis, TN",88.43
+"Dallas, TX","Miami, FL",221.24
+"Dallas, TX","Midland, TX",68.47
+"Dallas, TX","Milwaukee, WI",138.15
+"Dallas, TX","Minneapolis, MN",141.03
+"Dallas, TX","Mobile, AL",97.14
+"Dallas, TX","Moline, IL",114.41
+"Dallas, TX","Monroe, LA",89.09
+"Dallas, TX","Montrose, CO",67.21
+"Dallas, TX","Nashville, TN",103.73
+"Dallas, TX","New Orleans, LA",80.03
+"Dallas, TX","New York, NY",270.27
+"Dallas, TX","Newark, NJ",276.18
+"Dallas, TX","Norfolk, VA",223.99
+"Dallas, TX","Oakland, CA",107.93
+"Dallas, TX","Oklahoma City, OK",50.71
+"Dallas, TX","Omaha, NE",103.38
+"Dallas, TX","Ontario, CA",70.37
+"Dallas, TX","Orange County, CA",73.56
+"Dallas, TX","Orlando, FL",207.67
+"Dallas, TX","Palm Springs, CA",64.22
+"Dallas, TX","Pensacola, FL",103.81
+"Dallas, TX","Peoria, IL",113.92
+"Dallas, TX","Philadelphia, PA",255.17
+"Dallas, TX","Phoenix, AZ",57.71
+"Dallas, TX","Pittsburgh, PA",212.41
+"Dallas, TX","Portland, OR",121.87
+"Dallas, TX","Rdu Airport, NC",213.09
+"Dallas, TX","Reno, NV",92.74
+"Dallas, TX","Richmond, VA",222.49
+"Dallas, TX","Rochester, NY",233.79
+"Dallas, TX","Roswell, NM",29.85
+"Dallas, TX","Sacramento, CA",104.44
+"Dallas, TX","Saint Louis, MO",94.58
+"Dallas, TX","Salt Lake City, UT",108.21
+"Dallas, TX","San Angelo, TX",66.77
+"Dallas, TX","San Antonio, TX",63.07
+"Dallas, TX","San Diego, CA",66.2
+"Dallas, TX","San Francisco, CA",111.52
+"Dallas, TX","San Jose, CA",102.06
+"Dallas, TX","San Juan, PR",354.52
+"Dallas, TX","Santa Barbara, CA",80.9
+"Dallas, TX","Savannah, GA",198.03
+"Dallas, TX","Seattle, WA",134.46
+"Dallas, TX","Shreveport, LA",58.87
+"Dallas, TX","Springfield, MO",74.55
+"Dallas, TX","Syracuse, NY",236.58
+"Dallas, TX","Tampa, FL",199.48
+"Dallas, TX","Texarkana, AR",63.51
+"Dallas, TX","Tucson, AZ",43.84
+"Dallas, TX","Tulsa, OK",58.31
+"Dallas, TX","Tyler, TX",50.07
+"Dallas, TX","Valparaiso, FL",112.43
+"Dallas, TX","Waco, TX",45.34
+"Dallas, TX","Washington, DC",225.13
+"Dallas, TX","West Palm Beach, FL",217.38
+"Dallas, TX","Wichita Falls, TX",55.5
+"Dallas, TX","Wichita, KS",74.12
+"Dallas, TX","Windsor Locks, CT",251.36
+"Dayton, OH","Atlanta, GA",102.47
+"Dayton, OH","BWI Airport, MD",83.42
+"Dayton, OH","Chicago, IL",23.94
+"Dayton, OH","Cincinnati, OH",46.8
+"Dayton, OH","Cleveland, OH",55.44
+"Dayton, OH","Dallas, TX",101.54
+"Dayton, OH","Denver, CO",64.34
+"Dayton, OH","Detroit, MI",72.03
+"Dayton, OH","Houston, TX",109.42
+"Dayton, OH","Las Vegas, NV",100.4
+"Dayton, OH","Milwaukee, WI",13.38
+"Dayton, OH","Minneapolis, MN",67.14
+"Dayton, OH","Newark, NJ",115.28
+"Dayton, OH","Orlando, FL",142.5
+"Dayton, OH","Tampa, FL",134.5
+"Daytona Beach, FL","Atlanta, GA",88.96
+"Daytona Beach, FL","BWI Airport, MD",118.64
+"Daytona Beach, FL","Charlotte, NC",84.5
+"Daytona Beach, FL","Cleveland, OH",146.0
+"Daytona Beach, FL","Jacksonville, FL",40.0
+"Daytona Beach, FL","New York, NY",152.01
+"Daytona Beach, FL","Newark, NJ",161.3
+"Daytona Beach, FL","Orlando, FL",60.0
+"Deadhorse, AK","Anchorage, AK",99.0
+"Deadhorse, AK","Barrow, AK",46.64
+"Denver, CO","Albuquerque, NM",73.67
+"Denver, CO","Amarillo, TX",128.81
+"Denver, CO","Anchorage, AK",211.18
+"Denver, CO","Aspen, CO",52.83
+"Denver, CO","Atlanta, GA",292.18
+"Denver, CO","Austin, TX",182.01
+"Denver, CO","BWI Airport, MD",314.88
+"Denver, CO","Bakersfield, CA",90.03
+"Denver, CO","Billings, MT",86.42
+"Denver, CO","Birmingham, AL",214.77
+"Denver, CO","Bismarck, ND",156.51
+"Denver, CO","Boise, ID",117.94
+"Denver, CO","Boston, MA",346.51
+"Denver, CO","Bozeman, MT",107.37
+"Denver, CO","Burbank, CA",91.35
+"Denver, CO","Casper, WY",73.46
+"Denver, CO","Cedar Rapids, IA",173.2
+"Denver, CO","Charlotte, NC",301.8
+"Denver, CO","Chicago, IL",200.1
+"Denver, CO","Cincinnati, OH",275.55
+"Denver, CO","Cleveland, OH",288.33
+"Denver, CO","Cody, WY",105.38
+"Denver, CO","Colorado Springs, CO",40.78
+"Denver, CO","Columbus, OH",279.78
+"Denver, CO","Dallas, TX",173.02
+"Denver, CO","Dayton, OH",274.84
+"Denver, CO","Des Moines, IA",155.7
+"Denver, CO","Detroit, MI",285.96
+"Denver, CO","Durango, CO",75.56
+"Denver, CO","Eagle, CO",54.38
+"Denver, CO","El Paso, TX",107.76
+"Denver, CO","Eugene, OR",103.79
+"Denver, CO","Fargo, ND",167.78
+"Denver, CO","Fayetteville / Springdale, AR",166.44
+"Denver, CO","Fort Lauderdale, FL",345.95
+"Denver, CO","Fort Myers, FL",331.34
+"Denver, CO","Fresno, CA",82.86
+"Denver, CO","Gillette, WY",89.86
+"Denver, CO","Grand Junction, CO",67.48
+"Denver, CO","Grand Rapids, MI",264.89
+"Denver, CO","Great Falls, MT",113.51
+"Denver, CO","Gunnison, CO",60.39
+"Denver, CO","Hayden, CO",53.98
+"Denver, CO","Helena, MT",108.32
+"Denver, CO","Honolulu, HI",220.99
+"Denver, CO","Houston, TX",200.31
+"Denver, CO","Huntsville, AL",209.19
+"Denver, CO","Idaho Falls, ID",98.78
+"Denver, CO","Indianapolis, IN",265.87
+"Denver, CO","Jackson, WY",90.4
+"Denver, CO","Jacksonville, FL",304.0
+"Denver, CO","Kahului, HI",211.95
+"Denver, CO","Kansas City, MO",153.06
+"Denver, CO","Keahole, HI",198.0
+"Denver, CO","Knoxville, TN",279.86
+"Denver, CO","Las Vegas, NV",55.19
+"Denver, CO","Lihue, HI",221.0
+"Denver, CO","Lincoln, NE",140.91
+"Denver, CO","Los Angeles, CA",87.04
+"Denver, CO","Louisville, KY",267.66
+"Denver, CO","Madison, WI",189.36
+"Denver, CO","Medford, OR",105.39
+"Denver, CO","Memphis, TN",197.9
+"Denver, CO","Miami, FL",344.33
+"Denver, CO","Milwaukee, WI",196.59
+"Denver, CO","Minneapolis, MN",174.65
+"Denver, CO","Missoula, MT",123.95
+"Denver, CO","Moline, IL",178.65
+"Denver, CO","Monterey, CA",95.04
+"Denver, CO","Montrose, CO",71.82
+"Denver, CO","Nashville, TN",207.34
+"Denver, CO","New Orleans, LA",209.92
+"Denver, CO","New York, NY",342.81
+"Denver, CO","Newark, NJ",347.67
+"Denver, CO","North Canton, OH",285.7
+"Denver, CO","Oakland, CA",97.03
+"Denver, CO","Oklahoma City, OK",149.35
+"Denver, CO","Omaha, NE",143.69
+"Denver, CO","Ontario, CA",71.6
+"Denver, CO","Orange County, CA",84.01
+"Denver, CO","Orlando, FL",325.56
+"Denver, CO","Palm Springs, CA",75.73
+"Denver, CO","Pasco, WA",86.21
+"Denver, CO","Peoria, IL",185.08
+"Denver, CO","Philadelphia, PA",331.4
+"Denver, CO","Phoenix, AZ",75.72
+"Denver, CO","Pittsburgh, PA",296.18
+"Denver, CO","Portland, OR",102.44
+"Denver, CO","Rapid City, SD",75.12
+"Denver, CO","Rdu Airport, NC",310.74
+"Denver, CO","Redmond, OR",88.5
+"Denver, CO","Reno, NV",78.03
+"Denver, CO","Rock Springs, WY",84.69
+"Denver, CO","Rockford, IL",184.94
+"Denver, CO","Sacramento, CA",91.08
+"Denver, CO","Saint Louis, MO",180.97
+"Denver, CO","Salt Lake City, UT",87.91
+"Denver, CO","San Antonio, TX",185.52
+"Denver, CO","San Diego, CA",80.76
+"Denver, CO","San Francisco, CA",101.51
+"Denver, CO","San Jose, CA",96.86
+"Denver, CO","Santa Barbara, CA",97.58
+"Denver, CO","Seattle, WA",111.24
+"Denver, CO","Sioux Falls, SD",148.46
+"Denver, CO","Spokane, WA",79.69
+"Denver, CO","Springfield, MO",165.03
+"Denver, CO","Tampa, FL",318.62
+"Denver, CO","Traverse City, MI",260.4
+"Denver, CO","Tucson, AZ",81.54
+"Denver, CO","Tulsa, OK",151.16
+"Denver, CO","Washington, DC",311.63
+"Denver, CO","West Palm Beach, FL",336.0
+"Denver, CO","Wichita, KS",140.09
+"Denver, CO","Windsor Locks, CT",351.0
+"Des Moines, IA","Atlanta, GA",186.57
+"Des Moines, IA","Chicago, IL",82.92
+"Des Moines, IA","Cincinnati, OH",161.95
+"Des Moines, IA","Cleveland, OH",164.0
+"Des Moines, IA","Dallas, TX",117.48
+"Des Moines, IA","Denver, CO",53.88
+"Des Moines, IA","Detroit, MI",170.42
+"Des Moines, IA","Houston, TX",150.88
+"Des Moines, IA","Los Angeles, CA",101.64
+"Des Moines, IA","Memphis, TN",96.81
+"Des Moines, IA","Milwaukee, WI",64.51
+"Des Moines, IA","Minneapolis, MN",73.55
+"Des Moines, IA","New York, NY",227.4
+"Des Moines, IA","Phoenix, AZ",108.53
+"Des Moines, IA","Salt Lake City, UT",119.5
+"Des Moines, IA","Washington, DC",203.62
+"Detroit, MI","Albany, NY",91.42
+"Detroit, MI","Allentown, PA",92.32
+"Detroit, MI","Anchorage, AK",161.44
+"Detroit, MI","Appleton, WI",25.18
+"Detroit, MI","Asheville, NC",99.54
+"Detroit, MI","Atlanta, GA",129.0
+"Detroit, MI","Avoca, PA",84.25
+"Detroit, MI","BWI Airport, MD",92.57
+"Detroit, MI","Bangor, ME",125.14
+"Detroit, MI","Binghamton, NY",82.97
+"Detroit, MI","Birmingham, AL",61.73
+"Detroit, MI","Boston, MA",119.59
+"Detroit, MI","Bozeman, MT",102.0
+"Detroit, MI","Buffalo, NY",70.88
+"Detroit, MI","Cedar Rapids, IA",41.76
+"Detroit, MI","Charleston, SC",129.93
+"Detroit, MI","Charleston, WV",77.53
+"Detroit, MI","Charlotte Amalie, VI",306.6
+"Detroit, MI","Charlotte, NC",111.73
+"Detroit, MI","Chattanooga, TN",97.5
+"Detroit, MI","Chicago, IL",23.02
+"Detroit, MI","Cincinnati, OH",78.13
+"Detroit, MI","Cleveland, OH",58.99
+"Detroit, MI","Columbia, SC",117.63
+"Detroit, MI","Columbus, OH",64.72
+"Detroit, MI","Dallas, TX",117.83
+"Detroit, MI","Dayton, OH",63.19
+"Detroit, MI","Denver, CO",73.5
+"Detroit, MI","Des Moines, IA",56.83
+"Detroit, MI","Duluth, MN",56.65
+"Detroit, MI","Elmira / Corning, NY",80.55
+"Detroit, MI","Erie, PA",63.03
+"Detroit, MI","Evansville, IN",34.63
+"Detroit, MI","Fayetteville / Springdale, AR",80.79
+"Detroit, MI","Flint, MI",42.93
+"Detroit, MI","Fort Lauderdale, FL",186.44
+"Detroit, MI","Fort Myers, FL",174.03
+"Detroit, MI","Fort Wayne, IN",58.37
+"Detroit, MI","Grand Rapids, MI",53.08
+"Detroit, MI","Green Bay, WI",20.46
+"Detroit, MI","Greensboro, NC",102.58
+"Detroit, MI","Greenville, SC",104.22
+"Detroit, MI","Harrisburg, PA",83.22
+"Detroit, MI","Houston, TX",129.51
+"Detroit, MI","Huntsville, AL",51.89
+"Detroit, MI","Indianapolis, IN",79.82
+"Detroit, MI","Jackson, MS",85.74
+"Detroit, MI","Jacksonville, FL",148.54
+"Detroit, MI","Kalamazoo, MI",53.71
+"Detroit, MI","Kansas City, MO",71.41
+"Detroit, MI","Knoxville, TN",101.35
+"Detroit, MI","Lansing, MI",45.3
+"Detroit, MI","Las Vegas, NV",91.41
+"Detroit, MI","Lexington, KY",83.16
+"Detroit, MI","Lincoln, NE",73.35
+"Detroit, MI","Little Rock, AR",76.28
+"Detroit, MI","Los Angeles, CA",120.65
+"Detroit, MI","Louisville, KY",88.34
+"Detroit, MI","Madison, WI",20.43
+"Detroit, MI","Manchester, NH",106.19
+"Detroit, MI","Memphis, TN",68.12
+"Detroit, MI","Miami, FL",184.68
+"Detroit, MI","Milwaukee, WI",18.18
+"Detroit, MI","Minneapolis, MN",59.28
+"Detroit, MI","Moline, IL",35.56
+"Detroit, MI","Mosinee, WI",31.78
+"Detroit, MI","Myrtle Beach, SC",127.0
+"Detroit, MI","Nashville, TN",39.48
+"Detroit, MI","New Orleans, LA",98.88
+"Detroit, MI","New York, NY",117.54
+"Detroit, MI","Newark, NJ",114.8
+"Detroit, MI","Newburgh, NY",96.5
+"Detroit, MI","Norfolk, VA",106.96
+"Detroit, MI","North Canton, OH",61.92
+"Detroit, MI","Oklahoma City, OK",108.35
+"Detroit, MI","Omaha, NE",70.3
+"Detroit, MI","Orlando, FL",158.26
+"Detroit, MI","Pellston, MI",73.89
+"Detroit, MI","Peoria, IL",29.54
+"Detroit, MI","Philadelphia, PA",109.51
+"Detroit, MI","Phoenix, AZ",107.29
+"Detroit, MI","Pittsburgh, PA",69.26
+"Detroit, MI","Portland, ME",126.25
+"Detroit, MI","Portland, OR",113.28
+"Detroit, MI","Providence, RI",109.49
+"Detroit, MI","Rdu Airport, NC",106.57
+"Detroit, MI","Richmond, VA",99.46
+"Detroit, MI","Roanoke, VA",92.63
+"Detroit, MI","Rochester, MN",46.43
+"Detroit, MI","Rochester, NY",78.31
+"Detroit, MI","Saginaw, MI",49.71
+"Detroit, MI","Saint Louis, MO",43.92
+"Detroit, MI","Salt Lake City, UT",118.39
+"Detroit, MI","San Antonio, TX",144.13
+"Detroit, MI","San Diego, CA",117.16
+"Detroit, MI","San Francisco, CA",135.01
+"Detroit, MI","San Juan, PR",320.9
+"Detroit, MI","Sarasota, FL",166.07
+"Detroit, MI","Savannah, GA",130.81
+"Detroit, MI","Seattle, WA",112.95
+"Detroit, MI","Shreveport, LA",100.33
+"Detroit, MI","South Bend, IN",59.37
+"Detroit, MI","South Burlington, VT",101.04
+"Detroit, MI","Springfield, MO",70.0
+"Detroit, MI","Syracuse, NY",83.39
+"Detroit, MI","Tampa, FL",161.69
+"Detroit, MI","Traverse City, MI",67.45
+"Detroit, MI","Tulsa, OK",96.36
+"Detroit, MI","Washington, DC",93.97
+"Detroit, MI","West Palm Beach, FL",178.14
+"Detroit, MI","White Plains, NY",109.93
+"Detroit, MI","Wichita, KS",84.64
+"Detroit, MI","Windsor Locks, CT",105.77
+"Dillingham, AK","Anchorage, AK",61.89
+"Dothan, AL","Atlanta, GA",121.78
+"Dubuque, IA","Chicago, IL",58.43
+"Duluth, MN","Detroit, MI",170.2
+"Duluth, MN","Minneapolis, MN",55.24
+"Durango, CO","Denver, CO",72.25
+"Durango, CO","Phoenix, AZ",67.33
+"Durango, CO","Salt Lake City, UT",78.21
+"Eagle, CO","Atlanta, GA",309.71
+"Eagle, CO","Charlotte, NC",309.88
+"Eagle, CO","Chicago, IL",226.15
+"Eagle, CO","Cincinnati, OH",316.5
+"Eagle, CO","Dallas, TX",191.49
+"Eagle, CO","Denver, CO",64.87
+"Eagle, CO","Houston, TX",216.52
+"Eagle, CO","Los Angeles, CA",77.34
+"Eagle, CO","Miami, FL",367.42
+"Eagle, CO","Minneapolis, MN",203.1
+"Eagle, CO","New York, NY",353.12
+"Eagle, CO","Newark, NJ",370.58
+"Egg Harbor Township, NJ","Atlanta, GA",130.11
+"Egg Harbor Township, NJ","New York, NY",34.0
+"El Paso, TX","Albuquerque, NM",51.71
+"El Paso, TX","Atlanta, GA",294.43
+"El Paso, TX","Austin, TX",141.39
+"El Paso, TX","Chicago, IL",244.93
+"El Paso, TX","Dallas, TX",154.19
+"El Paso, TX","Denver, CO",106.95
+"El Paso, TX","Houston, TX",165.67
+"El Paso, TX","Las Vegas, NV",46.55
+"El Paso, TX","Los Angeles, CA",65.44
+"El Paso, TX","Lubbock, TX",115.85
+"El Paso, TX","Ontario, CA",53.07
+"El Paso, TX","Phoenix, AZ",33.8
+"El Paso, TX","Salt Lake City, UT",149.4
+"El Paso, TX","San Antonio, TX",135.25
+"El Paso, TX","San Diego, CA",47.66
+"El Paso, TX","Tucson, AZ",49.94
+"Elko, NV","Salt Lake City, UT",126.83
+"Elmira / Corning, NY","Detroit, MI",90.41
+"Erie, PA","Detroit, MI",68.39
+"Erie, PA","Pittsburgh, PA",55.0
+"Eugene, OR","Denver, CO",204.95
+"Eugene, OR","Las Vegas, NV",112.5
+"Eugene, OR","Los Angeles, CA",125.98
+"Eugene, OR","Phoenix, AZ",163.67
+"Eugene, OR","Portland, OR",42.35
+"Eugene, OR","Salt Lake City, UT",164.36
+"Eugene, OR","San Francisco, CA",92.66
+"Evansville, IN","Atlanta, GA",139.13
+"Evansville, IN","Chicago, IL",89.18
+"Evansville, IN","Cincinnati, OH",111.1
+"Evansville, IN","Dallas, TX",125.29
+"Evansville, IN","Detroit, MI",148.97
+"Evansville, IN","Memphis, TN",73.37
+"Fairbanks, AK","Anchorage, AK",60.69
+"Fairbanks, AK","Barrow, AK",84.86
+"Fairbanks, AK","Deadhorse, AK",67.85
+"Fairbanks, AK","Minneapolis, MN",502.88
+"Fairbanks, AK","Salt Lake City, UT",407.0
+"Fairbanks, AK","Seattle, WA",263.76
+"Fargo, ND","Chicago, IL",115.48
+"Fargo, ND","Denver, CO",58.45
+"Fargo, ND","Kansas City, MO",92.0
+"Fargo, ND","Minneapolis, MN",67.99
+"Fargo, ND","Salt Lake City, UT",98.91
+"Fayetteville / Springdale, AR","Atlanta, GA",167.91
+"Fayetteville / Springdale, AR","Chicago, IL",107.77
+"Fayetteville / Springdale, AR","Cincinnati, OH",163.25
+"Fayetteville / Springdale, AR","Dallas, TX",73.39
+"Fayetteville / Springdale, AR","Denver, CO",64.43
+"Fayetteville / Springdale, AR","Detroit, MI",192.23
+"Fayetteville / Springdale, AR","Houston, TX",103.77
+"Fayetteville / Springdale, AR","Los Angeles, CA",87.77
+"Fayetteville / Springdale, AR","Memphis, TN",72.62
+"Fayetteville / Springdale, AR","Miami, FL",223.31
+"Fayetteville / Springdale, AR","Minneapolis, MN",116.61
+"Fayetteville / Springdale, AR","New York, NY",242.77
+"Fayetteville / Springdale, AR","Newark, NJ",240.96
+"Fayetteville / Springdale, AR","Rdu Airport, NC",188.26
+"Fayetteville / Springdale, AR","Springfield, MO",62.0
+"Fayetteville / Springdale, AR","Washington, DC",204.59
+"Fayetteville, NC","Atlanta, GA",86.66
+"Flagstaff, AZ","Phoenix, AZ",61.43
+"Flint, MI","Atlanta, GA",131.3
+"Flint, MI","Chicago, IL",22.71
+"Flint, MI","Dallas, TX",126.64
+"Flint, MI","Detroit, MI",48.65
+"Flint, MI","Fort Myers, FL",175.81
+"Flint, MI","Las Vegas, NV",95.92
+"Flint, MI","Milwaukee, WI",6.23
+"Flint, MI","Minneapolis, MN",43.9
+"Flint, MI","Muskegon, MI",36.0
+"Flint, MI","New York, NY",122.95
+"Flint, MI","Orlando, FL",175.42
+"Flint, MI","Tampa, FL",165.0
+"Florence, SC","Atlanta, GA",77.37
+"Fort Hood / Killeen, TX","Atlanta, GA",188.34
+"Fort Hood / Killeen, TX","Dallas, TX",47.51
+"Fort Hood / Killeen, TX","Houston, TX",67.96
+"Fort Lauderdale, FL","Atlanta, GA",121.24
+"Fort Lauderdale, FL","Austin, TX",121.43
+"Fort Lauderdale, FL","BWI Airport, MD",148.4
+"Fort Lauderdale, FL","Boston, MA",191.76
+"Fort Lauderdale, FL","Buffalo, NY",178.32
+"Fort Lauderdale, FL","Charlotte, NC",123.66
+"Fort Lauderdale, FL","Chicago, IL",138.47
+"Fort Lauderdale, FL","Cincinnati, OH",160.81
+"Fort Lauderdale, FL","Cleveland, OH",173.67
+"Fort Lauderdale, FL","Dallas, TX",134.57
+"Fort Lauderdale, FL","Denver, CO",148.6
+"Fort Lauderdale, FL","Detroit, MI",184.4
+"Fort Lauderdale, FL","Gulfport, MS",59.44
+"Fort Lauderdale, FL","Houston, TX",112.08
+"Fort Lauderdale, FL","Indianapolis, IN",176.77
+"Fort Lauderdale, FL","Islip, NY",164.0
+"Fort Lauderdale, FL","Jacksonville, FL",76.58
+"Fort Lauderdale, FL","Las Vegas, NV",147.51
+"Fort Lauderdale, FL","Long Beach, CA",169.94
+"Fort Lauderdale, FL","Los Angeles, CA",174.57
+"Fort Lauderdale, FL","Manchester, NH",192.3
+"Fort Lauderdale, FL","Memphis, TN",95.86
+"Fort Lauderdale, FL","Minneapolis, MN",178.72
+"Fort Lauderdale, FL","Nashville, TN",79.62
+"Fort Lauderdale, FL","New Orleans, LA",62.7
+"Fort Lauderdale, FL","New York, NY",179.01
+"Fort Lauderdale, FL","Newark, NJ",186.45
+"Fort Lauderdale, FL","Newburgh, NY",176.69
+"Fort Lauderdale, FL","Newport News, VA",128.09
+"Fort Lauderdale, FL","North Canton, OH",161.33
+"Fort Lauderdale, FL","Oakland, CA",196.0
+"Fort Lauderdale, FL","Orlando, FL",61.09
+"Fort Lauderdale, FL","Pensacola, FL",55.67
+"Fort Lauderdale, FL","Philadelphia, PA",163.91
+"Fort Lauderdale, FL","Phoenix, AZ",163.1
+"Fort Lauderdale, FL","Pittsburgh, PA",158.99
+"Fort Lauderdale, FL","Ponce, PR",200.5
+"Fort Lauderdale, FL","Providence, RI",175.16
+"Fort Lauderdale, FL","Rdu Airport, NC",126.41
+"Fort Lauderdale, FL","Richmond, VA",135.76
+"Fort Lauderdale, FL","Rochester, NY",171.12
+"Fort Lauderdale, FL","Saint Louis, MO",112.27
+"Fort Lauderdale, FL","Salt Lake City, UT",195.13
+"Fort Lauderdale, FL","San Juan, PR",173.93
+"Fort Lauderdale, FL","Syracuse, NY",184.3
+"Fort Lauderdale, FL","Tallahassee, FL",89.0
+"Fort Lauderdale, FL","Tampa, FL",62.49
+"Fort Lauderdale, FL","Washington, DC",147.71
+"Fort Lauderdale, FL","White Plains, NY",173.63
+"Fort Lauderdale, FL","Windsor Locks, CT",176.9
+"Fort Myers, FL","Atlanta, GA",109.52
+"Fort Myers, FL","BWI Airport, MD",138.18
+"Fort Myers, FL","Boston, MA",181.76
+"Fort Myers, FL","Buffalo, NY",165.98
+"Fort Myers, FL","Charlotte, NC",111.76
+"Fort Myers, FL","Chicago, IL",120.08
+"Fort Myers, FL","Cincinnati, OH",144.94
+"Fort Myers, FL","Cleveland, OH",159.38
+"Fort Myers, FL","Columbus, OH",152.75
+"Fort Myers, FL","Dallas, TX",118.21
+"Fort Myers, FL","Denver, CO",134.09
+"Fort Myers, FL","Detroit, MI",171.93
+"Fort Myers, FL","Flint, MI",170.86
+"Fort Myers, FL","Houston, TX",101.21
+"Fort Myers, FL","Indianapolis, IN",153.59
+"Fort Myers, FL","Islip, NY",154.59
+"Fort Myers, FL","Kansas City, MO",126.8
+"Fort Myers, FL","Memphis, TN",91.75
+"Fort Myers, FL","Miami, FL",46.5
+"Fort Myers, FL","Milwaukee, WI",111.88
+"Fort Myers, FL","Minneapolis, MN",158.07
+"Fort Myers, FL","New York, NY",166.21
+"Fort Myers, FL","Newark, NJ",178.81
+"Fort Myers, FL","North Canton, OH",148.35
+"Fort Myers, FL","Orlando, FL",48.63
+"Fort Myers, FL","Philadelphia, PA",162.57
+"Fort Myers, FL","Pittsburgh, PA",145.31
+"Fort Myers, FL","Saint Louis, MO",96.55
+"Fort Myers, FL","Washington, DC",134.57
+"Fort Myers, FL","West Palm Beach, FL",39.0
+"Fort Myers, FL","White Plains, NY",168.34
+"Fort Myers, FL","Windsor Locks, CT",172.21
+"Fort Smith, AR","Atlanta, GA",167.15
+"Fort Smith, AR","Dallas, TX",64.65
+"Fort Smith, AR","Memphis, TN",67.16
+"Fort Wayne, IN","Atlanta, GA",109.02
+"Fort Wayne, IN","Chicago, IL",22.79
+"Fort Wayne, IN","Dallas, TX",98.37
+"Fort Wayne, IN","Detroit, MI",62.37
+"Fort Wayne, IN","Minneapolis, MN",39.67
+"Fresno, CA","Dallas, TX",304.2
+"Fresno, CA","Denver, CO",192.64
+"Fresno, CA","Las Vegas, NV",79.22
+"Fresno, CA","Long Beach, CA",60.03
+"Fresno, CA","Los Angeles, CA",68.04
+"Fresno, CA","Monterey, CA",40.0
+"Fresno, CA","Ontario, CA",54.12
+"Fresno, CA","Phoenix, AZ",113.86
+"Fresno, CA","Salt Lake City, UT",151.68
+"Fresno, CA","San Diego, CA",66.65
+"Fresno, CA","San Francisco, CA",56.43
+"Gainesville, FL","Atlanta, GA",87.43
+"Gillette, WY","Denver, CO",95.86
+"Grand Forks, ND","Minneapolis, MN",74.75
+"Grand Junction, CO","Aspen, CO",46.0
+"Grand Junction, CO","Chicago, IL",227.0
+"Grand Junction, CO","Dallas, TX",183.24
+"Grand Junction, CO","Denver, CO",68.21
+"Grand Junction, CO","Los Angeles, CA",53.5
+"Grand Junction, CO","Phoenix, AZ",86.3
+"Grand Junction, CO","Salt Lake City, UT",60.11
+"Grand Rapids, MI","Atlanta, GA",127.49
+"Grand Rapids, MI","Chicago, IL",25.71
+"Grand Rapids, MI","Cincinnati, OH",75.31
+"Grand Rapids, MI","Cleveland, OH",60.5
+"Grand Rapids, MI","Dallas, TX",108.22
+"Grand Rapids, MI","Denver, CO",51.02
+"Grand Rapids, MI","Detroit, MI",60.45
+"Grand Rapids, MI","Houston, TX",127.16
+"Grand Rapids, MI","Memphis, TN",63.49
+"Grand Rapids, MI","Milwaukee, WI",12.8
+"Grand Rapids, MI","Minneapolis, MN",36.13
+"Grand Rapids, MI","New York, NY",130.34
+"Grand Rapids, MI","Newark, NJ",121.18
+"Grand Rapids, MI","Orlando, FL",181.26
+"Grand Rapids, MI","Washington, DC",101.92
+"Great Falls, MT","Chicago, IL",272.67
+"Great Falls, MT","Denver, CO",109.36
+"Great Falls, MT","Minneapolis, MN",206.08
+"Great Falls, MT","Salt Lake City, UT",85.89
+"Green Bay, WI","Atlanta, GA",196.32
+"Green Bay, WI","Chicago, IL",67.54
+"Green Bay, WI","Cincinnati, OH",152.04
+"Green Bay, WI","Denver, CO",90.0
+"Green Bay, WI","Detroit, MI",138.19
+"Green Bay, WI","Great Falls, MT",116.0
+"Green Bay, WI","Louisville, KY",149.0
+"Green Bay, WI","Milwaukee, WI",40.89
+"Green Bay, WI","Minneapolis, MN",74.13
+"Greensboro, NC","Atlanta, GA",85.62
+"Greensboro, NC","Boston, MA",126.75
+"Greensboro, NC","Charlotte, NC",56.91
+"Greensboro, NC","Chicago, IL",67.19
+"Greensboro, NC","Cincinnati, OH",84.25
+"Greensboro, NC","Cleveland, OH",91.75
+"Greensboro, NC","Dallas, TX",120.98
+"Greensboro, NC","Detroit, MI",109.76
+"Greensboro, NC","Houston, TX",120.47
+"Greensboro, NC","Jacksonville, FL",88.0
+"Greensboro, NC","Memphis, TN",64.39
+"Greensboro, NC","Miami, FL",130.84
+"Greensboro, NC","Minneapolis, MN",111.59
+"Greensboro, NC","New York, NY",109.93
+"Greensboro, NC","Newark, NJ",106.37
+"Greensboro, NC","Norfolk, VA",55.0
+"Greensboro, NC","Orlando, FL",103.0
+"Greensboro, NC","Washington, DC",68.18
+"Greenville, SC","Atlanta, GA",62.58
+"Greenville, SC","Chicago, IL",70.33
+"Greenville, SC","Cincinnati, OH",84.38
+"Greenville, SC","Cleveland, OH",89.54
+"Greenville, SC","Dallas, TX",104.53
+"Greenville, SC","Detroit, MI",112.07
+"Greenville, SC","Houston, TX",100.41
+"Greenville, SC","Memphis, TN",38.26
+"Greenville, SC","New York, NY",125.98
+"Greenville, SC","Newark, NJ",118.28
+"Greenville, SC","Orlando, FL",97.83
+"Greenville, SC","Washington, DC",85.28
+"Gulfport, MS","Atlanta, GA",141.06
+"Gulfport, MS","Chicago, IL",148.97
+"Gulfport, MS","Dallas, TX",107.38
+"Gulfport, MS","Fort Lauderdale, FL",163.43
+"Gulfport, MS","Houston, TX",90.96
+"Gulfport, MS","Memphis, TN",82.87
+"Gulfport, MS","Tampa, FL",145.21
+"Gunnison, CO","Dallas, TX",170.74
+"Gunnison, CO","Denver, CO",63.89
+"Hailey, ID","Salt Lake City, UT",66.92
+"Hancock, MI","Minneapolis, MN",23.33
+"Harlingen, TX","Austin, TX",58.75
+"Harlingen, TX","Dallas, TX",77.0
+"Harlingen, TX","Houston, TX",60.38
+"Harlingen, TX","San Antonio, TX",51.13
+"Harrisburg, PA","Atlanta, GA",128.39
+"Harrisburg, PA","Avoca, PA",40.0
+"Harrisburg, PA","Charlotte, NC",97.18
+"Harrisburg, PA","Chicago, IL",70.53
+"Harrisburg, PA","Cincinnati, OH",102.0
+"Harrisburg, PA","Cleveland, OH",70.9
+"Harrisburg, PA","Dallas, TX",150.39
+"Harrisburg, PA","Detroit, MI",102.13
+"Harrisburg, PA","Minneapolis, MN",112.18
+"Harrisburg, PA","Washington, DC",48.63
+"Hayden, CO","Atlanta, GA",312.73
+"Hayden, CO","Chicago, IL",226.28
+"Hayden, CO","Dallas, TX",188.7
+"Hayden, CO","Denver, CO",61.19
+"Hayden, CO","Houston, TX",222.07
+"Hayden, CO","Minneapolis, MN",202.15
+"Hayden, CO","New York, NY",343.4
+"Hayden, CO","Newark, NJ",351.33
+"Hayden, CO","Salt Lake City, UT",74.38
+"Helena, MT","Denver, CO",108.38
+"Helena, MT","Minneapolis, MN",206.25
+"Helena, MT","Salt Lake City, UT",79.89
+"Hilo, HI","Honolulu, HI",50.9
+"Hilo, HI","Kahului, HI",35.8
+"Hilo, HI","Keahole, HI",34.33
+"Honolulu, HI","Atlanta, GA",848.0
+"Honolulu, HI","Chicago, IL",762.0
+"Honolulu, HI","Dallas, TX",667.0
+"Honolulu, HI","Denver, CO",587.5
+"Honolulu, HI","Hilo, HI",50.91
+"Honolulu, HI","Kahului, HI",37.59
+"Honolulu, HI","Keahole, HI",43.86
+"Honolulu, HI","Las Vegas, NV",485.21
+"Honolulu, HI","Lihue, HI",38.05
+"Honolulu, HI","Los Angeles, CA",479.07
+"Honolulu, HI","Minneapolis, MN",699.0
+"Honolulu, HI","Oakland, CA",419.82
+"Honolulu, HI","Orange County, CA",440.42
+"Honolulu, HI","Phoenix, AZ",534.6
+"Honolulu, HI","Portland, OR",485.1
+"Honolulu, HI","Sacramento, CA",464.32
+"Honolulu, HI","San Diego, CA",490.34
+"Honolulu, HI","San Francisco, CA",453.28
+"Honolulu, HI","San Jose, CA",465.55
+"Honolulu, HI","Seattle, WA",492.84
+"Houston, TX","Albuquerque, NM",74.47
+"Houston, TX","Alexandria, LA",57.14
+"Houston, TX","Amarillo, TX",104.79
+"Houston, TX","Anchorage, AK",256.0
+"Houston, TX","Asheville, NC",189.34
+"Houston, TX","Atlanta, GA",183.44
+"Houston, TX","Augusta, GA",187.0
+"Houston, TX","Austin, TX",50.28
+"Houston, TX","BWI Airport, MD",231.8
+"Houston, TX","Baton Rouge, LA",64.29
+"Houston, TX","Beaumont / Port Arthur, TX",38.65
+"Houston, TX","Birmingham, AL",97.52
+"Houston, TX","Boston, MA",283.56
+"Houston, TX","Brownsville, TX",75.7
+"Houston, TX","Charleston, SC",201.14
+"Houston, TX","Charleston, WV",206.4
+"Houston, TX","Charlotte, NC",207.35
+"Houston, TX","Chattanooga, TN",176.44
+"Houston, TX","Chicago, IL",154.57
+"Houston, TX","Cincinnati, OH",203.82
+"Houston, TX","Cleveland, OH",221.41
+"Houston, TX","College Station, TX",42.75
+"Houston, TX","Colorado Springs, CO",85.36
+"Houston, TX","Columbia, SC",201.19
+"Houston, TX","Columbus, OH",211.32
+"Houston, TX","Corpus Christi, TX",49.37
+"Houston, TX","Dallas, TX",64.34
+"Houston, TX","Dayton, OH",203.42
+"Houston, TX","Denver, CO",91.02
+"Houston, TX","Des Moines, IA",134.29
+"Houston, TX","Detroit, MI",225.23
+"Houston, TX","Eagle, CO",115.52
+"Houston, TX","El Paso, TX",57.23
+"Houston, TX","Fayetteville / Springdale, AR",90.73
+"Houston, TX","Fort Hood / Killeen, TX",57.02
+"Houston, TX","Fort Lauderdale, FL",199.32
+"Houston, TX","Fort Myers, FL",194.87
+"Houston, TX","Grand Rapids, MI",214.35
+"Houston, TX","Greensboro, NC",209.06
+"Houston, TX","Greenville, SC",195.79
+"Houston, TX","Gulfport, MS",78.54
+"Houston, TX","Harlingen, TX",58.15
+"Houston, TX","Hayden, CO",114.36
+"Houston, TX","Honolulu, HI",219.59
+"Houston, TX","Houston, TX",26.0
+"Houston, TX","Huntsville, AL",108.06
+"Houston, TX","Indianapolis, IN",198.19
+"Houston, TX","Jackson, MS",71.55
+"Houston, TX","Jacksonville, FL",184.12
+"Houston, TX","Kansas City, MO",119.49
+"Houston, TX","Knoxville, TN",185.21
+"Houston, TX","Lafayette, LA",58.94
+"Houston, TX","Lake Charles, LA",50.83
+"Houston, TX","Laredo, TX",77.12
+"Houston, TX","Las Vegas, NV",79.93
+"Houston, TX","Lexington, KY",194.81
+"Houston, TX","Little Rock, AR",78.51
+"Houston, TX","Los Angeles, CA",99.02
+"Houston, TX","Louisville, KY",193.96
+"Houston, TX","Lubbock, TX",97.02
+"Houston, TX","Mcallen, TX",78.26
+"Houston, TX","Memphis, TN",97.32
+"Houston, TX","Miami, FL",202.51
+"Houston, TX","Midland, TX",86.24
+"Houston, TX","Milwaukee, WI",155.9
+"Houston, TX","Minneapolis, MN",168.08
+"Houston, TX","Mobile, AL",85.47
+"Houston, TX","Monroe, LA",65.71
+"Houston, TX","Montgomery, AL",95.92
+"Houston, TX","Montrose, CO",102.81
+"Houston, TX","Nashville, TN",109.61
+"Houston, TX","New Orleans, LA",63.62
+"Houston, TX","New York, NY",274.33
+"Houston, TX","Newark, NJ",269.0
+"Houston, TX","Norfolk, VA",227.62
+"Houston, TX","Oakland, CA",131.71
+"Houston, TX","Oklahoma City, OK",82.44
+"Houston, TX","Omaha, NE",134.08
+"Houston, TX","Ontario, CA",93.69
+"Houston, TX","Orange County, CA",97.33
+"Houston, TX","Orlando, FL",189.8
+"Houston, TX","Palm Springs, CA",91.18
+"Houston, TX","Pensacola, FL",89.37
+"Houston, TX","Philadelphia, PA",252.22
+"Houston, TX","Phoenix, AZ",74.16
+"Houston, TX","Pittsburgh, PA",226.95
+"Houston, TX","Portland, OR",153.81
+"Houston, TX","Rdu Airport, NC",214.7
+"Houston, TX","Reno, NV",122.05
+"Houston, TX","Richmond, VA",225.49
+"Houston, TX","Sacramento, CA",131.2
+"Houston, TX","Saint Louis, MO",114.14
+"Houston, TX","Salt Lake City, UT",139.89
+"Houston, TX","San Antonio, TX",57.34
+"Houston, TX","San Diego, CA",84.79
+"Houston, TX","San Francisco, CA",144.02
+"Houston, TX","San Jose, CA",142.26
+"Houston, TX","San Juan, PR",340.82
+"Houston, TX","Sarasota, FL",187.5
+"Houston, TX","Savannah, GA",188.08
+"Houston, TX","Seattle, WA",159.81
+"Houston, TX","Shreveport, LA",58.87
+"Houston, TX","Tallahassee, FL",167.23
+"Houston, TX","Tampa, FL",178.06
+"Houston, TX","Tucson, AZ",67.31
+"Houston, TX","Tulsa, OK",85.33
+"Houston, TX","Valparaiso, FL",99.68
+"Houston, TX","Washington, DC",233.54
+"Houston, TX","West Palm Beach, FL",201.78
+"Houston, TX","Wichita, KS",104.32
+"Houston, TX","Windsor Locks, CT",274.27
+"Huntsville, AL","Atlanta, GA",123.29
+"Huntsville, AL","Birmingham, AL",33.0
+"Huntsville, AL","Chicago, IL",123.69
+"Huntsville, AL","Cincinnati, OH",138.99
+"Huntsville, AL","Dallas, TX",123.61
+"Huntsville, AL","Denver, CO",118.45
+"Huntsville, AL","Detroit, MI",173.24
+"Huntsville, AL","Houston, TX",121.46
+"Huntsville, AL","Memphis, TN",67.7
+"Huntsville, AL","New York, NY",227.5
+"Huntsville, AL","Orlando, FL",162.71
+"Huntsville, AL","Tucson, AZ",149.0
+"Huntsville, AL","Washington, DC",168.8
+"Idaho Falls, ID","Denver, CO",88.94
+"Idaho Falls, ID","Minneapolis, MN",215.07
+"Idaho Falls, ID","Salt Lake City, UT",57.76
+"Imperial, CA","Los Angeles, CA",68.66
+"Imperial, CA","Yuma, AZ",59.41
+"Indianapolis, IN","Atlanta, GA",98.51
+"Indianapolis, IN","Austin, TX",100.55
+"Indianapolis, IN","BWI Airport, MD",89.07
+"Indianapolis, IN","Boston, MA",139.37
+"Indianapolis, IN","Charlotte, NC",95.57
+"Indianapolis, IN","Chicago, IL",24.0
+"Indianapolis, IN","Cincinnati, OH",47.41
+"Indianapolis, IN","Cleveland, OH",71.23
+"Indianapolis, IN","Dallas, TX",83.4
+"Indianapolis, IN","Denver, CO",47.97
+"Indianapolis, IN","Detroit, MI",76.84
+"Indianapolis, IN","Fort Lauderdale, FL",166.06
+"Indianapolis, IN","Fort Myers, FL",150.93
+"Indianapolis, IN","Houston, TX",95.78
+"Indianapolis, IN","Jacksonville, FL",108.98
+"Indianapolis, IN","Kansas City, MO",35.21
+"Indianapolis, IN","Las Vegas, NV",68.59
+"Indianapolis, IN","Los Angeles, CA",99.98
+"Indianapolis, IN","Memphis, TN",36.02
+"Indianapolis, IN","Miami, FL",162.28
+"Indianapolis, IN","Milwaukee, WI",7.4
+"Indianapolis, IN","Minneapolis, MN",52.21
+"Indianapolis, IN","New Orleans, LA",56.5
+"Indianapolis, IN","New York, NY",138.94
+"Indianapolis, IN","Newark, NJ",132.14
+"Indianapolis, IN","Orlando, FL",135.47
+"Indianapolis, IN","Philadelphia, PA",118.69
+"Indianapolis, IN","Phoenix, AZ",76.53
+"Indianapolis, IN","Pittsburgh, PA",87.0
+"Indianapolis, IN","Rdu Airport, NC",102.18
+"Indianapolis, IN","San Antonio, TX",101.48
+"Indianapolis, IN","San Francisco, CA",110.81
+"Indianapolis, IN","Sarasota, FL",137.4
+"Indianapolis, IN","Seattle, WA",105.33
+"Indianapolis, IN","Tampa, FL",134.52
+"Indianapolis, IN","Washington, DC",97.36
+"Indianapolis, IN","Windsor Locks, CT",124.75
+"International Falls, MN","Minneapolis, MN",57.0
+"Inyokern, CA","Los Angeles, CA",57.39
+"Islip, NY","Atlanta, GA",161.9
+"Islip, NY","BWI Airport, MD",67.37
+"Islip, NY","Chicago, IL",79.26
+"Islip, NY","Fort Lauderdale, FL",172.45
+"Islip, NY","Fort Myers, FL",179.97
+"Islip, NY","Las Vegas, NV",154.63
+"Islip, NY","Orlando, FL",160.33
+"Islip, NY","Tampa, FL",169.36
+"Islip, NY","West Palm Beach, FL",164.17
+"Jackson, MS","Atlanta, GA",138.99
+"Jackson, MS","BWI Airport, MD",186.82
+"Jackson, MS","Chicago, IL",124.83
+"Jackson, MS","Cincinnati, OH",163.82
+"Jackson, MS","Dallas, TX",92.62
+"Jackson, MS","Detroit, MI",198.67
+"Jackson, MS","Houston, TX",79.75
+"Jackson, MS","Memphis, TN",66.51
+"Jackson, MS","Newark, NJ",215.0
+"Jackson, MS","Orlando, FL",157.18
+"Jackson, MS","Washington, DC",195.95
+"Jackson, WY","Atlanta, GA",338.84
+"Jackson, WY","Chicago, IL",233.34
+"Jackson, WY","Cincinnati, OH",301.0
+"Jackson, WY","Dallas, TX",230.5
+"Jackson, WY","Denver, CO",90.91
+"Jackson, WY","Los Angeles, CA",81.67
+"Jackson, WY","Minneapolis, MN",202.5
+"Jackson, WY","Salt Lake City, UT",67.13
+"Jacksonville, FL","Atlanta, GA",76.97
+"Jacksonville, FL","Austin, TX",97.02
+"Jacksonville, FL","BWI Airport, MD",104.5
+"Jacksonville, FL","Birmingham, AL",12.57
+"Jacksonville, FL","Boston, MA",160.37
+"Jacksonville, FL","Charlotte, NC",77.01
+"Jacksonville, FL","Chicago, IL",102.21
+"Jacksonville, FL","Cincinnati, OH",115.71
+"Jacksonville, FL","Cleveland, OH",123.82
+"Jacksonville, FL","Dallas, TX",104.74
+"Jacksonville, FL","Denver, CO",109.5
+"Jacksonville, FL","Detroit, MI",143.83
+"Jacksonville, FL","Fort Lauderdale, FL",69.79
+"Jacksonville, FL","Houston, TX",90.27
+"Jacksonville, FL","Indianapolis, IN",116.13
+"Jacksonville, FL","Kansas City, MO",102.29
+"Jacksonville, FL","Las Vegas, NV",89.0
+"Jacksonville, FL","Los Angeles, CA",147.67
+"Jacksonville, FL","Memphis, TN",61.06
+"Jacksonville, FL","Miami, FL",80.19
+"Jacksonville, FL","Minneapolis, MN",131.52
+"Jacksonville, FL","Nashville, TN",28.64
+"Jacksonville, FL","New Orleans, LA",36.89
+"Jacksonville, FL","New York, NY",144.22
+"Jacksonville, FL","Newark, NJ",150.17
+"Jacksonville, FL","Norfolk, VA",86.09
+"Jacksonville, FL","Philadelphia, PA",130.22
+"Jacksonville, FL","Rdu Airport, NC",77.65
+"Jacksonville, FL","Tampa, FL",53.53
+"Jacksonville, FL","Washington, DC",107.58
+"Jacksonville, NC","Atlanta, GA",96.11
+"Juneau, AK","Anchorage, AK",107.34
+"Juneau, AK","Ketchikan, AK",64.68
+"Juneau, AK","Petersburg, AK",45.82
+"Juneau, AK","Seattle, WA",194.85
+"Juneau, AK","Sitka, AK",42.3
+"Juneau, AK","Yakutat, AK",57.98
+"Kahului, HI","Dallas, TX",744.0
+"Kahului, HI","Hilo, HI",34.17
+"Kahului, HI","Honolulu, HI",35.39
+"Kahului, HI","Keahole, HI",36.02
+"Kahului, HI","Lihue, HI",42.5
+"Kahului, HI","Los Angeles, CA",463.33
+"Kahului, HI","Oakland, CA",410.89
+"Kahului, HI","Orange County, CA",415.93
+"Kahului, HI","Phoenix, AZ",524.3
+"Kahului, HI","Portland, OR",472.85
+"Kahului, HI","Sacramento, CA",408.29
+"Kahului, HI","Salt Lake City, UT",586.0
+"Kahului, HI","San Diego, CA",444.85
+"Kahului, HI","San Francisco, CA",445.58
+"Kahului, HI","Seattle, WA",482.6
+"Kalamazoo, MI","Chicago, IL",24.46
+"Kalamazoo, MI","Cincinnati, OH",57.0
+"Kalamazoo, MI","Detroit, MI",60.18
+"Kalamazoo, MI","Fargo, ND",52.0
+"Kalamazoo, MI","Minneapolis, MN",45.14
+"Kansas City, MO","Albuquerque, NM",63.33
+"Kansas City, MO","Atlanta, GA",180.87
+"Kansas City, MO","Austin, TX",115.9
+"Kansas City, MO","BWI Airport, MD",196.0
+"Kansas City, MO","Charlotte, NC",187.42
+"Kansas City, MO","Chicago, IL",84.17
+"Kansas City, MO","Cincinnati, OH",159.13
+"Kansas City, MO","Cleveland, OH",175.1
+"Kansas City, MO","Colorado Springs, CO",45.88
+"Kansas City, MO","Columbus, OH",162.39
+"Kansas City, MO","Dallas, TX",93.1
+"Kansas City, MO","Denver, CO",46.98
+"Kansas City, MO","Detroit, MI",182.22
+"Kansas City, MO","Fort Myers, FL",214.0
+"Kansas City, MO","Houston, TX",128.48
+"Kansas City, MO","Indianapolis, IN",143.82
+"Kansas City, MO","Jacksonville, FL",201.96
+"Kansas City, MO","Las Vegas, NV",64.72
+"Kansas City, MO","Lincoln, NE",58.0
+"Kansas City, MO","Los Angeles, CA",92.51
+"Kansas City, MO","Madison, WI",73.73
+"Kansas City, MO","Memphis, TN",90.64
+"Kansas City, MO","Miami, FL",228.8
+"Kansas City, MO","Milwaukee, WI",88.0
+"Kansas City, MO","Minneapolis, MN",90.74
+"Kansas City, MO","Nashville, TN",83.93
+"Kansas City, MO","New Orleans, LA",116.38
+"Kansas City, MO","Newark, NJ",231.14
+"Kansas City, MO","Oakland, CA",110.19
+"Kansas City, MO","Oklahoma City, OK",65.76
+"Kansas City, MO","Ontario, CA",85.71
+"Kansas City, MO","Orlando, FL",212.48
+"Kansas City, MO","Phoenix, AZ",71.42
+"Kansas City, MO","Pittsburgh, PA",178.09
+"Kansas City, MO","Portland, OR",104.79
+"Kansas City, MO","Rdu Airport, NC",192.03
+"Kansas City, MO","Sacramento, CA",95.78
+"Kansas City, MO","Saint Louis, MO",53.44
+"Kansas City, MO","Salt Lake City, UT",104.89
+"Kansas City, MO","San Antonio, TX",126.33
+"Kansas City, MO","San Diego, CA",86.95
+"Kansas City, MO","Seattle, WA",110.82
+"Kansas City, MO","Tampa, FL",206.59
+"Kansas City, MO","Tucson, AZ",89.26
+"Kansas City, MO","Tulsa, OK",52.75
+"Kansas City, MO","Washington, DC",193.04
+"Keahole, HI","Honolulu, HI",43.75
+"Keahole, HI","Kahului, HI",30.55
+"Keahole, HI","Lihue, HI",54.29
+"Keahole, HI","Los Angeles, CA",470.58
+"Keahole, HI","Orange County, CA",422.32
+"Keahole, HI","Phoenix, AZ",521.0
+"Keahole, HI","San Diego, CA",422.6
+"Keahole, HI","San Francisco, CA",457.22
+"Ketchikan, AK","Juneau, AK",58.31
+"Ketchikan, AK","Seattle, WA",173.16
+"Ketchikan, AK","Sitka, AK",58.19
+"Ketchikan, AK","Wrangell, AK",48.04
+"Key West, FL","Atlanta, GA",123.26
+"Key West, FL","Orlando, FL",63.25
+"King Salmon, AK","Dillingham, AK",26.18
+"Knoxville, TN","Atlanta, GA",62.17
+"Knoxville, TN","Austin, TX",105.0
+"Knoxville, TN","Chicago, IL",52.03
+"Knoxville, TN","Cincinnati, OH",64.84
+"Knoxville, TN","Cleveland, OH",81.57
+"Knoxville, TN","Dallas, TX",85.67
+"Knoxville, TN","Denver, CO",72.56
+"Knoxville, TN","Detroit, MI",102.75
+"Knoxville, TN","Houston, TX",82.51
+"Knoxville, TN","Memphis, TN",28.64
+"Knoxville, TN","Minneapolis, MN",88.46
+"Knoxville, TN","New York, NY",134.58
+"Knoxville, TN","Newark, NJ",132.62
+"Knoxville, TN","Orlando, FL",100.36
+"Kodiak, AK","Anchorage, AK",52.13
+"Kotzebue, AK","Anchorage, AK",87.9
+"Kotzebue, AK","Nome, AK",42.38
+"La Crosse, WI","Chicago, IL",72.71
+"La Crosse, WI","Minneapolis, MN",53.82
+"Lafayette, LA","Atlanta, GA",162.94
+"Lafayette, LA","Dallas, TX",114.38
+"Lafayette, LA","Houston, TX",67.42
+"Lake Charles, LA","Houston, TX",57.79
+"Lansing, MI","Chicago, IL",23.93
+"Lansing, MI","Cincinnati, OH",76.14
+"Lansing, MI","Detroit, MI",54.26
+"Lansing, MI","Minneapolis, MN",39.67
+"Laredo, TX","Dallas, TX",84.82
+"Laredo, TX","Houston, TX",77.6
+"Las Vegas, NV","Albany, NY",447.44
+"Las Vegas, NV","Albuquerque, NM",142.91
+"Las Vegas, NV","Amarillo, TX",234.09
+"Las Vegas, NV","Anchorage, AK",279.06
+"Las Vegas, NV","Atlanta, GA",409.74
+"Las Vegas, NV","Austin, TX",272.33
+"Las Vegas, NV","BWI Airport, MD",440.69
+"Las Vegas, NV","Bakersfield, CA",62.5
+"Las Vegas, NV","Birmingham, AL",320.58
+"Las Vegas, NV","Bloomington, IL",304.54
+"Las Vegas, NV","Boise, ID",163.36
+"Las Vegas, NV","Boston, MA",467.78
+"Las Vegas, NV","Buffalo, NY",421.94
+"Las Vegas, NV","Burbank, CA",62.45
+"Las Vegas, NV","Charlotte, NC",421.9
+"Las Vegas, NV","Chicago, IL",328.17
+"Las Vegas, NV","Cincinnati, OH",400.22
+"Las Vegas, NV","Cleveland, OH",411.93
+"Las Vegas, NV","Colorado Springs, CO",166.0
+"Las Vegas, NV","Columbus, OH",402.12
+"Las Vegas, NV","Dallas, TX",274.54
+"Las Vegas, NV","Dayton, OH",388.67
+"Las Vegas, NV","Denver, CO",167.83
+"Las Vegas, NV","Detroit, MI",415.24
+"Las Vegas, NV","El Paso, TX",154.05
+"Las Vegas, NV","Eugene, OR",147.0
+"Las Vegas, NV","Flint, MI",400.75
+"Las Vegas, NV","Fort Lauderdale, FL",444.5
+"Las Vegas, NV","Fresno, CA",90.3
+"Las Vegas, NV","Honolulu, HI",218.15
+"Las Vegas, NV","Houston, TX",292.26
+"Las Vegas, NV","Indianapolis, IN",389.69
+"Las Vegas, NV","Islip, NY",462.64
+"Las Vegas, NV","Jacksonville, FL",425.94
+"Las Vegas, NV","Kansas City, MO",277.86
+"Las Vegas, NV","Little Rock, AR",285.43
+"Las Vegas, NV","Long Beach, CA",70.33
+"Las Vegas, NV","Los Angeles, CA",69.54
+"Las Vegas, NV","Louisville, KY",380.11
+"Las Vegas, NV","Lubbock, TX",233.67
+"Las Vegas, NV","Manchester, NH",455.18
+"Las Vegas, NV","Medford, OR",104.0
+"Las Vegas, NV","Memphis, TN",323.5
+"Las Vegas, NV","Miami, FL",443.91
+"Las Vegas, NV","Midland, TX",237.92
+"Las Vegas, NV","Milwaukee, WI",325.5
+"Las Vegas, NV","Minneapolis, MN",304.13
+"Las Vegas, NV","Moline, IL",301.22
+"Las Vegas, NV","Monterey, CA",88.0
+"Las Vegas, NV","Nashville, TN",322.05
+"Las Vegas, NV","New Orleans, LA",311.73
+"Las Vegas, NV","New York, NY",481.69
+"Las Vegas, NV","Newark, NJ",468.01
+"Las Vegas, NV","Norfolk, VA",439.26
+"Las Vegas, NV","North Canton, OH",394.0
+"Las Vegas, NV","Oakland, CA",89.82
+"Las Vegas, NV","Oklahoma City, OK",258.56
+"Las Vegas, NV","Omaha, NE",271.74
+"Las Vegas, NV","Ontario, CA",52.98
+"Las Vegas, NV","Orange County, CA",63.56
+"Las Vegas, NV","Orlando, FL",436.13
+"Las Vegas, NV","Palm Springs, CA",65.84
+"Las Vegas, NV","Philadelphia, PA",452.63
+"Las Vegas, NV","Phoenix, AZ",92.54
+"Las Vegas, NV","Pittsburgh, PA",417.32
+"Las Vegas, NV","Portland, OR",137.89
+"Las Vegas, NV","Providence, RI",462.01
+"Las Vegas, NV","Rdu Airport, NC",432.58
+"Las Vegas, NV","Reno, NV",77.18
+"Las Vegas, NV","Rochester, NY",438.5
+"Las Vegas, NV","Sacramento, CA",87.59
+"Las Vegas, NV","Saint Louis, MO",300.85
+"Las Vegas, NV","Salt Lake City, UT",138.14
+"Las Vegas, NV","San Antonio, TX",267.76
+"Las Vegas, NV","San Diego, CA",64.13
+"Las Vegas, NV","San Francisco, CA",96.54
+"Las Vegas, NV","San Jose, CA",83.69
+"Las Vegas, NV","San Luis Obispo, CA",74.43
+"Las Vegas, NV","Santa Barbara, CA",81.38
+"Las Vegas, NV","Seattle, WA",157.57
+"Las Vegas, NV","Spokane, WA",143.34
+"Las Vegas, NV","Tampa, FL",430.34
+"Las Vegas, NV","Tucson, AZ",96.26
+"Las Vegas, NV","Tulsa, OK",268.27
+"Las Vegas, NV","Washington, DC",439.91
+"Las Vegas, NV","West Palm Beach, FL",445.67
+"Las Vegas, NV","Windsor Locks, CT",454.08
+"Las Vegas, NV","Yuma, AZ",86.0
+"Lawton, OK","Atlanta, GA",188.39
+"Lawton, OK","Dallas, TX",57.43
+"Lewisburg, WV","Atlanta, GA",82.81
+"Lewiston, ID","Salt Lake City, UT",145.57
+"Lexington, KY","Atlanta, GA",84.28
+"Lexington, KY","Chicago, IL",35.85
+"Lexington, KY","Cincinnati, OH",45.67
+"Lexington, KY","Dallas, TX",88.07
+"Lexington, KY","Detroit, MI",86.9
+"Lexington, KY","Houston, TX",97.62
+"Lexington, KY","Memphis, TN",29.11
+"Lexington, KY","New York, NY",128.17
+"Lexington, KY","Newark, NJ",123.87
+"Lexington, KY","Orlando, FL",119.25
+"Lexington, KY","Washington, DC",86.46
+"Lihue, HI","Honolulu, HI",33.77
+"Lihue, HI","Kahului, HI",49.53
+"Lihue, HI","Keahole, HI",51.9
+"Lihue, HI","Los Angeles, CA",475.0
+"Lihue, HI","Orange County, CA",432.67
+"Lihue, HI","Phoenix, AZ",542.5
+"Lihue, HI","San Diego, CA",439.33
+"Lihue, HI","San Francisco, CA",462.38
+"Lihue, HI","Seattle, WA",478.0
+"Lincoln, NE","Allentown, PA",220.0
+"Lincoln, NE","Charleston, WV",163.0
+"Lincoln, NE","Chicago, IL",99.78
+"Lincoln, NE","Denver, CO",29.86
+"Lincoln, NE","Detroit, MI",187.03
+"Lincoln, NE","Minneapolis, MN",84.09
+"Lincoln, NE","Peoria, IL",63.0
+"Little Rock, AR","Atlanta, GA",150.97
+"Little Rock, AR","BWI Airport, MD",187.05
+"Little Rock, AR","Charlotte, NC",170.0
+"Little Rock, AR","Chicago, IL",106.43
+"Little Rock, AR","Cincinnati, OH",155.0
+"Little Rock, AR","Dallas, TX",71.02
+"Little Rock, AR","Detroit, MI",188.04
+"Little Rock, AR","Houston, TX",87.37
+"Little Rock, AR","Las Vegas, NV",80.26
+"Little Rock, AR","Memphis, TN",55.17
+"Little Rock, AR","Minneapolis, MN",142.59
+"Little Rock, AR","Newark, NJ",223.71
+"Little Rock, AR","Phoenix, AZ",80.07
+"Little Rock, AR","Saint Louis, MO",63.21
+"Little Rock, AR","Salt Lake City, UT",127.71
+"Long Beach, CA","Austin, TX",286.62
+"Long Beach, CA","Boston, MA",494.28
+"Long Beach, CA","Chicago, IL",355.72
+"Long Beach, CA","Fresno, CA",62.43
+"Long Beach, CA","Las Vegas, NV",74.69
+"Long Beach, CA","Monterey, CA",65.76
+"Long Beach, CA","New York, NY",496.91
+"Long Beach, CA","Oakland, CA",79.98
+"Long Beach, CA","Ontario, CA",27.0
+"Long Beach, CA","Phoenix, AZ",105.27
+"Long Beach, CA","Reno, NV",82.72
+"Long Beach, CA","Sacramento, CA",84.4
+"Long Beach, CA","Salt Lake City, UT",164.73
+"Long Beach, CA","San Jose, CA",80.8
+"Long Beach, CA","Seattle, WA",162.37
+"Long Beach, CA","Spokane, WA",149.0
+"Long Beach, CA","Washington, DC",455.28
+"Longview, TX","Dallas, TX",62.87
+"Los Angeles, CA","Albuquerque, NM",162.2
+"Los Angeles, CA","Anchorage, AK",246.0
+"Los Angeles, CA","Aspen, CO",182.93
+"Los Angeles, CA","Atlanta, GA",429.23
+"Los Angeles, CA","Austin, TX",286.75
+"Los Angeles, CA","BWI Airport, MD",473.64
+"Los Angeles, CA","Bakersfield, CA",49.72
+"Los Angeles, CA","Boise, ID",182.08
+"Los Angeles, CA","Boston, MA",496.73
+"Los Angeles, CA","Charlotte, NC",447.7
+"Los Angeles, CA","Chicago, IL",353.58
+"Los Angeles, CA","Cincinnati, OH",423.11
+"Los Angeles, CA","Cleveland, OH",435.99
+"Los Angeles, CA","Colorado Springs, CO",192.03
+"Los Angeles, CA","Dallas, TX",293.98
+"Los Angeles, CA","Denver, CO",191.83
+"Los Angeles, CA","Des Moines, IA",309.83
+"Los Angeles, CA","Detroit, MI",441.46
+"Los Angeles, CA","Eagle, CO",186.64
+"Los Angeles, CA","El Paso, TX",162.85
+"Los Angeles, CA","Eugene, OR",131.71
+"Los Angeles, CA","Fayetteville / Springdale, AR",294.6
+"Los Angeles, CA","Fort Lauderdale, FL",461.04
+"Los Angeles, CA","Fresno, CA",70.7
+"Los Angeles, CA","Honolulu, HI",180.17
+"Los Angeles, CA","Houston, TX",304.18
+"Los Angeles, CA","Imperial, CA",61.68
+"Los Angeles, CA","Indianapolis, IN",418.35
+"Los Angeles, CA","Inyokern, CA",53.43
+"Los Angeles, CA","Jackson, WY",183.33
+"Los Angeles, CA","Kahului, HI",173.42
+"Los Angeles, CA","Kansas City, MO",301.01
+"Los Angeles, CA","Keahole, HI",172.87
+"Los Angeles, CA","Las Vegas, NV",66.98
+"Los Angeles, CA","Lihue, HI",187.05
+"Los Angeles, CA","Memphis, TN",333.12
+"Los Angeles, CA","Miami, FL",464.63
+"Los Angeles, CA","Milwaukee, WI",340.94
+"Los Angeles, CA","Minneapolis, MN",324.53
+"Los Angeles, CA","Modesto, CA",89.53
+"Los Angeles, CA","Monterey, CA",84.32
+"Los Angeles, CA","Montrose, CO",170.57
+"Los Angeles, CA","Nashville, TN",344.27
+"Los Angeles, CA","New Orleans, LA",327.98
+"Los Angeles, CA","New York, NY",505.0
+"Los Angeles, CA","Newark, NJ",494.17
+"Los Angeles, CA","Oakland, CA",73.12
+"Los Angeles, CA","Oklahoma City, OK",279.36
+"Los Angeles, CA","Ontario, CA",41.67
+"Los Angeles, CA","Orange County, CA",40.0
+"Los Angeles, CA","Orlando, FL",458.56
+"Los Angeles, CA","Oxnard, CA",36.21
+"Los Angeles, CA","Palm Springs, CA",52.16
+"Los Angeles, CA","Philadelphia, PA",481.5
+"Los Angeles, CA","Phoenix, AZ",102.68
+"Los Angeles, CA","Pittsburgh, PA",436.5
+"Los Angeles, CA","Portland, OR",145.03
+"Los Angeles, CA","Reno, NV",77.15
+"Los Angeles, CA","Sacramento, CA",79.13
+"Los Angeles, CA","Saint Louis, MO",323.82
+"Los Angeles, CA","Salt Lake City, UT",164.55
+"Los Angeles, CA","San Antonio, TX",280.4
+"Los Angeles, CA","San Diego, CA",54.71
+"Los Angeles, CA","San Francisco, CA",80.94
+"Los Angeles, CA","San Jose, CA",68.19
+"Los Angeles, CA","San Juan, PR",582.0
+"Los Angeles, CA","San Luis Obispo, CA",60.03
+"Los Angeles, CA","Santa Barbara, CA",46.43
+"Los Angeles, CA","Santa Maria, CA",56.01
+"Los Angeles, CA","Seattle, WA",162.64
+"Los Angeles, CA","Spokane, WA",154.85
+"Los Angeles, CA","St George, UT",157.38
+"Los Angeles, CA","Tampa, FL",444.88
+"Los Angeles, CA","Tucson, AZ",105.08
+"Los Angeles, CA","Tulsa, OK",289.83
+"Los Angeles, CA","Washington, DC",462.58
+"Los Angeles, CA","Wichita, KS",283.89
+"Los Angeles, CA","Yuma, AZ",95.34
+"Louisville, KY","Atlanta, GA",88.09
+"Louisville, KY","BWI Airport, MD",84.1
+"Louisville, KY","Birmingham, AL",7.36
+"Louisville, KY","Boston, MA",153.1
+"Louisville, KY","Charlotte, NC",86.81
+"Louisville, KY","Chicago, IL",27.8
+"Louisville, KY","Cincinnati, OH",44.85
+"Louisville, KY","Cleveland, OH",70.95
+"Louisville, KY","Dallas, TX",83.65
+"Louisville, KY","Denver, CO",59.38
+"Louisville, KY","Detroit, MI",87.13
+"Louisville, KY","Houston, TX",92.19
+"Louisville, KY","Las Vegas, NV",68.9
+"Louisville, KY","Memphis, TN",25.86
+"Louisville, KY","Miami, FL",150.81
+"Louisville, KY","Milwaukee, WI",21.16
+"Louisville, KY","Minneapolis, MN",65.24
+"Louisville, KY","New York, NY",130.18
+"Louisville, KY","Newark, NJ",133.46
+"Louisville, KY","Orlando, FL",118.58
+"Louisville, KY","Phoenix, AZ",81.0
+"Louisville, KY","Rdu Airport, NC",81.46
+"Louisville, KY","Saint Louis, MO",7.11
+"Louisville, KY","Salt Lake City, UT",104.0
+"Louisville, KY","Tampa, FL",120.82
+"Lubbock, TX","Albuquerque, NM",4.6
+"Lubbock, TX","Austin, TX",62.44
+"Lubbock, TX","Dallas, TX",62.71
+"Lubbock, TX","El Paso, TX",5.11
+"Lubbock, TX","Houston, TX",99.53
+"Lubbock, TX","Las Vegas, NV",11.59
+"Lynchburg, VA","Atlanta, GA",86.2
+"Macon, GA","Atlanta, GA",49.45
+"Madison, WI","Atlanta, GA",187.47
+"Madison, WI","Chicago, IL",61.6
+"Madison, WI","Cleveland, OH",141.52
+"Madison, WI","Dallas, TX",150.18
+"Madison, WI","Denver, CO",88.76
+"Madison, WI","Detroit, MI",144.56
+"Madison, WI","Kansas City, MO",90.21
+"Madison, WI","Memphis, TN",119.08
+"Madison, WI","Milwaukee, WI",37.74
+"Madison, WI","Minneapolis, MN",74.55
+"Madison, WI","New York, NY",204.99
+"Madison, WI","Newark, NJ",201.03
+"Madison, WI","Washington, DC",179.68
+"Manchester, NH","Atlanta, GA",182.2
+"Manchester, NH","BWI Airport, MD",89.14
+"Manchester, NH","Boston, MA",50.0
+"Manchester, NH","Charlotte, NC",150.06
+"Manchester, NH","Chicago, IL",96.35
+"Manchester, NH","Cincinnati, OH",146.08
+"Manchester, NH","Cleveland, OH",113.69
+"Manchester, NH","Detroit, MI",127.71
+"Manchester, NH","Fort Lauderdale, FL",189.0
+"Manchester, NH","Las Vegas, NV",173.24
+"Manchester, NH","Newark, NJ",96.83
+"Manchester, NH","Orlando, FL",186.89
+"Manchester, NH","Philadelphia, PA",88.21
+"Manchester, NH","Phoenix, AZ",176.75
+"Manchester, NH","Tampa, FL",197.63
+"Manchester, NH","Washington, DC",107.03
+"Mcallen, TX","Atlanta, GA",216.5
+"Mcallen, TX","Dallas, TX",94.28
+"Mcallen, TX","Houston, TX",78.84
+"Medford, OR","Denver, CO",202.75
+"Medford, OR","Las Vegas, NV",104.42
+"Medford, OR","Modesto, CA",84.0
+"Medford, OR","Phoenix, AZ",153.28
+"Medford, OR","Portland, OR",63.91
+"Medford, OR","Salt Lake City, UT",158.35
+"Medford, OR","San Francisco, CA",93.33
+"Medford, OR","Santa Barbara, CA",143.0
+"Melbourne, FL","Atlanta, GA",98.8
+"Memphis, TN","Atlanta, GA",140.26
+"Memphis, TN","Austin, TX",113.91
+"Memphis, TN","BWI Airport, MD",189.02
+"Memphis, TN","Baton Rouge, LA",77.41
+"Memphis, TN","Birmingham, AL",60.9
+"Memphis, TN","Boston, MA",246.29
+"Memphis, TN","Charleston, SC",165.44
+"Memphis, TN","Charlotte, NC",159.94
+"Memphis, TN","Chattanooga, TN",121.88
+"Memphis, TN","Chicago, IL",119.02
+"Memphis, TN","Cincinnati, OH",144.94
+"Memphis, TN","Cleveland, OH",175.27
+"Memphis, TN","Colorado Springs, CO",84.0
+"Memphis, TN","Columbia, SC",154.94
+"Memphis, TN","Columbus, OH",159.43
+"Memphis, TN","Dallas, TX",101.84
+"Memphis, TN","Denver, CO",100.49
+"Memphis, TN","Des Moines, IA",101.45
+"Memphis, TN","Detroit, MI",175.61
+"Memphis, TN","Evansville, IN",65.55
+"Memphis, TN","Fayetteville / Springdale, AR",74.58
+"Memphis, TN","Fort Lauderdale, FL",197.44
+"Memphis, TN","Fort Myers, FL",204.6
+"Memphis, TN","Fort Smith, AR",66.86
+"Memphis, TN","Grand Rapids, MI",166.52
+"Memphis, TN","Greensboro, NC",161.62
+"Memphis, TN","Greenville, SC",148.35
+"Memphis, TN","Gulfport, MS",78.05
+"Memphis, TN","Houston, TX",110.76
+"Memphis, TN","Huntsville, AL",56.19
+"Memphis, TN","Indianapolis, IN",150.71
+"Memphis, TN","Jackson, MS",60.64
+"Memphis, TN","Jacksonville, FL",164.75
+"Memphis, TN","Kansas City, MO",93.1
+"Memphis, TN","Knoxville, TN",138.61
+"Memphis, TN","Las Vegas, NV",109.82
+"Memphis, TN","Lexington, KY",136.88
+"Memphis, TN","Little Rock, AR",53.09
+"Memphis, TN","Los Angeles, CA",133.71
+"Memphis, TN","Louisville, KY",139.92
+"Memphis, TN","Madison, WI",102.81
+"Memphis, TN","Miami, FL",198.85
+"Memphis, TN","Milwaukee, WI",103.44
+"Memphis, TN","Minneapolis, MN",129.3
+"Memphis, TN","Mobile, AL",74.76
+"Memphis, TN","Moline, IL",89.28
+"Memphis, TN","Montgomery, AL",69.65
+"Memphis, TN","Nashville, TN",61.26
+"Memphis, TN","New Orleans, LA",78.48
+"Memphis, TN","New York, NY",227.98
+"Memphis, TN","Newark, NJ",229.0
+"Memphis, TN","Norfolk, VA",183.64
+"Memphis, TN","Oklahoma City, OK",99.84
+"Memphis, TN","Omaha, NE",109.53
+"Memphis, TN","Orlando, FL",177.6
+"Memphis, TN","Panama City, FL",85.72
+"Memphis, TN","Pensacola, FL",80.18
+"Memphis, TN","Philadelphia, PA",216.53
+"Memphis, TN","Phoenix, AZ",110.57
+"Memphis, TN","Pittsburgh, PA",173.53
+"Memphis, TN","Rdu Airport, NC",174.42
+"Memphis, TN","Richmond, VA",183.95
+"Memphis, TN","Saint Louis, MO",77.1
+"Memphis, TN","San Antonio, TX",124.06
+"Memphis, TN","San Diego, CA",117.41
+"Memphis, TN","San Francisco, CA",158.32
+"Memphis, TN","San Juan, PR",345.31
+"Memphis, TN","Savannah, GA",161.33
+"Memphis, TN","Seattle, WA",165.52
+"Memphis, TN","Shreveport, LA",78.9
+"Memphis, TN","Springfield, MO",70.53
+"Memphis, TN","Tallahassee, FL",149.92
+"Memphis, TN","Tampa, FL",172.36
+"Memphis, TN","Tulsa, OK",87.64
+"Memphis, TN","Valparaiso, FL",86.27
+"Memphis, TN","Washington, DC",182.1
+"Memphis, TN","Wichita, KS",99.66
+"Memphis, TN","Windsor Locks, CT",244.5
+"Meridian, MS","Atlanta, GA",130.61
+"Miami, FL","Atlanta, GA",119.73
+"Miami, FL","BWI Airport, MD",146.11
+"Miami, FL","Boston, MA",189.07
+"Miami, FL","Charlotte Amalie, VI",170.74
+"Miami, FL","Charlotte, NC",123.22
+"Miami, FL","Chicago, IL",140.66
+"Miami, FL","Christiansted, VI",180.4
+"Miami, FL","Cincinnati, OH",161.16
+"Miami, FL","Cleveland, OH",174.71
+"Miami, FL","Columbus, OH",160.46
+"Miami, FL","Dallas, TX",129.78
+"Miami, FL","Denver, CO",143.49
+"Miami, FL","Detroit, MI",181.58
+"Miami, FL","Eagle, CO",175.73
+"Miami, FL","Fayetteville / Springdale, AR",120.82
+"Miami, FL","Greensboro, NC",121.87
+"Miami, FL","Houston, TX",109.95
+"Miami, FL","Indianapolis, IN",173.36
+"Miami, FL","Jacksonville, FL",88.0
+"Miami, FL","Kansas City, MO",130.42
+"Miami, FL","Las Vegas, NV",142.68
+"Miami, FL","Los Angeles, CA",162.07
+"Miami, FL","Louisville, KY",155.67
+"Miami, FL","Memphis, TN",94.64
+"Miami, FL","Minneapolis, MN",168.91
+"Miami, FL","Nashville, TN",75.08
+"Miami, FL","New Orleans, LA",62.66
+"Miami, FL","New York, NY",181.95
+"Miami, FL","Newark, NJ",188.83
+"Miami, FL","Norfolk, VA",132.97
+"Miami, FL","Orlando, FL",62.03
+"Miami, FL","Philadelphia, PA",168.91
+"Miami, FL","Phoenix, AZ",150.94
+"Miami, FL","Pittsburgh, PA",153.86
+"Miami, FL","Rdu Airport, NC",120.89
+"Miami, FL","Richmond, VA",132.93
+"Miami, FL","Saint Louis, MO",106.47
+"Miami, FL","San Francisco, CA",188.98
+"Miami, FL","San Juan, PR",168.29
+"Miami, FL","Seattle, WA",213.03
+"Miami, FL","Tallahassee, FL",84.61
+"Miami, FL","Tampa, FL",60.5
+"Miami, FL","Washington, DC",142.93
+"Miami, FL","Windsor Locks, CT",163.0
+"Midland, TX","Albuquerque, NM",7.31
+"Midland, TX","Austin, TX",54.82
+"Midland, TX","Dallas, TX",65.01
+"Midland, TX","Houston, TX",87.0
+"Midland, TX","Las Vegas, NV",15.99
+"Milwaukee, WI","Appleton, WI",38.96
+"Milwaukee, WI","Atlanta, GA",181.9
+"Milwaukee, WI","BWI Airport, MD",177.42
+"Milwaukee, WI","Boston, MA",189.55
+"Milwaukee, WI","Charlotte, NC",181.5
+"Milwaukee, WI","Chicago, IL",57.17
+"Milwaukee, WI","Cincinnati, OH",144.76
+"Milwaukee, WI","Cleveland, OH",137.45
+"Milwaukee, WI","Columbus, OH",136.67
+"Milwaukee, WI","Dallas, TX",161.59
+"Milwaukee, WI","Dayton, OH",128.75
+"Milwaukee, WI","Denver, CO",99.94
+"Milwaukee, WI","Des Moines, IA",70.86
+"Milwaukee, WI","Detroit, MI",136.12
+"Milwaukee, WI","Flint, MI",113.58
+"Milwaukee, WI","Fort Myers, FL",232.75
+"Milwaukee, WI","Grand Rapids, MI",104.9
+"Milwaukee, WI","Green Bay, WI",40.78
+"Milwaukee, WI","Houston, TX",179.35
+"Milwaukee, WI","Indianapolis, IN",127.7
+"Milwaukee, WI","Kansas City, MO",83.0
+"Milwaukee, WI","Las Vegas, NV",115.39
+"Milwaukee, WI","Los Angeles, CA",143.93
+"Milwaukee, WI","Louisville, KY",140.44
+"Milwaukee, WI","Madison, WI",38.77
+"Milwaukee, WI","Memphis, TN",116.28
+"Milwaukee, WI","Minneapolis, MN",80.46
+"Milwaukee, WI","Mosinee, WI",50.46
+"Milwaukee, WI","Muskegon, MI",97.05
+"Milwaukee, WI","Nashville, TN",94.44
+"Milwaukee, WI","New York, NY",201.26
+"Milwaukee, WI","Newark, NJ",198.48
+"Milwaukee, WI","Omaha, NE",91.5
+"Milwaukee, WI","Orlando, FL",221.06
+"Milwaukee, WI","Philadelphia, PA",185.74
+"Milwaukee, WI","Phoenix, AZ",145.38
+"Milwaukee, WI","Pittsburgh, PA",147.77
+"Milwaukee, WI","Rdu Airport, NC",181.16
+"Milwaukee, WI","Saint Louis, MO",82.56
+"Milwaukee, WI","Salt Lake City, UT",155.0
+"Milwaukee, WI","San Diego, CA",149.5
+"Milwaukee, WI","San Francisco, CA",154.3
+"Milwaukee, WI","Seattle, WA",136.08
+"Milwaukee, WI","Tampa, FL",222.69
+"Milwaukee, WI","Washington, DC",177.19
+"Milwaukee, WI","Windsor Locks, CT",182.41
+"Minneapolis, MN","Albany, NY",202.82
+"Minneapolis, MN","Albuquerque, NM",104.78
+"Minneapolis, MN","Anchorage, AK",168.17
+"Minneapolis, MN","Appleton, WI",68.17
+"Minneapolis, MN","Asheville, NC",204.7
+"Minneapolis, MN","Atlanta, GA",211.39
+"Minneapolis, MN","Austin, TX",163.78
+"Minneapolis, MN","BWI Airport, MD",207.65
+"Minneapolis, MN","Bangor, ME",216.0
+"Minneapolis, MN","Bemidji, MN",56.8
+"Minneapolis, MN","Billings, MT",72.01
+"Minneapolis, MN","Bismarck, ND",85.54
+"Minneapolis, MN","Boise, ID",121.78
+"Minneapolis, MN","Boston, MA",231.75
+"Minneapolis, MN","Bozeman, MT",93.51
+"Minneapolis, MN","Buffalo, NY",187.18
+"Minneapolis, MN","Casper, WY",73.29
+"Minneapolis, MN","Cedar Rapids, IA",71.54
+"Minneapolis, MN","Charleston, SC",223.17
+"Minneapolis, MN","Charlotte, NC",210.64
+"Minneapolis, MN","Chicago, IL",90.01
+"Minneapolis, MN","Cincinnati, OH",172.92
+"Minneapolis, MN","Cleveland, OH",174.07
+"Minneapolis, MN","Colorado Springs, CO",70.79
+"Minneapolis, MN","Columbus, OH",175.8
+"Minneapolis, MN","Dallas, TX",150.61
+"Minneapolis, MN","Dayton, OH",170.15
+"Minneapolis, MN","Denver, CO",67.73
+"Minneapolis, MN","Des Moines, IA",71.16
+"Minneapolis, MN","Detroit, MI",169.56
+"Minneapolis, MN","Duluth, MN",52.59
+"Minneapolis, MN","Eagle, CO",92.04
+"Minneapolis, MN","Fairbanks, AK",156.25
+"Minneapolis, MN","Fargo, ND",66.8
+"Minneapolis, MN","Fayetteville / Springdale, AR",114.82
+"Minneapolis, MN","Flint, MI",151.83
+"Minneapolis, MN","Fort Lauderdale, FL",274.65
+"Minneapolis, MN","Fort Myers, FL",260.79
+"Minneapolis, MN","Fort Wayne, IN",147.22
+"Minneapolis, MN","Grand Forks, ND",72.43
+"Minneapolis, MN","Grand Rapids, MI",148.06
+"Minneapolis, MN","Great Falls, MT",95.24
+"Minneapolis, MN","Green Bay, WI",66.64
+"Minneapolis, MN","Greensboro, NC",212.12
+"Minneapolis, MN","Hancock, MI",129.06
+"Minneapolis, MN","Harrisburg, PA",201.34
+"Minneapolis, MN","Hayden, CO",76.37
+"Minneapolis, MN","Helena, MT",101.11
+"Minneapolis, MN","Honolulu, HI",240.19
+"Minneapolis, MN","Houston, TX",180.58
+"Minneapolis, MN","Idaho Falls, ID",110.8
+"Minneapolis, MN","Indianapolis, IN",163.37
+"Minneapolis, MN","International Falls, MN",73.67
+"Minneapolis, MN","Jackson, WY",107.0
+"Minneapolis, MN","Jacksonville, FL",228.27
+"Minneapolis, MN","Kalamazoo, MI",145.83
+"Minneapolis, MN","Kansas City, MO",95.4
+"Minneapolis, MN","Knoxville, TN",196.04
+"Minneapolis, MN","La Crosse, WI",51.24
+"Minneapolis, MN","Lansing, MI",145.78
+"Minneapolis, MN","Las Vegas, NV",87.74
+"Minneapolis, MN","Lincoln, NE",75.62
+"Minneapolis, MN","Little Rock, AR",123.42
+"Minneapolis, MN","Los Angeles, CA",115.67
+"Minneapolis, MN","Louisville, KY",175.08
+"Minneapolis, MN","Madison, WI",62.44
+"Minneapolis, MN","Memphis, TN",129.06
+"Minneapolis, MN","Miami, FL",273.44
+"Minneapolis, MN","Milwaukee, WI",72.4
+"Minneapolis, MN","Minot, ND",93.67
+"Minneapolis, MN","Missoula, MT",108.04
+"Minneapolis, MN","Moline, IL",66.08
+"Minneapolis, MN","Mosinee, WI",57.75
+"Minneapolis, MN","Myrtle Beach, SC",222.0
+"Minneapolis, MN","Nashville, TN",126.89
+"Minneapolis, MN","New York, NY",229.66
+"Minneapolis, MN","Newark, NJ",227.99
+"Minneapolis, MN","Norfolk, VA",218.77
+"Minneapolis, MN","Oklahoma City, OK",129.75
+"Minneapolis, MN","Omaha, NE",74.19
+"Minneapolis, MN","Orange County, CA",113.71
+"Minneapolis, MN","Orlando, FL",249.14
+"Minneapolis, MN","Palm Springs, CA",103.0
+"Minneapolis, MN","Philadelphia, PA",217.57
+"Minneapolis, MN","Phoenix, AZ",109.8
+"Minneapolis, MN","Pittsburgh, PA",182.49
+"Minneapolis, MN","Portland, OR",97.95
+"Minneapolis, MN","Providence, RI",216.5
+"Minneapolis, MN","Rapid City, SD",42.04
+"Minneapolis, MN","Rdu Airport, NC",212.49
+"Minneapolis, MN","Rhinelander, WI",62.15
+"Minneapolis, MN","Richmond, VA",209.84
+"Minneapolis, MN","Rochester, MN",46.05
+"Minneapolis, MN","Rochester, NY",189.19
+"Minneapolis, MN","Sacramento, CA",111.57
+"Minneapolis, MN","Saginaw, MI",143.94
+"Minneapolis, MN","Saint Louis, MO",99.01
+"Minneapolis, MN","Salt Lake City, UT",111.1
+"Minneapolis, MN","San Antonio, TX",178.02
+"Minneapolis, MN","San Diego, CA",110.55
+"Minneapolis, MN","San Francisco, CA",130.11
+"Minneapolis, MN","San Jose, CA",126.6
+"Minneapolis, MN","San Juan, PR",418.62
+"Minneapolis, MN","Savannah, GA",241.6
+"Minneapolis, MN","Seattle, WA",98.13
+"Minneapolis, MN","Sioux City, IA",64.26
+"Minneapolis, MN","Sioux Falls, SD",63.77
+"Minneapolis, MN","South Bend, IN",141.37
+"Minneapolis, MN","South Burlington, VT",212.0
+"Minneapolis, MN","Spokane, WA",67.49
+"Minneapolis, MN","Springfield, MO",106.17
+"Minneapolis, MN","Tampa, FL",248.31
+"Minneapolis, MN","Traverse City, MI",139.48
+"Minneapolis, MN","Tucson, AZ",112.41
+"Minneapolis, MN","Tulsa, OK",120.31
+"Minneapolis, MN","Washington, DC",204.09
+"Minneapolis, MN","Waterloo, IA",53.81
+"Minneapolis, MN","Wichita, KS",110.26
+"Minneapolis, MN","Windsor Locks, CT",214.86
+"Minot, ND","Minneapolis, MN",85.96
+"Missoula, MT","Chicago, IL",264.56
+"Missoula, MT","Denver, CO",114.7
+"Missoula, MT","Minneapolis, MN",213.69
+"Missoula, MT","Salt Lake City, UT",82.44
+"Missoula, MT","San Francisco, CA",71.0
+"Mobile, AL","Atlanta, GA",137.46
+"Mobile, AL","Chicago, IL",155.55
+"Mobile, AL","Dallas, TX",112.54
+"Mobile, AL","Houston, TX",98.76
+"Mobile, AL","Memphis, TN",84.72
+"Modesto, CA","Los Angeles, CA",82.12
+"Modesto, CA","San Francisco, CA",39.32
+"Moline, IL","Atlanta, GA",175.58
+"Moline, IL","Chicago, IL",65.42
+"Moline, IL","Dallas, TX",127.47
+"Moline, IL","Denver, CO",75.0
+"Moline, IL","Detroit, MI",157.88
+"Moline, IL","Las Vegas, NV",83.67
+"Moline, IL","Memphis, TN",95.75
+"Moline, IL","Minneapolis, MN",82.45
+"Moline, IL","Orlando, FL",208.12
+"Monroe, LA","Atlanta, GA",153.98
+"Monroe, LA","Dallas, TX",103.04
+"Monroe, LA","Houston, TX",66.77
+"Monterey, CA","Denver, CO",202.22
+"Monterey, CA","Las Vegas, NV",83.67
+"Monterey, CA","Long Beach, CA",63.85
+"Monterey, CA","Los Angeles, CA",82.38
+"Monterey, CA","Ontario, CA",61.41
+"Monterey, CA","Phoenix, AZ",124.59
+"Monterey, CA","Salt Lake City, UT",165.0
+"Monterey, CA","San Diego, CA",71.86
+"Monterey, CA","San Francisco, CA",40.46
+"Montgomery, AL","Atlanta, GA",122.19
+"Montgomery, AL","Houston, TX",113.05
+"Montgomery, AL","Memphis, TN",79.42
+"Montrose, CO","Atlanta, GA",306.19
+"Montrose, CO","Chicago, IL",218.0
+"Montrose, CO","Dallas, TX",176.09
+"Montrose, CO","Denver, CO",68.9
+"Montrose, CO","Houston, TX",213.82
+"Montrose, CO","Los Angeles, CA",73.0
+"Montrose, CO","Newark, NJ",363.56
+"Montrose, CO","Salt Lake City, UT",68.89
+"Mosinee, WI","Chicago, IL",69.98
+"Mosinee, WI","Detroit, MI",147.29
+"Mosinee, WI","Milwaukee, WI",46.72
+"Mosinee, WI","Minneapolis, MN",68.0
+"Muskegon, MI","Flint, MI",38.68
+"Muskegon, MI","Grand Rapids, MI",28.8
+"Myrtle Beach, SC","Atlanta, GA",111.99
+"Myrtle Beach, SC","Boston, MA",125.75
+"Myrtle Beach, SC","Charlotte, NC",57.63
+"Myrtle Beach, SC","Detroit, MI",124.82
+"Myrtle Beach, SC","Minneapolis, MN",119.9
+"Myrtle Beach, SC","New York, NY",115.84
+"Myrtle Beach, SC","Newark, NJ",118.3
+"Myrtle Beach, SC","Washington, DC",86.33
+"Nantucket, MA","New York, NY",54.0
+"Nantucket, MA","Newark, NJ",92.84
+"Nashville, TN","Atlanta, GA",129.87
+"Nashville, TN","Austin, TX",130.36
+"Nashville, TN","BWI Airport, MD",153.52
+"Nashville, TN","Birmingham, AL",45.27
+"Nashville, TN","Boston, MA",214.27
+"Nashville, TN","Charlotte, NC",137.14
+"Nashville, TN","Chicago, IL",97.79
+"Nashville, TN","Cincinnati, OH",127.72
+"Nashville, TN","Cleveland, OH",143.56
+"Nashville, TN","Columbus, OH",126.11
+"Nashville, TN","Dallas, TX",123.76
+"Nashville, TN","Denver, CO",111.97
+"Nashville, TN","Detroit, MI",156.72
+"Nashville, TN","Fort Lauderdale, FL",184.13
+"Nashville, TN","Houston, TX",128.45
+"Nashville, TN","Jacksonville, FL",141.23
+"Nashville, TN","Kansas City, MO",95.92
+"Nashville, TN","Las Vegas, NV",122.54
+"Nashville, TN","Los Angeles, CA",148.95
+"Nashville, TN","Memphis, TN",67.55
+"Nashville, TN","Miami, FL",186.74
+"Nashville, TN","Milwaukee, WI",92.66
+"Nashville, TN","Minneapolis, MN",135.98
+"Nashville, TN","New Orleans, LA",84.35
+"Nashville, TN","New York, NY",196.71
+"Nashville, TN","Newark, NJ",200.4
+"Nashville, TN","Norfolk, VA",155.5
+"Nashville, TN","Oakland, CA",169.12
+"Nashville, TN","Ontario, CA",139.67
+"Nashville, TN","Orlando, FL",161.48
+"Nashville, TN","Philadelphia, PA",175.24
+"Nashville, TN","Phoenix, AZ",133.89
+"Nashville, TN","Providence, RI",187.41
+"Nashville, TN","Rdu Airport, NC",139.34
+"Nashville, TN","Saint Louis, MO",70.03
+"Nashville, TN","Salt Lake City, UT",163.81
+"Nashville, TN","San Antonio, TX",139.96
+"Nashville, TN","San Diego, CA",139.89
+"Nashville, TN","Seattle, WA",166.33
+"Nashville, TN","Tampa, FL",158.29
+"Nashville, TN","Washington, DC",158.03
+"Nashville, TN","Windsor Locks, CT",189.68
+"New Bern, NC","Atlanta, GA",100.31
+"New Orleans, LA","Atlanta, GA",146.82
+"New Orleans, LA","Austin, TX",87.66
+"New Orleans, LA","BWI Airport, MD",196.73
+"New Orleans, LA","Birmingham, AL",59.19
+"New Orleans, LA","Boston, MA",247.8
+"New Orleans, LA","Charlotte, NC",166.35
+"New Orleans, LA","Chicago, IL",146.69
+"New Orleans, LA","Cincinnati, OH",184.3
+"New Orleans, LA","Cleveland, OH",197.29
+"New Orleans, LA","Columbus, OH",180.0
+"New Orleans, LA","Dallas, TX",91.32
+"New Orleans, LA","Denver, CO",112.75
+"New Orleans, LA","Detroit, MI",204.5
+"New Orleans, LA","Fort Lauderdale, FL",163.23
+"New Orleans, LA","Houston, TX",72.0
+"New Orleans, LA","Jacksonville, FL",145.45
+"New Orleans, LA","Kansas City, MO",122.18
+"New Orleans, LA","Las Vegas, NV",106.95
+"New Orleans, LA","Los Angeles, CA",132.61
+"New Orleans, LA","Memphis, TN",84.41
+"New Orleans, LA","Miami, FL",163.66
+"New Orleans, LA","Minneapolis, MN",174.43
+"New Orleans, LA","Nashville, TN",82.12
+"New Orleans, LA","New York, NY",233.7
+"New Orleans, LA","Newark, NJ",240.75
+"New Orleans, LA","Orlando, FL",155.09
+"New Orleans, LA","Philadelphia, PA",226.79
+"New Orleans, LA","Phoenix, AZ",103.63
+"New Orleans, LA","Rdu Airport, NC",178.54
+"New Orleans, LA","Salt Lake City, UT",170.14
+"New Orleans, LA","San Antonio, TX",92.98
+"New Orleans, LA","Tampa, FL",142.72
+"New Orleans, LA","Washington, DC",200.84
+"New York, NY","Aguadilla, PR",262.47
+"New York, NY","Albany, NY",68.33
+"New York, NY","Atlanta, GA",158.26
+"New York, NY","Augusta, GA",136.0
+"New York, NY","Austin, TX",200.57
+"New York, NY","BWI Airport, MD",85.4
+"New York, NY","Bangor, ME",114.46
+"New York, NY","Birmingham, AL",107.0
+"New York, NY","Boston, MA",81.52
+"New York, NY","Buffalo, NY",93.49
+"New York, NY","Burbank, CA",202.31
+"New York, NY","Charleston, SC",148.48
+"New York, NY","Charlotte Amalie, VI",267.0
+"New York, NY","Charlotte, NC",133.18
+"New York, NY","Chicago, IL",108.7
+"New York, NY","Cincinnati, OH",142.2
+"New York, NY","Cleveland, OH",114.52
+"New York, NY","Columbia, SC",127.59
+"New York, NY","Columbus, OH",122.89
+"New York, NY","Dallas, TX",185.84
+"New York, NY","Daytona Beach, FL",171.03
+"New York, NY","Denver, CO",151.03
+"New York, NY","Des Moines, IA",137.39
+"New York, NY","Detroit, MI",131.26
+"New York, NY","Eagle, CO",190.67
+"New York, NY","Fayetteville / Springdale, AR",157.31
+"New York, NY","Flint, MI",126.53
+"New York, NY","Fort Lauderdale, FL",193.68
+"New York, NY","Fort Myers, FL",201.07
+"New York, NY","Grand Rapids, MI",137.51
+"New York, NY","Greensboro, NC",120.03
+"New York, NY","Greenville, SC",140.86
+"New York, NY","Hayden, CO",168.0
+"New York, NY","Houston, TX",187.09
+"New York, NY","Huntsville, AL",102.64
+"New York, NY","Indianapolis, IN",154.87
+"New York, NY","Jacksonville, FL",163.0
+"New York, NY","Knoxville, TN",138.42
+"New York, NY","Las Vegas, NV",176.77
+"New York, NY","Lexington, KY",124.48
+"New York, NY","Long Beach, CA",201.68
+"New York, NY","Los Angeles, CA",200.59
+"New York, NY","Louisville, KY",152.37
+"New York, NY","Madison, WI",100.46
+"New York, NY","Melbourne, FL",200.0
+"New York, NY","Memphis, TN",126.45
+"New York, NY","Miami, FL",195.4
+"New York, NY","Milwaukee, WI",87.55
+"New York, NY","Minneapolis, MN",131.2
+"New York, NY","Myrtle Beach, SC",129.47
+"New York, NY","Nashville, TN",95.54
+"New York, NY","New Orleans, LA",154.69
+"New York, NY","New York, NY",48.0
+"New York, NY","Newport News, VA",86.54
+"New York, NY","Norfolk, VA",109.5
+"New York, NY","North Canton, OH",99.63
+"New York, NY","Oakland, CA",221.69
+"New York, NY","Ontario, CA",189.66
+"New York, NY","Orlando, FL",179.82
+"New York, NY","Philadelphia, PA",84.0
+"New York, NY","Phoenix, AZ",187.19
+"New York, NY","Pittsburgh, PA",110.97
+"New York, NY","Ponce, PR",254.38
+"New York, NY","Portland, ME",84.92
+"New York, NY","Portland, OR",204.2
+"New York, NY","Providence, RI",78.98
+"New York, NY","Rdu Airport, NC",112.84
+"New York, NY","Richmond, VA",100.09
+"New York, NY","Rochester, NY",94.63
+"New York, NY","Sacramento, CA",203.5
+"New York, NY","Saint Louis, MO",118.02
+"New York, NY","Salt Lake City, UT",208.77
+"New York, NY","San Diego, CA",199.7
+"New York, NY","San Francisco, CA",219.14
+"New York, NY","San Jose, CA",224.41
+"New York, NY","San Juan, PR",267.14
+"New York, NY","Sarasota, FL",182.26
+"New York, NY","Savannah, GA",152.86
+"New York, NY","Seattle, WA",202.15
+"New York, NY","South Burlington, VT",88.18
+"New York, NY","Syracuse, NY",84.2
+"New York, NY","Tampa, FL",189.58
+"New York, NY","Traverse City, MI",129.0
+"New York, NY","Tucson, AZ",193.81
+"New York, NY","Valparaiso, FL",175.0
+"New York, NY","Washington, DC",84.05
+"New York, NY","West Palm Beach, FL",186.05
+"New York, NY","White Plains, NY",51.0
+"New York, NY","Windsor Locks, CT",76.04
+"Newark, NJ","Aguadilla, PR",257.29
+"Newark, NJ","Albany, NY",71.48
+"Newark, NJ","Albuquerque, NM",195.75
+"Newark, NJ","Asheville, NC",124.52
+"Newark, NJ","Atlanta, GA",152.71
+"Newark, NJ","Austin, TX",196.29
+"Newark, NJ","BWI Airport, MD",68.97
+"Newark, NJ","Bangor, ME",86.77
+"Newark, NJ","Birmingham, AL",118.2
+"Newark, NJ","Boston, MA",84.74
+"Newark, NJ","Buffalo, NY",86.36
+"Newark, NJ","Charleston, SC",138.75
+"Newark, NJ","Charlotte Amalie, VI",280.51
+"Newark, NJ","Charlotte, NC",124.43
+"Newark, NJ","Chicago, IL",101.95
+"Newark, NJ","Cincinnati, OH",135.71
+"Newark, NJ","Cleveland, OH",104.43
+"Newark, NJ","Columbia, SC",132.7
+"Newark, NJ","Columbus, OH",114.64
+"Newark, NJ","Dallas, TX",181.2
+"Newark, NJ","Dayton, OH",126.42
+"Newark, NJ","Daytona Beach, FL",169.09
+"Newark, NJ","Denver, CO",146.33
+"Newark, NJ","Detroit, MI",127.37
+"Newark, NJ","Eagle, CO",159.44
+"Newark, NJ","Fayetteville / Springdale, AR",146.27
+"Newark, NJ","Fort Lauderdale, FL",182.82
+"Newark, NJ","Fort Myers, FL",187.28
+"Newark, NJ","Grand Rapids, MI",126.42
+"Newark, NJ","Greensboro, NC",108.09
+"Newark, NJ","Greenville, SC",128.92
+"Newark, NJ","Hayden, CO",158.67
+"Newark, NJ","Honolulu, HI",312.59
+"Newark, NJ","Houston, TX",176.48
+"Newark, NJ","Indianapolis, IN",141.57
+"Newark, NJ","Jackson, MS",142.53
+"Newark, NJ","Jacksonville, FL",154.41
+"Newark, NJ","Kansas City, MO",140.84
+"Newark, NJ","Knoxville, TN",141.93
+"Newark, NJ","Las Vegas, NV",162.11
+"Newark, NJ","Lexington, KY",131.62
+"Newark, NJ","Little Rock, AR",156.04
+"Newark, NJ","Los Angeles, CA",192.88
+"Newark, NJ","Louisville, KY",148.27
+"Newark, NJ","Madison, WI",91.51
+"Newark, NJ","Manchester, NH",74.33
+"Newark, NJ","Memphis, TN",122.55
+"Newark, NJ","Miami, FL",185.82
+"Newark, NJ","Milwaukee, WI",91.43
+"Newark, NJ","Minneapolis, MN",130.74
+"Newark, NJ","Montrose, CO",196.0
+"Newark, NJ","Myrtle Beach, SC",116.73
+"Newark, NJ","Nantucket, MA",83.0
+"Newark, NJ","Nashville, TN",97.93
+"Newark, NJ","New Orleans, LA",149.61
+"Newark, NJ","Norfolk, VA",89.03
+"Newark, NJ","Oklahoma City, OK",175.84
+"Newark, NJ","Omaha, NE",144.36
+"Newark, NJ","Orange County, CA",188.64
+"Newark, NJ","Orlando, FL",170.72
+"Newark, NJ","Phoenix, AZ",173.21
+"Newark, NJ","Pittsburgh, PA",98.66
+"Newark, NJ","Portland, ME",82.19
+"Newark, NJ","Portland, OR",186.08
+"Newark, NJ","Providence, RI",64.78
+"Newark, NJ","Rdu Airport, NC",106.04
+"Newark, NJ","Richmond, VA",91.92
+"Newark, NJ","Rochester, NY",82.01
+"Newark, NJ","Saint Louis, MO",116.51
+"Newark, NJ","Salt Lake City, UT",192.22
+"Newark, NJ","San Antonio, TX",199.71
+"Newark, NJ","San Diego, CA",183.72
+"Newark, NJ","San Francisco, CA",209.35
+"Newark, NJ","San Jose, CA",207.56
+"Newark, NJ","San Juan, PR",260.74
+"Newark, NJ","Sarasota, FL",183.71
+"Newark, NJ","Savannah, GA",149.54
+"Newark, NJ","Seattle, WA",183.09
+"Newark, NJ","South Burlington, VT",77.48
+"Newark, NJ","Syracuse, NY",73.64
+"Newark, NJ","Tampa, FL",178.37
+"Newark, NJ","Tucson, AZ",181.5
+"Newark, NJ","Tulsa, OK",167.93
+"Newark, NJ","Washington, DC",81.17
+"Newark, NJ","West Palm Beach, FL",177.92
+"Newark, NJ","Windsor Locks, CT",60.34
+"Newburgh, NY","Atlanta, GA",154.67
+"Newburgh, NY","Boston, MA",41.0
+"Newburgh, NY","Detroit, MI",120.2
+"Newburgh, NY","Fort Lauderdale, FL",190.19
+"Newburgh, NY","Orlando, FL",173.16
+"Newburgh, NY","Tampa, FL",180.64
+"Newburgh, NY","West Palm Beach, FL",180.92
+"Newburgh, NY","Windsor Locks, CT",50.0
+"Newport News, VA","Atlanta, GA",111.53
+"Newport News, VA","Boston, MA",96.07
+"Newport News, VA","Fort Lauderdale, FL",134.73
+"Newport News, VA","New York, NY",91.69
+"Newport News, VA","Orlando, FL",118.53
+"Newport News, VA","Tampa, FL",124.14
+"Nome, AK","Anchorage, AK",82.97
+"Nome, AK","Kotzebue, AK",43.86
+"Norfolk, VA","Atlanta, GA",115.32
+"Norfolk, VA","BWI Airport, MD",50.52
+"Norfolk, VA","Boise, ID",200.0
+"Norfolk, VA","Boston, MA",105.9
+"Norfolk, VA","Charlotte, NC",79.44
+"Norfolk, VA","Chicago, IL",75.83
+"Norfolk, VA","Cincinnati, OH",106.8
+"Norfolk, VA","Cleveland, OH",105.0
+"Norfolk, VA","Dallas, TX",144.42
+"Norfolk, VA","Detroit, MI",122.65
+"Norfolk, VA","Houston, TX",148.98
+"Norfolk, VA","Jacksonville, FL",97.34
+"Norfolk, VA","Las Vegas, NV",144.27
+"Norfolk, VA","Memphis, TN",84.33
+"Norfolk, VA","Miami, FL",146.65
+"Norfolk, VA","Minneapolis, MN",133.76
+"Norfolk, VA","Nashville, TN",44.2
+"Norfolk, VA","New York, NY",97.54
+"Norfolk, VA","Newark, NJ",90.74
+"Norfolk, VA","Orlando, FL",114.19
+"Norfolk, VA","Tampa, FL",124.66
+"Norfolk, VA","Washington, DC",61.72
+"North Canton, OH","Atlanta, GA",110.79
+"North Canton, OH","Boston, MA",103.04
+"North Canton, OH","Chicago, IL",35.59
+"North Canton, OH","Cincinnati, OH",59.0
+"North Canton, OH","Denver, CO",82.48
+"North Canton, OH","Detroit, MI",63.12
+"North Canton, OH","Fort Lauderdale, FL",171.67
+"North Canton, OH","Fort Myers, FL",169.56
+"North Canton, OH","Las Vegas, NV",105.54
+"North Canton, OH","New York, NY",101.45
+"North Canton, OH","Orlando, FL",143.68
+"North Canton, OH","Tampa, FL",142.43
+"Oakland, CA","Albuquerque, NM",186.31
+"Oakland, CA","Atlanta, GA",446.0
+"Oakland, CA","Austin, TX",321.0
+"Oakland, CA","Boise, ID",143.24
+"Oakland, CA","Boston, MA",498.21
+"Oakland, CA","Burbank, CA",60.39
+"Oakland, CA","Chicago, IL",353.45
+"Oakland, CA","Dallas, TX",317.45
+"Oakland, CA","Denver, CO",197.95
+"Oakland, CA","Honolulu, HI",213.67
+"Oakland, CA","Houston, TX",336.69
+"Oakland, CA","Kahului, HI",206.6
+"Oakland, CA","Kansas City, MO",314.77
+"Oakland, CA","Keahole, HI",216.0
+"Oakland, CA","Las Vegas, NV",82.04
+"Oakland, CA","Long Beach, CA",77.49
+"Oakland, CA","Los Angeles, CA",74.3
+"Oakland, CA","Nashville, TN",362.78
+"Oakland, CA","New York, NY",503.43
+"Oakland, CA","Ontario, CA",69.32
+"Oakland, CA","Orange County, CA",79.5
+"Oakland, CA","Phoenix, AZ",128.09
+"Oakland, CA","Portland, OR",93.19
+"Oakland, CA","Reno, NV",46.67
+"Oakland, CA","Salt Lake City, UT",157.4
+"Oakland, CA","San Diego, CA",80.17
+"Oakland, CA","Seattle, WA",114.84
+"Oakland, CA","Spokane, WA",111.44
+"Oakland, CA","Tucson, AZ",139.24
+"Oakland, CA","Washington, DC",476.34
+"Oklahoma City, OK","Albuquerque, NM",44.86
+"Oklahoma City, OK","Atlanta, GA",183.49
+"Oklahoma City, OK","Austin, TX",73.93
+"Oklahoma City, OK","BWI Airport, MD",218.93
+"Oklahoma City, OK","Bloomington, IL",89.0
+"Oklahoma City, OK","Chicago, IL",128.3
+"Oklahoma City, OK","Cincinnati, OH",183.16
+"Oklahoma City, OK","Cleveland, OH",216.0
+"Oklahoma City, OK","Dallas, TX",55.55
+"Oklahoma City, OK","Denver, CO",35.1
+"Oklahoma City, OK","Detroit, MI",208.04
+"Oklahoma City, OK","Houston, TX",87.26
+"Oklahoma City, OK","Kansas City, MO",60.74
+"Oklahoma City, OK","Las Vegas, NV",42.0
+"Oklahoma City, OK","Los Angeles, CA",71.47
+"Oklahoma City, OK","Memphis, TN",91.47
+"Oklahoma City, OK","Minneapolis, MN",128.56
+"Oklahoma City, OK","Newark, NJ",262.6
+"Oklahoma City, OK","Ontario, CA",65.98
+"Oklahoma City, OK","Orlando, FL",206.0
+"Oklahoma City, OK","Phoenix, AZ",48.51
+"Oklahoma City, OK","Sacramento, CA",96.53
+"Oklahoma City, OK","Saint Louis, MO",76.66
+"Oklahoma City, OK","Salt Lake City, UT",94.77
+"Oklahoma City, OK","San Antonio, TX",80.62
+"Oklahoma City, OK","San Diego, CA",64.41
+"Oklahoma City, OK","Tulsa, OK",57.0
+"Omaha, NE","Atlanta, GA",192.91
+"Omaha, NE","Birmingham, AL",120.0
+"Omaha, NE","Chicago, IL",91.34
+"Omaha, NE","Cincinnati, OH",170.26
+"Omaha, NE","Cleveland, OH",178.05
+"Omaha, NE","Dallas, TX",110.88
+"Omaha, NE","Denver, CO",36.65
+"Omaha, NE","Detroit, MI",182.16
+"Omaha, NE","Houston, TX",142.43
+"Omaha, NE","Las Vegas, NV",57.35
+"Omaha, NE","Memphis, TN",100.73
+"Omaha, NE","Milwaukee, WI",79.72
+"Omaha, NE","Minneapolis, MN",75.65
+"Omaha, NE","Newark, NJ",242.5
+"Omaha, NE","Ontario, CA",84.08
+"Omaha, NE","Orlando, FL",220.0
+"Omaha, NE","Phoenix, AZ",71.2
+"Omaha, NE","Saint Louis, MO",64.78
+"Omaha, NE","Salt Lake City, UT",94.84
+"Omaha, NE","San Diego, CA",84.07
+"Omaha, NE","Tucson, AZ",70.23
+"Ontario, CA","Albuquerque, NM",159.37
+"Ontario, CA","Atlanta, GA",423.21
+"Ontario, CA","Austin, TX",280.37
+"Ontario, CA","Boise, ID",175.92
+"Ontario, CA","Colorado Springs, CO",183.0
+"Ontario, CA","Dallas, TX",287.57
+"Ontario, CA","Denver, CO",186.21
+"Ontario, CA","El Paso, TX",159.65
+"Ontario, CA","Fresno, CA",53.0
+"Ontario, CA","Houston, TX",302.35
+"Ontario, CA","Kansas City, MO",298.32
+"Ontario, CA","Las Vegas, NV",58.28
+"Ontario, CA","Los Angeles, CA",42.07
+"Ontario, CA","Monterey, CA",63.48
+"Ontario, CA","Nashville, TN",334.31
+"Ontario, CA","New York, NY",470.5
+"Ontario, CA","Oakland, CA",72.7
+"Ontario, CA","Oklahoma City, OK",273.02
+"Ontario, CA","Omaha, NE",296.33
+"Ontario, CA","Phoenix, AZ",93.11
+"Ontario, CA","Portland, OR",145.17
+"Ontario, CA","Reno, NV",78.5
+"Ontario, CA","Sacramento, CA",74.0
+"Ontario, CA","Salt Lake City, UT",162.56
+"Ontario, CA","San Antonio, TX",272.69
+"Ontario, CA","San Diego, CA",55.0
+"Ontario, CA","San Francisco, CA",86.53
+"Ontario, CA","San Jose, CA",65.18
+"Ontario, CA","Seattle, WA",158.45
+"Ontario, CA","Spokane, WA",154.33
+"Ontario, CA","Tucson, AZ",99.9
+"Ontario, CA","Tulsa, OK",282.57
+"Orange County, CA","Atlanta, GA",427.37
+"Orange County, CA","Austin, TX",273.96
+"Orange County, CA","Chicago, IL",353.38
+"Orange County, CA","Cincinnati, OH",414.5
+"Orange County, CA","Dallas, TX",287.8
+"Orange County, CA","Denver, CO",189.32
+"Orange County, CA","Honolulu, HI",231.67
+"Orange County, CA","Houston, TX",302.21
+"Orange County, CA","Kahului, HI",218.83
+"Orange County, CA","Keahole, HI",215.08
+"Orange County, CA","Las Vegas, NV",64.78
+"Orange County, CA","Lihue, HI",241.0
+"Orange County, CA","Los Angeles, CA",41.08
+"Orange County, CA","Minneapolis, MN",338.11
+"Orange County, CA","Newark, NJ",484.35
+"Orange County, CA","Oakland, CA",80.97
+"Orange County, CA","Phoenix, AZ",94.13
+"Orange County, CA","Portland, OR",147.95
+"Orange County, CA","Reno, NV",82.25
+"Orange County, CA","Sacramento, CA",82.1
+"Orange County, CA","Saint Louis, MO",320.77
+"Orange County, CA","Salt Lake City, UT",167.65
+"Orange County, CA","San Diego, CA",49.0
+"Orange County, CA","San Francisco, CA",91.23
+"Orange County, CA","San Jose, CA",72.75
+"Orange County, CA","Seattle, WA",165.94
+"Orlando, FL","Aguadilla, PR",172.3
+"Orlando, FL","Albany, NY",154.33
+"Orlando, FL","Albuquerque, NM",118.86
+"Orlando, FL","Asheville, NC",106.0
+"Orlando, FL","Atlanta, GA",98.28
+"Orlando, FL","Austin, TX",106.13
+"Orlando, FL","BWI Airport, MD",125.49
+"Orlando, FL","Birmingham, AL",33.91
+"Orlando, FL","Bloomington, IL",89.9
+"Orlando, FL","Boston, MA",170.8
+"Orlando, FL","Buffalo, NY",149.44
+"Orlando, FL","Charlotte, NC",99.19
+"Orlando, FL","Chicago, IL",114.22
+"Orlando, FL","Cincinnati, OH",130.94
+"Orlando, FL","Cleveland, OH",145.58
+"Orlando, FL","Columbus, OH",129.48
+"Orlando, FL","Dallas, TX",111.26
+"Orlando, FL","Dayton, OH",133.76
+"Orlando, FL","Denver, CO",124.69
+"Orlando, FL","Detroit, MI",159.04
+"Orlando, FL","Flint, MI",158.93
+"Orlando, FL","Fort Lauderdale, FL",54.87
+"Orlando, FL","Fort Myers, FL",43.64
+"Orlando, FL","Grand Rapids, MI",166.28
+"Orlando, FL","Greensboro, NC",98.0
+"Orlando, FL","Greenville, SC",92.37
+"Orlando, FL","Houston, TX",92.62
+"Orlando, FL","Huntsville, AL",49.69
+"Orlando, FL","Indianapolis, IN",143.38
+"Orlando, FL","Islip, NY",143.49
+"Orlando, FL","Jackson, MS",48.1
+"Orlando, FL","Jacksonville, FL",39.5
+"Orlando, FL","Kansas City, MO",114.79
+"Orlando, FL","Key West, FL",60.67
+"Orlando, FL","Knoxville, TN",99.7
+"Orlando, FL","Las Vegas, NV",124.14
+"Orlando, FL","Lexington, KY",124.67
+"Orlando, FL","Los Angeles, CA",149.68
+"Orlando, FL","Louisville, KY",122.18
+"Orlando, FL","Manchester, NH",162.16
+"Orlando, FL","Memphis, TN",72.08
+"Orlando, FL","Miami, FL",63.13
+"Orlando, FL","Milwaukee, WI",111.5
+"Orlando, FL","Minneapolis, MN",150.45
+"Orlando, FL","Moline, IL",110.71
+"Orlando, FL","Nashville, TN",52.16
+"Orlando, FL","New Orleans, LA",44.03
+"Orlando, FL","New York, NY",158.5
+"Orlando, FL","Newark, NJ",166.21
+"Orlando, FL","Newburgh, NY",159.61
+"Orlando, FL","Newport News, VA",110.44
+"Orlando, FL","Norfolk, VA",105.35
+"Orlando, FL","North Canton, OH",136.97
+"Orlando, FL","Omaha, NE",133.67
+"Orlando, FL","Panama City, FL",15.62
+"Orlando, FL","Pensacola, FL",20.75
+"Orlando, FL","Philadelphia, PA",144.58
+"Orlando, FL","Phoenix, AZ",133.44
+"Orlando, FL","Pittsburgh, PA",133.55
+"Orlando, FL","Ponce, PR",184.4
+"Orlando, FL","Portland, ME",170.07
+"Orlando, FL","Portland, OR",191.67
+"Orlando, FL","Providence, RI",153.11
+"Orlando, FL","Rdu Airport, NC",95.08
+"Orlando, FL","Richmond, VA",108.86
+"Orlando, FL","Rochester, NY",152.85
+"Orlando, FL","Saint Louis, MO",85.95
+"Orlando, FL","Salt Lake City, UT",174.22
+"Orlando, FL","San Antonio, TX",112.29
+"Orlando, FL","San Diego, CA",154.67
+"Orlando, FL","San Francisco, CA",182.64
+"Orlando, FL","San Juan, PR",189.28
+"Orlando, FL","Seattle, WA",196.47
+"Orlando, FL","South Burlington, VT",173.59
+"Orlando, FL","Syracuse, NY",157.35
+"Orlando, FL","Tallahassee, FL",63.45
+"Orlando, FL","Tulsa, OK",115.67
+"Orlando, FL","Washington, DC",126.94
+"Orlando, FL","White Plains, NY",156.62
+"Orlando, FL","Windsor Locks, CT",153.86
+"Oxnard, CA","Los Angeles, CA",42.92
+"Palm Springs, CA","Chicago, IL",342.92
+"Palm Springs, CA","Dallas, TX",281.59
+"Palm Springs, CA","Denver, CO",182.12
+"Palm Springs, CA","Houston, TX",300.87
+"Palm Springs, CA","Las Vegas, NV",64.7
+"Palm Springs, CA","Los Angeles, CA",48.81
+"Palm Springs, CA","Minneapolis, MN",310.8
+"Palm Springs, CA","Phoenix, AZ",93.81
+"Palm Springs, CA","Portland, OR",153.23
+"Palm Springs, CA","Salt Lake City, UT",159.52
+"Palm Springs, CA","San Francisco, CA",94.88
+"Palm Springs, CA","Seattle, WA",166.84
+"Palmdale, CA","San Francisco, CA",82.26
+"Panama City, FL","Atlanta, GA",141.53
+"Panama City, FL","Memphis, TN",93.67
+"Panama City, FL","Orlando, FL",124.89
+"Pasco, WA","Denver, CO",192.86
+"Pasco, WA","Salt Lake City, UT",148.89
+"Pellston, MI","Detroit, MI",79.5
+"Pensacola, FL","Atlanta, GA",130.1
+"Pensacola, FL","Charlotte, NC",150.78
+"Pensacola, FL","Chicago, IL",157.55
+"Pensacola, FL","Dallas, TX",122.41
+"Pensacola, FL","Fort Lauderdale, FL",158.5
+"Pensacola, FL","Houston, TX",106.64
+"Pensacola, FL","Memphis, TN",91.55
+"Pensacola, FL","Orlando, FL",144.76
+"Pensacola, FL","Tampa, FL",128.25
+"Peoria, IL","Atlanta, GA",171.6
+"Peoria, IL","Chicago, IL",64.04
+"Peoria, IL","Dallas, TX",130.45
+"Peoria, IL","Denver, CO",92.3
+"Peoria, IL","Detroit, MI",149.92
+"Petersburg, AK","Juneau, AK",42.58
+"Petersburg, AK","Wrangell, AK",26.35
+"Philadelphia, PA","Albany, NY",72.13
+"Philadelphia, PA","Atlanta, GA",140.65
+"Philadelphia, PA","Austin, TX",176.22
+"Philadelphia, PA","BWI Airport, MD",61.3
+"Philadelphia, PA","Boston, MA",87.68
+"Philadelphia, PA","Buffalo, NY",75.44
+"Philadelphia, PA","Charlotte Amalie, VI",262.72
+"Philadelphia, PA","Charlotte, NC",107.85
+"Philadelphia, PA","Chicago, IL",87.61
+"Philadelphia, PA","Cincinnati, OH",123.9
+"Philadelphia, PA","Cleveland, OH",95.19
+"Philadelphia, PA","Columbus, OH",90.18
+"Philadelphia, PA","Dallas, TX",169.37
+"Philadelphia, PA","Denver, CO",135.95
+"Philadelphia, PA","Detroit, MI",116.2
+"Philadelphia, PA","Fort Lauderdale, FL",166.48
+"Philadelphia, PA","Fort Myers, FL",182.08
+"Philadelphia, PA","Houston, TX",165.84
+"Philadelphia, PA","Indianapolis, IN",139.26
+"Philadelphia, PA","Jacksonville, FL",139.94
+"Philadelphia, PA","Las Vegas, NV",149.78
+"Philadelphia, PA","Los Angeles, CA",183.79
+"Philadelphia, PA","Manchester, NH",76.74
+"Philadelphia, PA","Memphis, TN",114.16
+"Philadelphia, PA","Miami, FL",173.48
+"Philadelphia, PA","Milwaukee, WI",87.06
+"Philadelphia, PA","Minneapolis, MN",118.32
+"Philadelphia, PA","Nashville, TN",78.68
+"Philadelphia, PA","New Orleans, LA",136.03
+"Philadelphia, PA","New York, NY",75.22
+"Philadelphia, PA","Norfolk, VA",61.48
+"Philadelphia, PA","Orlando, FL",154.24
+"Philadelphia, PA","Phoenix, AZ",163.76
+"Philadelphia, PA","Pittsburgh, PA",77.07
+"Philadelphia, PA","Portland, OR",187.72
+"Philadelphia, PA","Providence, RI",67.08
+"Philadelphia, PA","Rdu Airport, NC",86.81
+"Philadelphia, PA","Richmond, VA",78.7
+"Philadelphia, PA","Sacramento, CA",206.8
+"Philadelphia, PA","Saint Louis, MO",95.35
+"Philadelphia, PA","Salt Lake City, UT",182.96
+"Philadelphia, PA","San Antonio, TX",181.14
+"Philadelphia, PA","San Diego, CA",174.43
+"Philadelphia, PA","San Francisco, CA",200.59
+"Philadelphia, PA","San Juan, PR",254.94
+"Philadelphia, PA","Seattle, WA",176.32
+"Philadelphia, PA","Syracuse, NY",72.09
+"Philadelphia, PA","Tampa, FL",162.68
+"Philadelphia, PA","Washington, DC",68.54
+"Philadelphia, PA","West Palm Beach, FL",163.84
+"Philadelphia, PA","Windsor Locks, CT",66.63
+"Phoenix, AZ","Albuquerque, NM",96.82
+"Phoenix, AZ","Aspen, CO",160.35
+"Phoenix, AZ","Atlanta, GA",369.63
+"Phoenix, AZ","Austin, TX",223.6
+"Phoenix, AZ","BWI Airport, MD",402.94
+"Phoenix, AZ","Bakersfield, CA",70.49
+"Phoenix, AZ","Birmingham, AL",286.59
+"Phoenix, AZ","Boise, ID",168.18
+"Phoenix, AZ","Boston, MA",439.7
+"Phoenix, AZ","Buffalo, NY",384.65
+"Phoenix, AZ","Burbank, CA",59.54
+"Phoenix, AZ","Charlotte, NC",381.52
+"Phoenix, AZ","Chicago, IL",294.15
+"Phoenix, AZ","Cincinnati, OH",364.62
+"Phoenix, AZ","Cleveland, OH",380.51
+"Phoenix, AZ","Colorado Springs, CO",141.09
+"Phoenix, AZ","Columbus, OH",373.0
+"Phoenix, AZ","Dallas, TX",232.49
+"Phoenix, AZ","Denver, CO",137.84
+"Phoenix, AZ","Des Moines, IA",261.88
+"Phoenix, AZ","Detroit, MI",384.21
+"Phoenix, AZ","Durango, CO",124.98
+"Phoenix, AZ","El Paso, TX",96.82
+"Phoenix, AZ","Eugene, OR",142.14
+"Phoenix, AZ","Flagstaff, AZ",57.7
+"Phoenix, AZ","Fort Lauderdale, FL",404.54
+"Phoenix, AZ","Fresno, CA",82.21
+"Phoenix, AZ","Grand Junction, CO",145.71
+"Phoenix, AZ","Honolulu, HI",211.17
+"Phoenix, AZ","Houston, TX",245.41
+"Phoenix, AZ","Indianapolis, IN",348.51
+"Phoenix, AZ","Kahului, HI",201.93
+"Phoenix, AZ","Kansas City, MO",238.45
+"Phoenix, AZ","Keahole, HI",201.91
+"Phoenix, AZ","Las Vegas, NV",52.0
+"Phoenix, AZ","Lihue, HI",220.12
+"Phoenix, AZ","Little Rock, AR",245.41
+"Phoenix, AZ","Long Beach, CA",58.43
+"Phoenix, AZ","Los Angeles, CA",60.11
+"Phoenix, AZ","Louisville, KY",339.79
+"Phoenix, AZ","Manchester, NH",421.75
+"Phoenix, AZ","Medford, OR",130.54
+"Phoenix, AZ","Memphis, TN",274.8
+"Phoenix, AZ","Miami, FL",400.7
+"Phoenix, AZ","Milwaukee, WI",290.71
+"Phoenix, AZ","Minneapolis, MN",276.96
+"Phoenix, AZ","Monterey, CA",104.65
+"Phoenix, AZ","Nashville, TN",269.97
+"Phoenix, AZ","New Orleans, LA",258.0
+"Phoenix, AZ","New York, NY",449.76
+"Phoenix, AZ","Newark, NJ",436.85
+"Phoenix, AZ","Oakland, CA",95.38
+"Phoenix, AZ","Oklahoma City, OK",210.13
+"Phoenix, AZ","Omaha, NE",239.9
+"Phoenix, AZ","Ontario, CA",47.59
+"Phoenix, AZ","Orange County, CA",49.44
+"Phoenix, AZ","Orlando, FL",388.84
+"Phoenix, AZ","Palm Springs, CA",57.5
+"Phoenix, AZ","Philadelphia, PA",421.1
+"Phoenix, AZ","Pittsburgh, PA",378.55
+"Phoenix, AZ","Portland, OR",146.74
+"Phoenix, AZ","Providence, RI",433.53
+"Phoenix, AZ","Rdu Airport, NC",408.01
+"Phoenix, AZ","Reno, NV",83.69
+"Phoenix, AZ","Sacramento, CA",94.72
+"Phoenix, AZ","Saint Louis, MO",261.02
+"Phoenix, AZ","Salt Lake City, UT",127.01
+"Phoenix, AZ","San Antonio, TX",215.28
+"Phoenix, AZ","San Diego, CA",48.42
+"Phoenix, AZ","San Francisco, CA",106.93
+"Phoenix, AZ","San Jose, CA",90.81
+"Phoenix, AZ","San Luis Obispo, CA",81.74
+"Phoenix, AZ","Santa Barbara, CA",72.62
+"Phoenix, AZ","Seattle, WA",159.93
+"Phoenix, AZ","Spokane, WA",145.03
+"Phoenix, AZ","Tampa, FL",383.72
+"Phoenix, AZ","Telluride, CO",123.7
+"Phoenix, AZ","Tucson, AZ",47.59
+"Phoenix, AZ","Tulsa, OK",226.4
+"Phoenix, AZ","Washington, DC",409.23
+"Phoenix, AZ","Wichita, KS",238.88
+"Phoenix, AZ","Windsor Locks, CT",437.0
+"Phoenix, AZ","Yuma, AZ",65.41
+"Pittsburgh, PA","Atlanta, GA",113.22
+"Pittsburgh, PA","BWI Airport, MD",59.48
+"Pittsburgh, PA","Boston, MA",93.93
+"Pittsburgh, PA","Charlotte, NC",92.05
+"Pittsburgh, PA","Chicago, IL",38.97
+"Pittsburgh, PA","Cincinnati, OH",74.41
+"Pittsburgh, PA","Dallas, TX",118.57
+"Pittsburgh, PA","Denver, CO",92.21
+"Pittsburgh, PA","Detroit, MI",76.62
+"Pittsburgh, PA","Fort Lauderdale, FL",163.1
+"Pittsburgh, PA","Fort Myers, FL",159.23
+"Pittsburgh, PA","Houston, TX",141.31
+"Pittsburgh, PA","Kansas City, MO",85.21
+"Pittsburgh, PA","Las Vegas, NV",105.72
+"Pittsburgh, PA","Los Angeles, CA",138.91
+"Pittsburgh, PA","Memphis, TN",77.03
+"Pittsburgh, PA","Miami, FL",179.0
+"Pittsburgh, PA","Milwaukee, WI",35.24
+"Pittsburgh, PA","Minneapolis, MN",83.1
+"Pittsburgh, PA","New York, NY",100.61
+"Pittsburgh, PA","Newark, NJ",99.01
+"Pittsburgh, PA","Orlando, FL",134.82
+"Pittsburgh, PA","Philadelphia, PA",74.52
+"Pittsburgh, PA","Phoenix, AZ",119.19
+"Pittsburgh, PA","Salt Lake City, UT",143.24
+"Pittsburgh, PA","San Francisco, CA",151.23
+"Pittsburgh, PA","Tampa, FL",141.28
+"Pittsburgh, PA","Washington, DC",71.71
+"Pocatello, ID","Salt Lake City, UT",58.43
+"Ponce, PR","Fort Lauderdale, FL",105.44
+"Ponce, PR","New York, NY",210.56
+"Ponce, PR","Newark, NJ",201.0
+"Ponce, PR","Orlando, FL",154.79
+"Portland, ME","Atlanta, GA",178.87
+"Portland, ME","BWI Airport, MD",98.41
+"Portland, ME","Boston, MA",55.0
+"Portland, ME","Charlotte, NC",162.5
+"Portland, ME","Chicago, IL",108.85
+"Portland, ME","Cincinnati, OH",154.83
+"Portland, ME","Cleveland, OH",119.14
+"Portland, ME","Detroit, MI",147.0
+"Portland, ME","New York, NY",86.78
+"Portland, ME","Newark, NJ",101.34
+"Portland, ME","Orlando, FL",198.31
+"Portland, ME","Washington, DC",109.3
+"Portland, OR","Albuquerque, NM",205.54
+"Portland, OR","Anchorage, AK",173.0
+"Portland, OR","Atlanta, GA",452.21
+"Portland, OR","Boise, ID",121.26
+"Portland, OR","Boston, MA",492.46
+"Portland, OR","Burbank, CA",125.75
+"Portland, OR","Chicago, IL",349.97
+"Portland, OR","Cincinnati, OH",424.27
+"Portland, OR","Dallas, TX",334.64
+"Portland, OR","Denver, CO",203.26
+"Portland, OR","Detroit, MI",451.25
+"Portland, OR","Eugene, OR",39.74
+"Portland, OR","Honolulu, HI",188.75
+"Portland, OR","Houston, TX",356.69
+"Portland, OR","Kahului, HI",163.91
+"Portland, OR","Kansas City, MO",311.47
+"Portland, OR","Las Vegas, NV",121.99
+"Portland, OR","Los Angeles, CA",137.25
+"Portland, OR","Medford, OR",61.34
+"Portland, OR","Minneapolis, MN",314.93
+"Portland, OR","New York, NY",483.43
+"Portland, OR","Newark, NJ",492.84
+"Portland, OR","Oakland, CA",95.91
+"Portland, OR","Ontario, CA",134.07
+"Portland, OR","Orange County, CA",139.82
+"Portland, OR","Palm Springs, CA",137.07
+"Portland, OR","Philadelphia, PA",484.7
+"Portland, OR","Phoenix, AZ",166.73
+"Portland, OR","Redmond, OR",41.1
+"Portland, OR","Reno, NV",74.18
+"Portland, OR","Sacramento, CA",80.26
+"Portland, OR","Salt Lake City, UT",160.52
+"Portland, OR","San Diego, CA",139.68
+"Portland, OR","San Francisco, CA",107.27
+"Portland, OR","San Jose, CA",99.77
+"Portland, OR","Seattle, WA",54.01
+"Portland, OR","Spokane, WA",56.33
+"Portland, OR","Washington, DC",465.81
+"Providence, RI","Atlanta, GA",169.04
+"Providence, RI","BWI Airport, MD",75.66
+"Providence, RI","Boston, MA",51.0
+"Providence, RI","Charlotte, NC",134.71
+"Providence, RI","Chicago, IL",101.22
+"Providence, RI","Cincinnati, OH",143.93
+"Providence, RI","Cleveland, OH",114.67
+"Providence, RI","Detroit, MI",126.7
+"Providence, RI","Fort Lauderdale, FL",189.28
+"Providence, RI","Las Vegas, NV",165.67
+"Providence, RI","Minneapolis, MN",136.5
+"Providence, RI","Nashville, TN",93.95
+"Providence, RI","New York, NY",68.28
+"Providence, RI","Newark, NJ",87.1
+"Providence, RI","Orlando, FL",172.42
+"Providence, RI","Philadelphia, PA",82.06
+"Providence, RI","Phoenix, AZ",188.01
+"Providence, RI","Tampa, FL",183.07
+"Providence, RI","Washington, DC",92.21
+"Providence, RI","Windsor Locks, CT",39.0
+"Rapid City, SD","Chicago, IL",196.35
+"Rapid City, SD","Denver, CO",80.18
+"Rapid City, SD","Minneapolis, MN",152.85
+"Rapid City, SD","Salt Lake City, UT",106.93
+"Rdu Airport, NC","Atlanta, GA",89.32
+"Rdu Airport, NC","Austin, TX",129.04
+"Rdu Airport, NC","BWI Airport, MD",57.76
+"Rdu Airport, NC","Birmingham, AL",41.53
+"Rdu Airport, NC","Boston, MA",111.9
+"Rdu Airport, NC","Charlotte, NC",61.69
+"Rdu Airport, NC","Chicago, IL",71.2
+"Rdu Airport, NC","Cincinnati, OH",94.82
+"Rdu Airport, NC","Cleveland, OH",97.89
+"Rdu Airport, NC","Columbus, OH",81.66
+"Rdu Airport, NC","Dallas, TX",123.21
+"Rdu Airport, NC","Denver, CO",116.12
+"Rdu Airport, NC","Detroit, MI",114.47
+"Rdu Airport, NC","Fayetteville / Springdale, AR",98.98
+"Rdu Airport, NC","Fort Lauderdale, FL",122.88
+"Rdu Airport, NC","Houston, TX",123.58
+"Rdu Airport, NC","Indianapolis, IN",111.0
+"Rdu Airport, NC","Jacksonville, FL",88.49
+"Rdu Airport, NC","Kansas City, MO",102.86
+"Rdu Airport, NC","Las Vegas, NV",123.85
+"Rdu Airport, NC","Los Angeles, CA",163.0
+"Rdu Airport, NC","Louisville, KY",93.76
+"Rdu Airport, NC","Memphis, TN",68.74
+"Rdu Airport, NC","Miami, FL",123.14
+"Rdu Airport, NC","Milwaukee, WI",74.58
+"Rdu Airport, NC","Minneapolis, MN",112.11
+"Rdu Airport, NC","Nashville, TN",29.98
+"Rdu Airport, NC","New Orleans, LA",79.0
+"Rdu Airport, NC","New York, NY",103.42
+"Rdu Airport, NC","Newark, NJ",103.55
+"Rdu Airport, NC","Orlando, FL",98.74
+"Rdu Airport, NC","Philadelphia, PA",80.6
+"Rdu Airport, NC","Phoenix, AZ",125.18
+"Rdu Airport, NC","Saint Louis, MO",70.07
+"Rdu Airport, NC","Salt Lake City, UT",160.36
+"Rdu Airport, NC","San Antonio, TX",143.38
+"Rdu Airport, NC","Tampa, FL",103.2
+"Rdu Airport, NC","Washington, DC",62.08
+"Rdu Airport, NC","Windsor Locks, CT",94.73
+"Redding, CA","Sacramento, CA",45.0
+"Redding, CA","San Francisco, CA",72.79
+"Redmond, OR","Denver, CO",193.0
+"Redmond, OR","Portland, OR",48.31
+"Redmond, OR","Salt Lake City, UT",155.02
+"Redmond, OR","San Francisco, CA",128.45
+"Reno, NV","Atlanta, GA",435.06
+"Reno, NV","Boise, ID",122.68
+"Reno, NV","Chicago, IL",350.67
+"Reno, NV","Dallas, TX",302.41
+"Reno, NV","Denver, CO",184.7
+"Reno, NV","Houston, TX",324.17
+"Reno, NV","Las Vegas, NV",71.14
+"Reno, NV","Long Beach, CA",86.56
+"Reno, NV","Los Angeles, CA",84.58
+"Reno, NV","Oakland, CA",56.59
+"Reno, NV","Ontario, CA",74.95
+"Reno, NV","Orange County, CA",89.0
+"Reno, NV","Phoenix, AZ",129.36
+"Reno, NV","Portland, OR",84.96
+"Reno, NV","Salt Lake City, UT",141.51
+"Reno, NV","San Diego, CA",82.98
+"Reno, NV","San Francisco, CA",71.5
+"Reno, NV","San Jose, CA",56.14
+"Reno, NV","Seattle, WA",104.92
+"Reno, NV","Spokane, WA",102.66
+"Reno, NV","Tucson, AZ",139.0
+"Rhinelander, WI","Minneapolis, MN",68.8
+"Richmond, VA","Atlanta, GA",105.12
+"Richmond, VA","Boston, MA",100.18
+"Richmond, VA","Charlotte, NC",75.91
+"Richmond, VA","Chicago, IL",78.0
+"Richmond, VA","Cincinnati, OH",97.47
+"Richmond, VA","Cleveland, OH",86.22
+"Richmond, VA","Dallas, TX",135.24
+"Richmond, VA","Detroit, MI",114.77
+"Richmond, VA","Fort Lauderdale, FL",141.79
+"Richmond, VA","Houston, TX",139.0
+"Richmond, VA","Memphis, TN",90.8
+"Richmond, VA","Miami, FL",158.64
+"Richmond, VA","Minneapolis, MN",120.87
+"Richmond, VA","New York, NY",89.73
+"Richmond, VA","Newark, NJ",86.59
+"Richmond, VA","Norfolk, VA",43.0
+"Richmond, VA","Orlando, FL",113.25
+"Richmond, VA","Philadelphia, PA",68.64
+"Richmond, VA","Washington, DC",55.0
+"Roanoke, VA","Atlanta, GA",85.02
+"Roanoke, VA","BWI Airport, MD",88.0
+"Roanoke, VA","Charlotte, NC",50.0
+"Roanoke, VA","Chicago, IL",57.54
+"Roanoke, VA","Detroit, MI",97.49
+"Roanoke, VA","Washington, DC",63.77
+"Rochester, MN","Chicago, IL",77.14
+"Rochester, MN","Detroit, MI",159.26
+"Rochester, MN","Minneapolis, MN",49.43
+"Rochester, NY","Atlanta, GA",138.67
+"Rochester, NY","BWI Airport, MD",75.67
+"Rochester, NY","Charlotte, NC",120.35
+"Rochester, NY","Chicago, IL",65.38
+"Rochester, NY","Cincinnati, OH",111.16
+"Rochester, NY","Cleveland, OH",70.11
+"Rochester, NY","Dallas, TX",138.64
+"Rochester, NY","Detroit, MI",89.08
+"Rochester, NY","Fort Lauderdale, FL",177.68
+"Rochester, NY","Las Vegas, NV",129.0
+"Rochester, NY","Minneapolis, MN",97.78
+"Rochester, NY","New York, NY",88.62
+"Rochester, NY","Newark, NJ",89.26
+"Rochester, NY","Orlando, FL",168.45
+"Rochester, NY","Tampa, FL",175.0
+"Rochester, NY","Washington, DC",74.08
+"Rock Springs, WY","Denver, CO",80.55
+"Rockford, IL","Denver, CO",96.44
+"Roswell, NM","Dallas, TX",142.31
+"Sacramento, CA","Albuquerque, NM",183.79
+"Sacramento, CA","Arcata/Eureka, CA",62.09
+"Sacramento, CA","Atlanta, GA",444.36
+"Sacramento, CA","Bakersfield, CA",58.36
+"Sacramento, CA","Burbank, CA",64.75
+"Sacramento, CA","Charlotte, NC",439.5
+"Sacramento, CA","Chicago, IL",353.95
+"Sacramento, CA","Colorado Springs, CO",191.58
+"Sacramento, CA","Dallas, TX",311.35
+"Sacramento, CA","Denver, CO",192.89
+"Sacramento, CA","Honolulu, HI",177.78
+"Sacramento, CA","Houston, TX",333.47
+"Sacramento, CA","Kahului, HI",203.31
+"Sacramento, CA","Kansas City, MO",306.06
+"Sacramento, CA","Las Vegas, NV",77.19
+"Sacramento, CA","Long Beach, CA",80.25
+"Sacramento, CA","Los Angeles, CA",82.19
+"Sacramento, CA","Minneapolis, MN",325.21
+"Sacramento, CA","New York, NY",470.14
+"Sacramento, CA","Oklahoma City, OK",292.19
+"Sacramento, CA","Ontario, CA",70.89
+"Sacramento, CA","Orange County, CA",79.82
+"Sacramento, CA","Philadelphia, PA",497.0
+"Sacramento, CA","Phoenix, AZ",130.02
+"Sacramento, CA","Portland, OR",85.02
+"Sacramento, CA","Salt Lake City, UT",156.37
+"Sacramento, CA","San Antonio, TX",306.29
+"Sacramento, CA","San Diego, CA",80.73
+"Sacramento, CA","San Francisco, CA",46.56
+"Sacramento, CA","Santa Barbara, CA",76.0
+"Sacramento, CA","Seattle, WA",107.44
+"Sacramento, CA","Spokane, WA",114.42
+"Sacramento, CA","Tucson, AZ",141.9
+"Sacramento, CA","Tulsa, OK",302.27
+"Sacramento, CA","Washington, DC",469.29
+"Saginaw, MI","Chicago, IL",22.01
+"Saginaw, MI","Detroit, MI",54.03
+"Saginaw, MI","Minneapolis, MN",33.67
+"Saint Louis, MO","Albuquerque, NM",95.53
+"Saint Louis, MO","Atlanta, GA",157.58
+"Saint Louis, MO","Austin, TX",141.46
+"Saint Louis, MO","BWI Airport, MD",170.81
+"Saint Louis, MO","Birmingham, AL",74.9
+"Saint Louis, MO","Boston, MA",211.94
+"Saint Louis, MO","Charlotte, NC",169.6
+"Saint Louis, MO","Chicago, IL",69.31
+"Saint Louis, MO","Cincinnati, OH",135.14
+"Saint Louis, MO","Cleveland, OH",147.83
+"Saint Louis, MO","Columbus, OH",133.54
+"Saint Louis, MO","Dallas, TX",105.34
+"Saint Louis, MO","Denver, CO",81.65
+"Saint Louis, MO","Detroit, MI",151.36
+"Saint Louis, MO","Fort Lauderdale, FL",215.06
+"Saint Louis, MO","Fort Myers, FL",214.21
+"Saint Louis, MO","Houston, TX",126.26
+"Saint Louis, MO","Kansas City, MO",60.36
+"Saint Louis, MO","Las Vegas, NV",96.09
+"Saint Louis, MO","Little Rock, AR",62.07
+"Saint Louis, MO","Los Angeles, CA",125.33
+"Saint Louis, MO","Louisville, KY",114.59
+"Saint Louis, MO","Memphis, TN",78.36
+"Saint Louis, MO","Miami, FL",223.47
+"Saint Louis, MO","Milwaukee, WI",71.28
+"Saint Louis, MO","Minneapolis, MN",101.73
+"Saint Louis, MO","Nashville, TN",66.27
+"Saint Louis, MO","New York, NY",210.63
+"Saint Louis, MO","Newark, NJ",211.4
+"Saint Louis, MO","Oklahoma City, OK",87.85
+"Saint Louis, MO","Omaha, NE",70.64
+"Saint Louis, MO","Orange County, CA",121.67
+"Saint Louis, MO","Orlando, FL",193.53
+"Saint Louis, MO","Philadelphia, PA",187.85
+"Saint Louis, MO","Phoenix, AZ",100.97
+"Saint Louis, MO","Rdu Airport, NC",166.57
+"Saint Louis, MO","Salt Lake City, UT",129.41
+"Saint Louis, MO","San Antonio, TX",132.36
+"Saint Louis, MO","San Diego, CA",116.91
+"Saint Louis, MO","San Francisco, CA",137.62
+"Saint Louis, MO","Sarasota, FL",198.11
+"Saint Louis, MO","Seattle, WA",132.24
+"Saint Louis, MO","Springfield, MO",54.88
+"Saint Louis, MO","Tampa, FL",191.81
+"Saint Louis, MO","Tulsa, OK",71.55
+"Saint Louis, MO","Washington, DC",171.45
+"Salem, OR","Salt Lake City, UT",161.62
+"Salt Lake City, UT","Albuquerque, NM",89.96
+"Salt Lake City, UT","Anchorage, AK",169.67
+"Salt Lake City, UT","Arcata/Eureka, CA",53.5
+"Salt Lake City, UT","Aspen, CO",76.07
+"Salt Lake City, UT","Atlanta, GA",335.32
+"Salt Lake City, UT","Austin, TX",218.95
+"Salt Lake City, UT","BWI Airport, MD",357.17
+"Salt Lake City, UT","Bakersfield, CA",49.69
+"Salt Lake City, UT","Bellingham, WA",76.0
+"Salt Lake City, UT","Billings, MT",80.37
+"Salt Lake City, UT","Birmingham, AL",264.0
+"Salt Lake City, UT","Boise, ID",68.15
+"Salt Lake City, UT","Boston, MA",390.03
+"Salt Lake City, UT","Bozeman, MT",81.43
+"Salt Lake City, UT","Burbank, CA",55.23
+"Salt Lake City, UT","Butte, MT",79.84
+"Salt Lake City, UT","Casper, WY",87.56
+"Salt Lake City, UT","Cedar City, UT",68.92
+"Salt Lake City, UT","Charlotte, NC",344.68
+"Salt Lake City, UT","Chicago, IL",247.52
+"Salt Lake City, UT","Cincinnati, OH",319.43
+"Salt Lake City, UT","Cleveland, OH",340.76
+"Salt Lake City, UT","Cody, WY",84.5
+"Salt Lake City, UT","Colorado Springs, CO",97.24
+"Salt Lake City, UT","Columbus, OH",330.74
+"Salt Lake City, UT","Dallas, TX",213.81
+"Salt Lake City, UT","Denver, CO",84.16
+"Salt Lake City, UT","Des Moines, IA",195.0
+"Salt Lake City, UT","Detroit, MI",342.03
+"Salt Lake City, UT","Durango, CO",77.02
+"Salt Lake City, UT","El Paso, TX",118.0
+"Salt Lake City, UT","Elko, NV",12.63
+"Salt Lake City, UT","Eugene, OR",59.93
+"Salt Lake City, UT","Fargo, ND",194.21
+"Salt Lake City, UT","Fayetteville / Springdale, AR",215.5
+"Salt Lake City, UT","Fort Lauderdale, FL",386.33
+"Salt Lake City, UT","Fresno, CA",42.17
+"Salt Lake City, UT","Grand Junction, CO",64.48
+"Salt Lake City, UT","Great Falls, MT",94.31
+"Salt Lake City, UT","Hailey, ID",70.59
+"Salt Lake City, UT","Hayden, CO",65.5
+"Salt Lake City, UT","Helena, MT",84.94
+"Salt Lake City, UT","Honolulu, HI",188.52
+"Salt Lake City, UT","Houston, TX",240.41
+"Salt Lake City, UT","Idaho Falls, ID",59.82
+"Salt Lake City, UT","Jackson, WY",67.05
+"Salt Lake City, UT","Kahului, HI",176.74
+"Salt Lake City, UT","Kansas City, MO",206.86
+"Salt Lake City, UT","Las Vegas, NV",22.07
+"Salt Lake City, UT","Lewiston, ID",39.15
+"Salt Lake City, UT","Little Rock, AR",234.57
+"Salt Lake City, UT","Long Beach, CA",58.87
+"Salt Lake City, UT","Los Angeles, CA",58.0
+"Salt Lake City, UT","Louisville, KY",312.0
+"Salt Lake City, UT","Medford, OR",54.29
+"Salt Lake City, UT","Minneapolis, MN",214.63
+"Salt Lake City, UT","Missoula, MT",94.79
+"Salt Lake City, UT","Monterey, CA",61.33
+"Salt Lake City, UT","Montrose, CO",71.7
+"Salt Lake City, UT","Nashville, TN",254.79
+"Salt Lake City, UT","New Orleans, LA",251.65
+"Salt Lake City, UT","New York, NY",394.26
+"Salt Lake City, UT","Newark, NJ",387.8
+"Salt Lake City, UT","Oakland, CA",60.83
+"Salt Lake City, UT","Oklahoma City, OK",196.31
+"Salt Lake City, UT","Omaha, NE",193.32
+"Salt Lake City, UT","Ontario, CA",45.83
+"Salt Lake City, UT","Orange County, CA",57.36
+"Salt Lake City, UT","Orlando, FL",371.35
+"Salt Lake City, UT","Palm Springs, CA",46.4
+"Salt Lake City, UT","Pasco, WA",41.43
+"Salt Lake City, UT","Philadelphia, PA",375.42
+"Salt Lake City, UT","Phoenix, AZ",65.1
+"Salt Lake City, UT","Pittsburgh, PA",349.48
+"Salt Lake City, UT","Pocatello, ID",62.97
+"Salt Lake City, UT","Portland, OR",56.91
+"Salt Lake City, UT","Rapid City, SD",97.51
+"Salt Lake City, UT","Rdu Airport, NC",356.41
+"Salt Lake City, UT","Redmond, OR",43.65
+"Salt Lake City, UT","Reno, NV",28.43
+"Salt Lake City, UT","Sacramento, CA",45.27
+"Salt Lake City, UT","Saint Louis, MO",224.7
+"Salt Lake City, UT","Salem, OR",58.86
+"Salt Lake City, UT","San Antonio, TX",223.29
+"Salt Lake City, UT","San Diego, CA",54.73
+"Salt Lake City, UT","San Francisco, CA",72.54
+"Salt Lake City, UT","San Jose, CA",62.19
+"Salt Lake City, UT","San Luis Obispo, CA",60.31
+"Salt Lake City, UT","Santa Barbara, CA",62.41
+"Salt Lake City, UT","Seattle, WA",69.44
+"Salt Lake City, UT","Sioux Falls, SD",194.5
+"Salt Lake City, UT","Spokane, WA",44.06
+"Salt Lake City, UT","St George, UT",81.43
+"Salt Lake City, UT","Tampa, FL",373.25
+"Salt Lake City, UT","Tucson, AZ",83.21
+"Salt Lake City, UT","Tulsa, OK",205.96
+"Salt Lake City, UT","Twin Falls, ID",66.48
+"Salt Lake City, UT","Washington, DC",361.34
+"Salt Lake City, UT","West Yellowstone, MT",81.22
+"Salt Lake City, UT","Yakima, WA",47.63
+"Salt Lake City, UT","Yuma, AZ",85.11
+"San Angelo, TX","Dallas, TX",65.56
+"San Antonio, TX","Albuquerque, NM",47.77
+"San Antonio, TX","Atlanta, GA",196.95
+"San Antonio, TX","BWI Airport, MD",241.62
+"San Antonio, TX","Charlotte, NC",219.44
+"San Antonio, TX","Chicago, IL",161.76
+"San Antonio, TX","Cincinnati, OH",216.06
+"San Antonio, TX","Cleveland, OH",238.47
+"San Antonio, TX","Dallas, TX",62.18
+"San Antonio, TX","Denver, CO",73.0
+"San Antonio, TX","Detroit, MI",239.72
+"San Antonio, TX","El Paso, TX",27.36
+"San Antonio, TX","Harlingen, TX",48.26
+"San Antonio, TX","Houston, TX",55.86
+"San Antonio, TX","Indianapolis, IN",219.94
+"San Antonio, TX","Kansas City, MO",114.58
+"San Antonio, TX","Las Vegas, NV",51.19
+"San Antonio, TX","Los Angeles, CA",72.2
+"San Antonio, TX","Memphis, TN",110.92
+"San Antonio, TX","Minneapolis, MN",164.26
+"San Antonio, TX","Nashville, TN",119.39
+"San Antonio, TX","New Orleans, LA",83.0
+"San Antonio, TX","Newark, NJ",288.77
+"San Antonio, TX","Oklahoma City, OK",72.5
+"San Antonio, TX","Ontario, CA",65.26
+"San Antonio, TX","Orlando, FL",207.61
+"San Antonio, TX","Philadelphia, PA",274.35
+"San Antonio, TX","Phoenix, AZ",43.31
+"San Antonio, TX","Rdu Airport, NC",229.38
+"San Antonio, TX","Sacramento, CA",114.17
+"San Antonio, TX","Saint Louis, MO",117.18
+"San Antonio, TX","Salt Lake City, UT",116.75
+"San Antonio, TX","San Diego, CA",52.37
+"San Antonio, TX","San Francisco, CA",120.05
+"San Antonio, TX","Tampa, FL",194.5
+"San Antonio, TX","Tucson, AZ",43.22
+"San Antonio, TX","Tulsa, OK",81.0
+"San Antonio, TX","Washington, DC",240.46
+"San Diego, CA","Albuquerque, NM",154.17
+"San Diego, CA","Atlanta, GA",424.42
+"San Diego, CA","Austin, TX",271.6
+"San Diego, CA","BWI Airport, MD",458.78
+"San Diego, CA","Bakersfield, CA",52.27
+"San Diego, CA","Boise, ID",187.0
+"San Diego, CA","Boston, MA",497.96
+"San Diego, CA","Charlotte, NC",439.62
+"San Diego, CA","Chicago, IL",352.06
+"San Diego, CA","Cincinnati, OH",416.13
+"San Diego, CA","Colorado Springs, CO",184.01
+"San Diego, CA","Dallas, TX",289.83
+"San Diego, CA","Denver, CO",191.19
+"San Diego, CA","Detroit, MI",441.88
+"San Diego, CA","El Paso, TX",157.84
+"San Diego, CA","Fresno, CA",67.15
+"San Diego, CA","Honolulu, HI",177.03
+"San Diego, CA","Houston, TX",298.93
+"San Diego, CA","Kahului, HI",180.96
+"San Diego, CA","Kansas City, MO",291.99
+"San Diego, CA","Keahole, HI",239.0
+"San Diego, CA","Las Vegas, NV",70.56
+"San Diego, CA","Lihue, HI",228.25
+"San Diego, CA","Los Angeles, CA",50.63
+"San Diego, CA","Memphis, TN",329.74
+"San Diego, CA","Milwaukee, WI",342.18
+"San Diego, CA","Minneapolis, MN",332.85
+"San Diego, CA","Monterey, CA",73.05
+"San Diego, CA","Nashville, TN",337.32
+"San Diego, CA","New York, NY",496.87
+"San Diego, CA","Newark, NJ",501.73
+"San Diego, CA","Oakland, CA",86.41
+"San Diego, CA","Oklahoma City, OK",269.25
+"San Diego, CA","Omaha, NE",295.05
+"San Diego, CA","Philadelphia, PA",480.78
+"San Diego, CA","Phoenix, AZ",93.86
+"San Diego, CA","Portland, OR",155.58
+"San Diego, CA","Reno, NV",88.47
+"San Diego, CA","Sacramento, CA",89.44
+"San Diego, CA","Saint Louis, MO",323.95
+"San Diego, CA","Salt Lake City, UT",172.83
+"San Diego, CA","San Antonio, TX",267.99
+"San Diego, CA","San Francisco, CA",92.4
+"San Diego, CA","San Jose, CA",79.7
+"San Diego, CA","Seattle, WA",173.68
+"San Diego, CA","Spokane, WA",158.99
+"San Diego, CA","Tucson, AZ",93.17
+"San Diego, CA","Tulsa, OK",281.2
+"San Diego, CA","Washington, DC",460.41
+"San Francisco, CA","Albuquerque, NM",199.26
+"San Francisco, CA","Anchorage, AK",214.57
+"San Francisco, CA","Arcata/Eureka, CA",81.62
+"San Francisco, CA","Aspen, CO",190.47
+"San Francisco, CA","Atlanta, GA",453.36
+"San Francisco, CA","Austin, TX",320.7
+"San Francisco, CA","BWI Airport, MD",476.07
+"San Francisco, CA","Bakersfield, CA",75.48
+"San Francisco, CA","Boise, ID",155.18
+"San Francisco, CA","Boston, MA",509.85
+"San Francisco, CA","Bozeman, MT",188.09
+"San Francisco, CA","Burbank, CA",71.59
+"San Francisco, CA","Charlotte, NC",468.35
+"San Francisco, CA","Chicago, IL",366.25
+"San Francisco, CA","Chico, CA",58.74
+"San Francisco, CA","Cincinnati, OH",440.11
+"San Francisco, CA","Cleveland, OH",449.59
+"San Francisco, CA","Colorado Springs, CO",205.19
+"San Francisco, CA","Crescent City, CA",92.45
+"San Francisco, CA","Dallas, TX",319.74
+"San Francisco, CA","Denver, CO",204.27
+"San Francisco, CA","Detroit, MI",452.93
+"San Francisco, CA","Eugene, OR",91.56
+"San Francisco, CA","Fresno, CA",59.9
+"San Francisco, CA","Honolulu, HI",162.88
+"San Francisco, CA","Houston, TX",345.24
+"San Francisco, CA","Indianapolis, IN",434.0
+"San Francisco, CA","Kahului, HI",161.3
+"San Francisco, CA","Keahole, HI",167.4
+"San Francisco, CA","Las Vegas, NV",90.04
+"San Francisco, CA","Lihue, HI",178.1
+"San Francisco, CA","Los Angeles, CA",83.34
+"San Francisco, CA","Medford, OR",94.74
+"San Francisco, CA","Memphis, TN",353.57
+"San Francisco, CA","Miami, FL",492.22
+"San Francisco, CA","Milwaukee, WI",361.67
+"San Francisco, CA","Minneapolis, MN",333.46
+"San Francisco, CA","Modesto, CA",42.73
+"San Francisco, CA","Monterey, CA",44.82
+"San Francisco, CA","New York, NY",515.26
+"San Francisco, CA","Newark, NJ",506.45
+"San Francisco, CA","Ontario, CA",78.75
+"San Francisco, CA","Orange County, CA",88.07
+"San Francisco, CA","Orlando, FL",478.12
+"San Francisco, CA","Palm Springs, CA",85.01
+"San Francisco, CA","Palmdale, CA",67.82
+"San Francisco, CA","Philadelphia, PA",493.37
+"San Francisco, CA","Phoenix, AZ",132.96
+"San Francisco, CA","Pittsburgh, PA",455.0
+"San Francisco, CA","Portland, OR",102.7
+"San Francisco, CA","Redding, CA",66.98
+"San Francisco, CA","Redmond, OR",119.57
+"San Francisco, CA","Reno, NV",58.38
+"San Francisco, CA","Sacramento, CA",44.9
+"San Francisco, CA","Saint Louis, MO",334.61
+"San Francisco, CA","Salt Lake City, UT",166.95
+"San Francisco, CA","San Antonio, TX",318.72
+"San Francisco, CA","San Diego, CA",85.75
+"San Francisco, CA","San Luis Obispo, CA",66.49
+"San Francisco, CA","Santa Barbara, CA",77.89
+"San Francisco, CA","Seattle, WA",123.37
+"San Francisco, CA","Tucson, AZ",143.51
+"San Francisco, CA","Washington, DC",476.18
+"San Jose, CA","Atlanta, GA",448.19
+"San Jose, CA","Austin, TX",311.74
+"San Jose, CA","Burbank, CA",56.5
+"San Jose, CA","Chicago, IL",368.28
+"San Jose, CA","Dallas, TX",316.93
+"San Jose, CA","Denver, CO",202.09
+"San Jose, CA","Honolulu, HI",173.0
+"San Jose, CA","Houston, TX",340.89
+"San Jose, CA","Las Vegas, NV",79.81
+"San Jose, CA","Long Beach, CA",75.4
+"San Jose, CA","Los Angeles, CA",73.56
+"San Jose, CA","Minneapolis, MN",336.98
+"San Jose, CA","New York, NY",522.56
+"San Jose, CA","Ontario, CA",64.7
+"San Jose, CA","Orange County, CA",74.3
+"San Jose, CA","Phoenix, AZ",128.8
+"San Jose, CA","Portland, OR",100.71
+"San Jose, CA","Reno, NV",50.42
+"San Jose, CA","Salt Lake City, UT",168.95
+"San Jose, CA","San Diego, CA",75.7
+"San Jose, CA","San Francisco, CA",35.0
+"San Jose, CA","Santa Barbara, CA",63.02
+"San Jose, CA","Seattle, WA",121.92
+"San Jose, CA","Washington, DC",484.82
+"San Juan, PR","Atlanta, GA",224.57
+"San Juan, PR","BWI Airport, MD",186.9
+"San Juan, PR","Boston, MA",215.16
+"San Juan, PR","Charlotte Amalie, VI",37.41
+"San Juan, PR","Charlotte, NC",189.24
+"San Juan, PR","Chicago, IL",222.82
+"San Juan, PR","Cleveland, OH",247.0
+"San Juan, PR","Dallas, TX",223.42
+"San Juan, PR","Detroit, MI",264.13
+"San Juan, PR","Fort Lauderdale, FL",128.85
+"San Juan, PR","Houston, TX",203.52
+"San Juan, PR","Los Angeles, CA",246.47
+"San Juan, PR","Memphis, TN",183.0
+"San Juan, PR","Miami, FL",145.12
+"San Juan, PR","Minneapolis, MN",258.2
+"San Juan, PR","New York, NY",220.39
+"San Juan, PR","Newark, NJ",218.85
+"San Juan, PR","Orlando, FL",160.36
+"San Juan, PR","Philadelphia, PA",213.86
+"San Juan, PR","Tampa, FL",156.32
+"San Juan, PR","Washington, DC",208.61
+"San Juan, PR","Windsor Locks, CT",211.74
+"San Luis Obispo, CA","Las Vegas, NV",77.29
+"San Luis Obispo, CA","Los Angeles, CA",63.84
+"San Luis Obispo, CA","Phoenix, AZ",113.19
+"San Luis Obispo, CA","Salt Lake City, UT",163.38
+"San Luis Obispo, CA","San Francisco, CA",65.9
+"Santa Barbara, CA","Dallas, TX",291.67
+"Santa Barbara, CA","Denver, CO",195.5
+"Santa Barbara, CA","Las Vegas, NV",73.63
+"Santa Barbara, CA","Los Angeles, CA",50.27
+"Santa Barbara, CA","Phoenix, AZ",112.69
+"Santa Barbara, CA","Salt Lake City, UT",171.31
+"Santa Barbara, CA","San Francisco, CA",82.8
+"Santa Barbara, CA","San Jose, CA",67.83
+"Santa Maria, CA","Los Angeles, CA",58.3
+"Sarasota, FL","Atlanta, GA",100.63
+"Sarasota, FL","BWI Airport, MD",132.14
+"Sarasota, FL","Boston, MA",171.17
+"Sarasota, FL","Charlotte, NC",109.5
+"Sarasota, FL","Chicago, IL",102.22
+"Sarasota, FL","Cincinnati, OH",137.97
+"Sarasota, FL","Cleveland, OH",154.21
+"Sarasota, FL","Detroit, MI",156.12
+"Sarasota, FL","Houston, TX",98.0
+"Sarasota, FL","Indianapolis, IN",140.96
+"Sarasota, FL","New York, NY",167.36
+"Sarasota, FL","Newark, NJ",165.44
+"Sarasota, FL","Saint Louis, MO",80.45
+"Sarasota, FL","Tampa, FL",46.0
+"Sarasota, FL","Washington, DC",126.0
+"Savannah, GA","Atlanta, GA",68.73
+"Savannah, GA","Boston, MA",144.94
+"Savannah, GA","Charlotte, NC",70.38
+"Savannah, GA","Chicago, IL",87.05
+"Savannah, GA","Cincinnati, OH",104.06
+"Savannah, GA","Cleveland, OH",114.0
+"Savannah, GA","Dallas, TX",112.16
+"Savannah, GA","Detroit, MI",137.53
+"Savannah, GA","Houston, TX",99.5
+"Savannah, GA","Jacksonville, FL",40.0
+"Savannah, GA","Memphis, TN",57.24
+"Savannah, GA","Minneapolis, MN",134.29
+"Savannah, GA","New York, NY",136.3
+"Savannah, GA","Newark, NJ",136.68
+"Savannah, GA","Washington, DC",97.63
+"Seattle, WA","Albuquerque, NM",218.18
+"Seattle, WA","Anchorage, AK",155.46
+"Seattle, WA","Atlanta, GA",458.88
+"Seattle, WA","Austin, TX",350.64
+"Seattle, WA","BWI Airport, MD",483.35
+"Seattle, WA","Boise, ID",132.57
+"Seattle, WA","Boston, MA",495.68
+"Seattle, WA","Burbank, CA",141.45
+"Seattle, WA","Charlotte, NC",472.42
+"Seattle, WA","Chicago, IL",355.98
+"Seattle, WA","Cincinnati, OH",433.84
+"Seattle, WA","Dallas, TX",342.27
+"Seattle, WA","Denver, CO",210.88
+"Seattle, WA","Detroit, MI",434.49
+"Seattle, WA","Fairbanks, AK",157.46
+"Seattle, WA","Honolulu, HI",201.6
+"Seattle, WA","Houston, TX",362.83
+"Seattle, WA","Indianapolis, IN",427.25
+"Seattle, WA","Juneau, AK",92.45
+"Seattle, WA","Kahului, HI",196.98
+"Seattle, WA","Kansas City, MO",313.03
+"Seattle, WA","Ketchikan, AK",66.53
+"Seattle, WA","Las Vegas, NV",140.04
+"Seattle, WA","Lihue, HI",211.76
+"Seattle, WA","Long Beach, CA",152.84
+"Seattle, WA","Los Angeles, CA",152.44
+"Seattle, WA","Memphis, TN",364.75
+"Seattle, WA","Miami, FL",503.0
+"Seattle, WA","Milwaukee, WI",341.1
+"Seattle, WA","Minneapolis, MN",312.53
+"Seattle, WA","Nashville, TN",374.22
+"Seattle, WA","New York, NY",502.12
+"Seattle, WA","Newark, NJ",487.28
+"Seattle, WA","Oakland, CA",117.01
+"Seattle, WA","Ontario, CA",145.36
+"Seattle, WA","Orange County, CA",156.86
+"Seattle, WA","Orlando, FL",500.68
+"Seattle, WA","Palm Springs, CA",152.75
+"Seattle, WA","Philadelphia, PA",483.07
+"Seattle, WA","Phoenix, AZ",186.71
+"Seattle, WA","Portland, OR",47.21
+"Seattle, WA","Reno, NV",91.93
+"Seattle, WA","Sacramento, CA",99.55
+"Seattle, WA","Saint Louis, MO",335.73
+"Seattle, WA","Salt Lake City, UT",172.15
+"Seattle, WA","San Diego, CA",155.93
+"Seattle, WA","San Francisco, CA",128.2
+"Seattle, WA","San Jose, CA",119.67
+"Seattle, WA","Spokane, WA",57.39
+"Seattle, WA","Tucson, AZ",193.96
+"Seattle, WA","Washington, DC",465.04
+"Shreveport, LA","Atlanta, GA",165.21
+"Shreveport, LA","Chicago, IL",134.0
+"Shreveport, LA","Dallas, TX",66.13
+"Shreveport, LA","Detroit, MI",203.47
+"Shreveport, LA","Houston, TX",61.85
+"Shreveport, LA","Memphis, TN",72.41
+"Sioux City, IA","Minneapolis, MN",69.09
+"Sioux Falls, SD","Atlanta, GA",211.86
+"Sioux Falls, SD","Chicago, IL",104.01
+"Sioux Falls, SD","Cincinnati, OH",183.76
+"Sioux Falls, SD","Denver, CO",37.39
+"Sioux Falls, SD","Minneapolis, MN",64.55
+"Sioux Falls, SD","Peoria, IL",64.0
+"Sioux Falls, SD","Salt Lake City, UT",88.5
+"Sitka, AK","Juneau, AK",42.43
+"Sitka, AK","Ketchikan, AK",50.46
+"Sitka, AK","Seattle, WA",183.6
+"South Bend, IN","Atlanta, GA",115.67
+"South Bend, IN","Chicago, IL",21.76
+"South Bend, IN","Cincinnati, OH",56.0
+"South Bend, IN","Detroit, MI",66.5
+"South Bend, IN","Minneapolis, MN",41.86
+"South Burlington, VT","Atlanta, GA",166.2
+"South Burlington, VT","BWI Airport, MD",92.91
+"South Burlington, VT","Chicago, IL",87.82
+"South Burlington, VT","Cincinnati, OH",143.05
+"South Burlington, VT","Cleveland, OH",105.1
+"South Burlington, VT","Detroit, MI",122.11
+"South Burlington, VT","Minneapolis, MN",103.0
+"South Burlington, VT","New York, NY",95.19
+"South Burlington, VT","Newark, NJ",96.4
+"South Burlington, VT","Orlando, FL",196.44
+"Spokane, WA","Boise, ID",116.16
+"Spokane, WA","Chicago, IL",329.73
+"Spokane, WA","Denver, CO",189.23
+"Spokane, WA","Las Vegas, NV",132.12
+"Spokane, WA","Long Beach, CA",157.0
+"Spokane, WA","Los Angeles, CA",168.5
+"Spokane, WA","Minneapolis, MN",289.41
+"Spokane, WA","Oakland, CA",120.36
+"Spokane, WA","Ontario, CA",143.38
+"Spokane, WA","Phoenix, AZ",178.22
+"Spokane, WA","Portland, OR",61.61
+"Spokane, WA","Reno, NV",93.5
+"Spokane, WA","Sacramento, CA",105.04
+"Spokane, WA","Salt Lake City, UT",156.18
+"Spokane, WA","San Diego, CA",159.69
+"Spokane, WA","Seattle, WA",64.56
+"Spokane, WA","Tucson, AZ",174.19
+"Springfield, IL","Chicago, IL",64.9
+"Springfield, IL","Washington, DC",169.53
+"Springfield, MO","Atlanta, GA",168.65
+"Springfield, MO","Chicago, IL",99.88
+"Springfield, MO","Cincinnati, OH",157.04
+"Springfield, MO","Dallas, TX",87.28
+"Springfield, MO","Denver, CO",65.06
+"Springfield, MO","Detroit, MI",180.96
+"Springfield, MO","Memphis, TN",67.84
+"Springfield, MO","Minneapolis, MN",109.27
+"Springfield, MO","Nashville, TN",65.0
+"Springfield, MO","Saint Louis, MO",59.07
+"Springfield, MO","Sioux Falls, SD",81.0
+"St George, UT","Los Angeles, CA",45.6
+"St George, UT","Salt Lake City, UT",76.98
+"Syracuse, NY","Atlanta, GA",146.44
+"Syracuse, NY","Charlotte, NC",127.59
+"Syracuse, NY","Chicago, IL",76.08
+"Syracuse, NY","Cincinnati, OH",112.92
+"Syracuse, NY","Cleveland, OH",77.67
+"Syracuse, NY","Dallas, TX",145.64
+"Syracuse, NY","Detroit, MI",97.15
+"Syracuse, NY","Fort Lauderdale, FL",193.29
+"Syracuse, NY","New York, NY",84.47
+"Syracuse, NY","Newark, NJ",88.79
+"Syracuse, NY","Orlando, FL",174.3
+"Syracuse, NY","Philadelphia, PA",79.14
+"Syracuse, NY","Washington, DC",80.37
+"Tallahassee, FL","Atlanta, GA",70.51
+"Tallahassee, FL","Charlotte, NC",82.5
+"Tallahassee, FL","Fort Lauderdale, FL",81.75
+"Tallahassee, FL","Houston, TX",66.14
+"Tallahassee, FL","Memphis, TN",38.32
+"Tallahassee, FL","Miami, FL",81.51
+"Tallahassee, FL","Orlando, FL",54.71
+"Tallahassee, FL","Tampa, FL",49.41
+"Tampa, FL","Albany, NY",159.68
+"Tampa, FL","Albuquerque, NM",109.85
+"Tampa, FL","Atlanta, GA",98.01
+"Tampa, FL","Austin, TX",95.73
+"Tampa, FL","BWI Airport, MD",129.65
+"Tampa, FL","Birmingham, AL",24.64
+"Tampa, FL","Boston, MA",177.31
+"Tampa, FL","Buffalo, NY",151.75
+"Tampa, FL","Charlotte, NC",98.13
+"Tampa, FL","Chicago, IL",108.36
+"Tampa, FL","Cincinnati, OH",131.12
+"Tampa, FL","Cleveland, OH",149.21
+"Tampa, FL","Columbus, OH",126.8
+"Tampa, FL","Dallas, TX",106.44
+"Tampa, FL","Dayton, OH",133.71
+"Tampa, FL","Denver, CO",117.1
+"Tampa, FL","Detroit, MI",162.34
+"Tampa, FL","Flint, MI",154.27
+"Tampa, FL","Fort Lauderdale, FL",56.07
+"Tampa, FL","Gulfport, MS",30.63
+"Tampa, FL","Houston, TX",80.71
+"Tampa, FL","Indianapolis, IN",140.1
+"Tampa, FL","Islip, NY",151.0
+"Tampa, FL","Jacksonville, FL",50.39
+"Tampa, FL","Kansas City, MO",107.7
+"Tampa, FL","Las Vegas, NV",118.78
+"Tampa, FL","Los Angeles, CA",143.33
+"Tampa, FL","Louisville, KY",120.98
+"Tampa, FL","Manchester, NH",168.21
+"Tampa, FL","Memphis, TN",64.93
+"Tampa, FL","Miami, FL",60.7
+"Tampa, FL","Milwaukee, WI",105.2
+"Tampa, FL","Minneapolis, MN",143.88
+"Tampa, FL","Nashville, TN",46.95
+"Tampa, FL","New Orleans, LA",34.11
+"Tampa, FL","New York, NY",162.98
+"Tampa, FL","Newark, NJ",168.22
+"Tampa, FL","Newburgh, NY",159.81
+"Tampa, FL","Newport News, VA",117.64
+"Tampa, FL","Norfolk, VA",112.22
+"Tampa, FL","North Canton, OH",131.25
+"Tampa, FL","Orlando, FL",100.0
+"Tampa, FL","Pensacola, FL",16.25
+"Tampa, FL","Philadelphia, PA",149.02
+"Tampa, FL","Phoenix, AZ",122.12
+"Tampa, FL","Pittsburgh, PA",136.61
+"Tampa, FL","Providence, RI",157.3
+"Tampa, FL","Rdu Airport, NC",100.49
+"Tampa, FL","Rochester, NY",152.85
+"Tampa, FL","Saint Louis, MO",80.66
+"Tampa, FL","Salt Lake City, UT",167.49
+"Tampa, FL","San Antonio, TX",102.43
+"Tampa, FL","San Juan, PR",218.11
+"Tampa, FL","Tallahassee, FL",60.36
+"Tampa, FL","Washington, DC",128.98
+"Tampa, FL","West Palm Beach, FL",47.51
+"Tampa, FL","Windsor Locks, CT",160.07
+"Telluride, CO","Phoenix, AZ",108.38
+"Texarkana, AR","Dallas, TX",69.85
+"Toledo, OH","Atlanta, GA",116.0
+"Toledo, OH","Chicago, IL",21.08
+"Traverse City, MI","Chicago, IL",22.36
+"Traverse City, MI","Cincinnati, OH",82.67
+"Traverse City, MI","Denver, CO",50.33
+"Traverse City, MI","Detroit, MI",72.59
+"Traverse City, MI","Madison, WI",10.0
+"Traverse City, MI","Minneapolis, MN",44.32
+"Traverse City, MI","New York, NY",115.75
+"Tucson, AZ","Albuquerque, NM",93.45
+"Tucson, AZ","Atlanta, GA",364.17
+"Tucson, AZ","Austin, TX",206.58
+"Tucson, AZ","Charlotte, NC",399.0
+"Tucson, AZ","Chicago, IL",290.53
+"Tucson, AZ","Dallas, TX",226.57
+"Tucson, AZ","Denver, CO",145.04
+"Tucson, AZ","El Paso, TX",73.31
+"Tucson, AZ","Houston, TX",238.38
+"Tucson, AZ","Kansas City, MO",247.84
+"Tucson, AZ","Las Vegas, NV",47.34
+"Tucson, AZ","Los Angeles, CA",66.89
+"Tucson, AZ","Minneapolis, MN",283.9
+"Tucson, AZ","New York, NY",401.25
+"Tucson, AZ","Newark, NJ",408.39
+"Tucson, AZ","Oakland, CA",114.5
+"Tucson, AZ","Omaha, NE",252.95
+"Tucson, AZ","Ontario, CA",63.01
+"Tucson, AZ","Phoenix, AZ",49.51
+"Tucson, AZ","Reno, NV",95.78
+"Tucson, AZ","Sacramento, CA",112.47
+"Tucson, AZ","Salt Lake City, UT",136.32
+"Tucson, AZ","San Antonio, TX",208.35
+"Tucson, AZ","San Diego, CA",52.3
+"Tucson, AZ","San Francisco, CA",119.47
+"Tucson, AZ","Seattle, WA",162.39
+"Tucson, AZ","Spokane, WA",153.74
+"Tucson, AZ","Washington, DC",402.83
+"Tulsa, OK","Albuquerque, NM",53.0
+"Tulsa, OK","Aspen, CO",79.0
+"Tulsa, OK","Atlanta, GA",173.18
+"Tulsa, OK","Austin, TX",89.33
+"Tulsa, OK","Chicago, IL",114.45
+"Tulsa, OK","Cincinnati, OH",170.05
+"Tulsa, OK","Dallas, TX",64.05
+"Tulsa, OK","Denver, CO",44.53
+"Tulsa, OK","Detroit, MI",200.9
+"Tulsa, OK","Houston, TX",95.38
+"Tulsa, OK","Kansas City, MO",53.18
+"Tulsa, OK","Las Vegas, NV",52.93
+"Tulsa, OK","Los Angeles, CA",65.6
+"Tulsa, OK","Memphis, TN",83.9
+"Tulsa, OK","Minneapolis, MN",121.4
+"Tulsa, OK","Newark, NJ",235.17
+"Tulsa, OK","Ontario, CA",70.79
+"Tulsa, OK","Phoenix, AZ",65.79
+"Tulsa, OK","Sacramento, CA",113.74
+"Tulsa, OK","Saint Louis, MO",66.48
+"Tulsa, OK","Salt Lake City, UT",101.45
+"Tulsa, OK","San Antonio, TX",91.33
+"Tulsa, OK","San Diego, CA",75.7
+"Tupelo, MS","Atlanta, GA",123.0
+"Twin Falls, ID","Salt Lake City, UT",63.6
+"Tyler, TX","Dallas, TX",55.88
+"Valdosta, GA","Atlanta, GA",66.94
+"Valparaiso, FL","Atlanta, GA",137.18
+"Valparaiso, FL","Chicago, IL",165.67
+"Valparaiso, FL","Cincinnati, OH",173.62
+"Valparaiso, FL","Dallas, TX",134.35
+"Valparaiso, FL","Houston, TX",118.27
+"Valparaiso, FL","Memphis, TN",90.73
+"Valparaiso, FL","New York, NY",240.0
+"Waco, TX","Dallas, TX",50.73
+"Washington, DC","Albany, NY",69.97
+"Washington, DC","Albuquerque, NM",145.41
+"Washington, DC","Atlanta, GA",116.69
+"Washington, DC","Austin, TX",154.58
+"Washington, DC","Baton Rouge, LA",113.91
+"Washington, DC","Birmingham, AL",69.16
+"Washington, DC","Boston, MA",92.96
+"Washington, DC","Buffalo, NY",68.11
+"Washington, DC","Burbank, CA",165.0
+"Washington, DC","Charleston, SC",103.55
+"Washington, DC","Charlotte Amalie, VI",260.55
+"Washington, DC","Charlotte, NC",89.6
+"Washington, DC","Chicago, IL",71.28
+"Washington, DC","Cincinnati, OH",101.34
+"Washington, DC","Cleveland, OH",81.57
+"Washington, DC","Columbia, SC",88.09
+"Washington, DC","Columbus, OH",84.6
+"Washington, DC","Dallas, TX",141.84
+"Washington, DC","Denver, CO",116.85
+"Washington, DC","Des Moines, IA",107.4
+"Washington, DC","Detroit, MI",99.58
+"Washington, DC","Fayetteville / Springdale, AR",111.42
+"Washington, DC","Fort Lauderdale, FL",159.63
+"Washington, DC","Fort Myers, FL",155.22
+"Washington, DC","Grand Rapids, MI",112.32
+"Washington, DC","Greensboro, NC",70.86
+"Washington, DC","Greenville, SC",94.06
+"Washington, DC","Harrisburg, PA",50.35
+"Washington, DC","Houston, TX",145.7
+"Washington, DC","Huntsville, AL",60.48
+"Washington, DC","Indianapolis, IN",121.37
+"Washington, DC","Jackson, MS",91.21
+"Washington, DC","Jacksonville, FL",123.76
+"Washington, DC","Kansas City, MO",109.36
+"Washington, DC","Las Vegas, NV",137.45
+"Washington, DC","Lexington, KY",90.78
+"Washington, DC","Long Beach, CA",160.15
+"Washington, DC","Los Angeles, CA",158.93
+"Washington, DC","Madison, WI",69.25
+"Washington, DC","Manchester, NH",87.76
+"Washington, DC","Memphis, TN",86.27
+"Washington, DC","Miami, FL",154.61
+"Washington, DC","Milwaukee, WI",64.59
+"Washington, DC","Minneapolis, MN",106.04
+"Washington, DC","Myrtle Beach, SC",84.35
+"Washington, DC","Nashville, TN",55.5
+"Washington, DC","New Orleans, LA",108.8
+"Washington, DC","New York, NY",84.43
+"Washington, DC","Newark, NJ",86.18
+"Washington, DC","Norfolk, VA",64.07
+"Washington, DC","Oakland, CA",172.18
+"Washington, DC","Oklahoma City, OK",132.58
+"Washington, DC","Orlando, FL",137.79
+"Washington, DC","Philadelphia, PA",66.05
+"Washington, DC","Phoenix, AZ",146.23
+"Washington, DC","Pittsburgh, PA",63.14
+"Washington, DC","Portland, ME",100.36
+"Washington, DC","Portland, OR",159.52
+"Washington, DC","Providence, RI",82.08
+"Washington, DC","Rdu Airport, NC",66.17
+"Washington, DC","Roanoke, VA",60.28
+"Washington, DC","Rochester, NY",74.36
+"Washington, DC","Sacramento, CA",165.24
+"Washington, DC","Saint Louis, MO",73.42
+"Washington, DC","Salt Lake City, UT",165.16
+"Washington, DC","San Antonio, TX",167.65
+"Washington, DC","San Diego, CA",154.03
+"Washington, DC","San Francisco, CA",176.48
+"Washington, DC","San Jose, CA",178.51
+"Washington, DC","San Juan, PR",252.26
+"Washington, DC","Sarasota, FL",150.0
+"Washington, DC","Savannah, GA",110.72
+"Washington, DC","Seattle, WA",160.6
+"Washington, DC","Springfield, IL",68.57
+"Washington, DC","Syracuse, NY",71.56
+"Washington, DC","Tampa, FL",141.98
+"Washington, DC","Tucson, AZ",128.0
+"Washington, DC","Washington, DC",55.0
+"Washington, DC","West Palm Beach, FL",151.35
+"Washington, DC","Windsor Locks, CT",78.87
+"Waterloo, IA","Minneapolis, MN",61.0
+"West Palm Beach, FL","Atlanta, GA",113.2
+"West Palm Beach, FL","BWI Airport, MD",133.73
+"West Palm Beach, FL","Boston, MA",181.48
+"West Palm Beach, FL","Charlotte, NC",112.45
+"West Palm Beach, FL","Chicago, IL",129.95
+"West Palm Beach, FL","Cincinnati, OH",149.51
+"West Palm Beach, FL","Cleveland, OH",163.8
+"West Palm Beach, FL","Columbus, OH",159.0
+"West Palm Beach, FL","Dallas, TX",131.19
+"West Palm Beach, FL","Denver, CO",142.4
+"West Palm Beach, FL","Detroit, MI",174.04
+"West Palm Beach, FL","Houston, TX",113.75
+"West Palm Beach, FL","Islip, NY",153.11
+"West Palm Beach, FL","Las Vegas, NV",149.3
+"West Palm Beach, FL","New York, NY",167.58
+"West Palm Beach, FL","Newark, NJ",181.49
+"West Palm Beach, FL","Newburgh, NY",162.81
+"West Palm Beach, FL","Philadelphia, PA",154.59
+"West Palm Beach, FL","Pittsburgh, PA",137.0
+"West Palm Beach, FL","Tampa, FL",52.67
+"West Palm Beach, FL","Washington, DC",138.0
+"West Palm Beach, FL","White Plains, NY",164.47
+"West Palm Beach, FL","Windsor Locks, CT",167.04
+"West Yellowstone, MT","Salt Lake City, UT",78.75
+"White Plains, NY","Atlanta, GA",147.21
+"White Plains, NY","Chicago, IL",104.55
+"White Plains, NY","Cincinnati, OH",141.33
+"White Plains, NY","Detroit, MI",123.73
+"White Plains, NY","Fort Lauderdale, FL",183.73
+"White Plains, NY","Fort Myers, FL",185.82
+"White Plains, NY","Newark, NJ",28.0
+"White Plains, NY","Orlando, FL",162.87
+"White Plains, NY","West Palm Beach, FL",170.39
+"Wichita Falls, TX","Dallas, TX",52.22
+"Wichita, KS","Atlanta, GA",185.01
+"Wichita, KS","Chicago, IL",116.26
+"Wichita, KS","Dallas, TX",79.53
+"Wichita, KS","Denver, CO",29.8
+"Wichita, KS","Detroit, MI",205.25
+"Wichita, KS","Houston, TX",111.67
+"Wichita, KS","Kansas City, MO",56.0
+"Wichita, KS","Los Angeles, CA",69.84
+"Wichita, KS","Memphis, TN",90.76
+"Wichita, KS","Minneapolis, MN",109.39
+"Wichita, KS","Oklahoma City, OK",48.0
+"Wichita, KS","Phoenix, AZ",58.23
+"Wichita, KS","Salt Lake City, UT",70.0
+"Wilmington, NC","Atlanta, GA",92.39
+"Wilmington, NC","Charlotte, NC",62.38
+"Wilmington, NC","Cincinnati, OH",100.5
+"Windsor Locks, CT","Atlanta, GA",157.32
+"Windsor Locks, CT","BWI Airport, MD",67.88
+"Windsor Locks, CT","Charlotte, NC",128.91
+"Windsor Locks, CT","Chicago, IL",99.1
+"Windsor Locks, CT","Cincinnati, OH",130.52
+"Windsor Locks, CT","Cleveland, OH",109.46
+"Windsor Locks, CT","Dallas, TX",182.99
+"Windsor Locks, CT","Denver, CO",143.0
+"Windsor Locks, CT","Detroit, MI",125.78
+"Windsor Locks, CT","Fort Lauderdale, FL",192.0
+"Windsor Locks, CT","Fort Myers, FL",200.63
+"Windsor Locks, CT","Houston, TX",182.56
+"Windsor Locks, CT","Indianapolis, IN",154.6
+"Windsor Locks, CT","Las Vegas, NV",157.42
+"Windsor Locks, CT","Los Angeles, CA",193.78
+"Windsor Locks, CT","Memphis, TN",139.0
+"Windsor Locks, CT","Miami, FL",196.09
+"Windsor Locks, CT","Milwaukee, WI",82.94
+"Windsor Locks, CT","Minneapolis, MN",122.12
+"Windsor Locks, CT","Nashville, TN",84.93
+"Windsor Locks, CT","New York, NY",74.65
+"Windsor Locks, CT","Newark, NJ",78.49
+"Windsor Locks, CT","Orlando, FL",175.27
+"Windsor Locks, CT","Philadelphia, PA",84.89
+"Windsor Locks, CT","Phoenix, AZ",198.75
+"Windsor Locks, CT","Rdu Airport, NC",104.69
+"Windsor Locks, CT","San Juan, PR",257.34
+"Windsor Locks, CT","Tampa, FL",181.36
+"Windsor Locks, CT","Washington, DC",84.48
+"Windsor Locks, CT","West Palm Beach, FL",194.27
+"Wrangell, AK","Ketchikan, AK",38.26
+"Wrangell, AK","Petersburg, AK",24.32
+"Yakima, WA","Salt Lake City, UT",156.36
+"Yakutat, AK","Cordova, AK",48.95
+"Yakutat, AK","Juneau, AK",46.39
+"Yuma, AZ","Imperial, CA",29.82
+"Yuma, AZ","Las Vegas, NV",43.77
+"Yuma, AZ","Los Angeles, CA",51.22
+"Yuma, AZ","Phoenix, AZ",59.66
+"Yuma, AZ","Salt Lake City, UT",133.33

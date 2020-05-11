@@ -1,3 +1,1386 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d232936036fe0b171acff374fdee020f407e591de9d485b50b6840c5463d8958
-size 52410
+index,Country,Search_Interest,Sport,Population
+0,Iran,1,Archery,80987449
+1,South Korea,2,Archery,50924172
+2,Mexico,1,Archery,123166749
+3,Netherlands,1,Archery,17016967
+4,Aruba,16,Artistic gymnastics,113648
+5,Afghanistan,3,Artistic gymnastics,33332025
+6,Angola,3,Artistic gymnastics,28289713
+7,Albania,1,Artistic gymnastics,3038594
+8,Andorra,2,Artistic gymnastics,85660
+9,United Arab Emirates,3,Artistic gymnastics,5927482
+10,Argentina,2,Artistic gymnastics,43886748
+11,Armenia,1,Artistic gymnastics,3051250
+12,Antigua and Barbuda,12,Artistic gymnastics,93581
+13,Australia,4,Artistic gymnastics,22992654
+14,Austria,2,Artistic gymnastics,8711770
+15,Azerbaijan,1,Artistic gymnastics,9872765
+16,Belgium,4,Artistic gymnastics,11409077
+17,Benin,1,Artistic gymnastics,10741458
+18,Burkina Faso,2,Artistic gymnastics,19512533
+19,Bulgaria,1,Artistic gymnastics,7144653
+20,Bahrain,2,Artistic gymnastics,1378904
+21,Bahamas,17,Artistic gymnastics,327316
+22,Bosnia and Herzegovina,1,Artistic gymnastics,3861912
+23,Belarus,1,Artistic gymnastics,9570376
+24,Belize,14,Artistic gymnastics,353858
+25,Bermuda,18,Artistic gymnastics,70537
+26,Bolivia,2,Artistic gymnastics,10969649
+27,Brazil,7,Artistic gymnastics,205823665
+28,Barbados,20,Artistic gymnastics,291495
+29,Brunei,1,Artistic gymnastics,436620
+30,Botswana,2,Artistic gymnastics,2180597
+31,Canada,5,Artistic gymnastics,35362905
+32,Switzerland,7,Artistic gymnastics,8179294
+33,Chile,7,Artistic gymnastics,17650114
+34,Ivory Coast,2,Artistic gymnastics,23740424
+35,Cameroon,3,Artistic gymnastics,24360803
+36,Democratic Republic of the Congo,1,Artistic gymnastics,81331050
+37,Colombia,3,Artistic gymnastics,47220856
+38,Cape Verde,4,Artistic gymnastics,553432
+39,Costa Rica,4,Artistic gymnastics,4872543
+40,Cayman Islands,12,Artistic gymnastics,57268
+41,Cyprus,3,Artistic gymnastics,1205575
+42,Czech Republic,3,Artistic gymnastics,10660932
+43,Germany,4,Artistic gymnastics,80722792
+44,Dominica,14,Artistic gymnastics,73757
+45,Denmark,3,Artistic gymnastics,5593785
+46,Dominican Republic,2,Artistic gymnastics,10606865
+47,Ecuador,2,Artistic gymnastics,16080778
+48,Spain,5,Artistic gymnastics,48563476
+49,Estonia,2,Artistic gymnastics,1258545
+50,Ethiopia,1,Artistic gymnastics,102374044
+51,Finland,3,Artistic gymnastics,5498211
+52,Fiji,2,Artistic gymnastics,915303
+53,France,3,Artistic gymnastics,66836154
+54,Faroe Islands,4,Artistic gymnastics,50456
+55,Gabon,2,Artistic gymnastics,1738541
+56,Great Britain,6,Artistic gymnastics,64430428
+57,Guernsey,7,Artistic gymnastics,66297
+58,Ghana,2,Artistic gymnastics,26908262
+59,Gibraltar,5,Artistic gymnastics,29328
+60,Guadeloupe,4,Artistic gymnastics,402119
+61,Greece,4,Artistic gymnastics,10773253
+62,Grenada,12,Artistic gymnastics,111219
+63,Guatemala,6,Artistic gymnastics,15189958
+64,French Guiana,3,Artistic gymnastics,250109
+65,Guam,8,Artistic gymnastics,166898
+66,Guyana,11,Artistic gymnastics,735909
+67,Hong Kong,3,Artistic gymnastics,7167403
+68,Honduras,3,Artistic gymnastics,8893259
+69,Croatia,4,Artistic gymnastics,4313707
+70,Haiti,4,Artistic gymnastics,10485800
+71,Hungary,2,Artistic gymnastics,9874784
+72,Isle of Man,5,Artistic gymnastics,88195
+73,India,4,Artistic gymnastics,1266883598
+74,Ireland,7,Artistic gymnastics,4952473
+75,Iceland,7,Artistic gymnastics,335878
+76,Israel,4,Artistic gymnastics,8174527
+77,Italy,7,Artistic gymnastics,62007540
+78,Jamaica,10,Artistic gymnastics,2970340
+79,Jersey,6,Artistic gymnastics,98069
+80,Japan,6,Artistic gymnastics,126702133
+81,Kazakhstan,1,Artistic gymnastics,18360353
+82,Kenya,1,Artistic gymnastics,46790758
+83,Kyrgyzstan,1,Artistic gymnastics,5727553
+84,Saint Kitts and Nevis,9,Artistic gymnastics,52329
+85,Kuwait,2,Artistic gymnastics,2832776
+86,Lebanon,1,Artistic gymnastics,6237738
+87,Liberia,2,Artistic gymnastics,4575528
+88,Saint Lucia,8,Artistic gymnastics,164464
+89,Liechtenstein,6,Artistic gymnastics,37937
+90,Sri Lanka,1,Artistic gymnastics,22235000
+91,Lithuania,1,Artistic gymnastics,2854235
+92,Luxembourg,4,Artistic gymnastics,582291
+93,Latvia,2,Artistic gymnastics,1965686
+94,Macau,1,Artistic gymnastics,597425
+95,Morocco,1,Artistic gymnastics,33655786
+96,Moldova,1,Artistic gymnastics,3510485
+97,Madagascar,1,Artistic gymnastics,24430325
+98,Maldives,1,Artistic gymnastics,392960
+99,Mexico,4,Artistic gymnastics,123166749
+100,Macedonia,1,Artistic gymnastics,2100025
+101,Mali,1,Artistic gymnastics,17352160
+102,Malta,3,Artistic gymnastics,415196
+103,Montenegro,1,Artistic gymnastics,644578
+104,Mongolia,1,Artistic gymnastics,3031330
+105,Mozambique,1,Artistic gymnastics,25930150
+106,Martinique,5,Artistic gymnastics,385551
+107,Mauritius,2,Artistic gymnastics,1348242
+108,Malawi,2,Artistic gymnastics,18570321
+109,Malaysia,1,Artistic gymnastics,30949962
+110,Namibia,2,Artistic gymnastics,2436469
+111,New Caledonia,1,Artistic gymnastics,275355
+112,Nigeria,1,Artistic gymnastics,186053386
+113,Nicaragua,3,Artistic gymnastics,5966798
+114,Netherlands,12,Artistic gymnastics,17016967
+115,Norway,3,Artistic gymnastics,5265158
+116,Nepal,1,Artistic gymnastics,29033914
+117,New Zealand,4,Artistic gymnastics,4474549
+118,Oman,2,Artistic gymnastics,3355262
+119,Panama,5,Artistic gymnastics,3705246
+120,Peru,3,Artistic gymnastics,30741062
+121,Philippines,1,Artistic gymnastics,102624209
+122,Poland,1,Artistic gymnastics,38523261
+123,Puerto Rico,7,Artistic gymnastics,3411489
+124,Portugal,4,Artistic gymnastics,10833816
+125,Paraguay,3,Artistic gymnastics,6862812
+126,French Polynesia,2,Artistic gymnastics,285321
+127,Qatar,3,Artistic gymnastics,2258283
+128,Reunion,2,Artistic gymnastics,850996
+129,Romania,6,Artistic gymnastics,21599736
+130,Russia,2,Artistic gymnastics,142355415
+131,Rwanda,2,Artistic gymnastics,11604797
+132,Senegal,3,Artistic gymnastics,14320055
+133,Singapore,3,Artistic gymnastics,5781728
+134,Sierra Leone,2,Artistic gymnastics,6018888
+135,El Salvador,3,Artistic gymnastics,6156670
+136,Somalia,1,Artistic gymnastics,10817354
+137,Serbia,2,Artistic gymnastics,7143921
+138,Suriname,2,Artistic gymnastics,585824
+139,Slovakia,1,Artistic gymnastics,5445802
+140,Slovenia,4,Artistic gymnastics,1978029
+141,Sweden,3,Artistic gymnastics,9880604
+142,Sint Maarten,9,Artistic gymnastics,41486
+143,Turks and Caicos Islands,16,Artistic gymnastics,51430
+144,Togo,2,Artistic gymnastics,7756937
+145,Tajikistan,1,Artistic gymnastics,8330946
+146,Turkmenistan,1,Artistic gymnastics,5291317
+147,Trinidad and Tobago,12,Artistic gymnastics,1220479
+148,Tunisia,1,Artistic gymnastics,11285452
+149,Turkey,1,Artistic gymnastics,80274604
+150,Taiwan,1,Artistic gymnastics,23464787
+151,Tanzania,1,Artistic gymnastics,52482726
+152,Uganda,2,Artistic gymnastics,38319241
+153,Ukraine,1,Artistic gymnastics,44209733
+154,Uruguay,5,Artistic gymnastics,3351016
+155,United States,12,Artistic gymnastics,323127513
+156,Uzbekistan,3,Artistic gymnastics,29473614
+157,Saint Vincent and the Grenadines,8,Artistic gymnastics,102350
+158,Venezuela,3,Artistic gymnastics,30912302
+159,British Virgin Islands,8,Artistic gymnastics,34232
+160,U.S. Virgin Islands,7,Artistic gymnastics,107510
+161,South Africa,2,Artistic gymnastics,54300704
+162,Zambia,2,Artistic gymnastics,15510711
+163,Zimbabwe,2,Artistic gymnastics,13600580
+164,Aruba,17,Athletics (Track & Field),113648
+165,Afghanistan,1,Athletics (Track & Field),33332025
+166,Angola,5,Athletics (Track & Field),28289713
+167,Albania,4,Athletics (Track & Field),3038594
+168,Andorra,6,Athletics (Track & Field),85660
+169,United Arab Emirates,5,Athletics (Track & Field),5927482
+170,Argentina,6,Athletics (Track & Field),43886748
+171,Armenia,1,Athletics (Track & Field),3051250
+172,Antigua and Barbuda,49,Athletics (Track & Field),93581
+173,Australia,13,Athletics (Track & Field),22992654
+174,Austria,4,Athletics (Track & Field),8711770
+175,Azerbaijan,1,Athletics (Track & Field),9872765
+176,Burundi,21,Athletics (Track & Field),11099298
+177,Belgium,9,Athletics (Track & Field),11409077
+178,Benin,6,Athletics (Track & Field),10741458
+179,Burkina Faso,8,Athletics (Track & Field),19512533
+180,Bangladesh,2,Athletics (Track & Field),156186882
+181,Bulgaria,9,Athletics (Track & Field),7144653
+182,Bahrain,4,Athletics (Track & Field),1378904
+183,Bahamas,62,Athletics (Track & Field),327316
+184,Bosnia and Herzegovina,11,Athletics (Track & Field),3861912
+185,Belarus,2,Athletics (Track & Field),9570376
+186,Belize,8,Athletics (Track & Field),353858
+187,Bermuda,30,Athletics (Track & Field),70537
+188,Bolivia,6,Athletics (Track & Field),10969649
+189,Brazil,4,Athletics (Track & Field),205823665
+190,Barbados,89,Athletics (Track & Field),291495
+191,Brunei,6,Athletics (Track & Field),436620
+192,Bhutan,4,Athletics (Track & Field),750125
+193,Botswana,34,Athletics (Track & Field),2180597
+194,Canada,16,Athletics (Track & Field),35362905
+195,Switzerland,5,Athletics (Track & Field),8179294
+196,Chile,11,Athletics (Track & Field),17650114
+197,China,1,Athletics (Track & Field),1373541278
+198,Ivory Coast,19,Athletics (Track & Field),23740424
+199,Cameroon,10,Athletics (Track & Field),24360803
+200,Democratic Republic of the Congo,3,Athletics (Track & Field),81331050
+201,Republic of the Congo,5,Athletics (Track & Field),4852412
+202,Colombia,12,Athletics (Track & Field),47220856
+203,Cape Verde,6,Athletics (Track & Field),553432
+204,Costa Rica,15,Athletics (Track & Field),4872543
+205,Cuba,24,Athletics (Track & Field),11179995
+206,Cayman Islands,50,Athletics (Track & Field),57268
+207,Cyprus,14,Athletics (Track & Field),1205575
+208,Czech Republic,7,Athletics (Track & Field),10660932
+209,Germany,4,Athletics (Track & Field),80722792
+210,Djibouti,19,Athletics (Track & Field),846687
+211,Dominica,17,Athletics (Track & Field),73757
+212,Denmark,6,Athletics (Track & Field),5593785
+213,Dominican Republic,10,Athletics (Track & Field),10606865
+214,Algeria,10,Athletics (Track & Field),40263711
+215,Ecuador,5,Athletics (Track & Field),16080778
+216,Egypt,1,Athletics (Track & Field),94666993
+217,Spain,7,Athletics (Track & Field),48563476
+218,Estonia,14,Athletics (Track & Field),1258545
+219,Ethiopia,14,Athletics (Track & Field),102374044
+220,Finland,11,Athletics (Track & Field),5498211
+221,Fiji,11,Athletics (Track & Field),915303
+222,France,8,Athletics (Track & Field),66836154
+223,Faroe Islands,7,Athletics (Track & Field),50456
+224,Federated States of Micronesia,25,Athletics (Track & Field),104719
+225,Gabon,4,Athletics (Track & Field),1738541
+226,Great Britain,14,Athletics (Track & Field),64430428
+227,Georgia,2,Athletics (Track & Field),4928052
+228,Guernsey,15,Athletics (Track & Field),66297
+229,Ghana,10,Athletics (Track & Field),26908262
+230,Gibraltar,12,Athletics (Track & Field),29328
+231,Guinea,6,Athletics (Track & Field),12093349
+232,Guadeloupe,24,Athletics (Track & Field),402119
+233,Gambia,15,Athletics (Track & Field),2009648
+234,Greece,8,Athletics (Track & Field),10773253
+235,Grenada,70,Athletics (Track & Field),111219
+236,Greenland,9,Athletics (Track & Field),57728
+237,Guatemala,12,Athletics (Track & Field),15189958
+238,French Guiana,10,Athletics (Track & Field),250109
+239,Guam,4,Athletics (Track & Field),166898
+240,Guyana,41,Athletics (Track & Field),735909
+241,Hong Kong,3,Athletics (Track & Field),7167403
+242,Honduras,5,Athletics (Track & Field),8893259
+243,Croatia,9,Athletics (Track & Field),4313707
+244,Haiti,5,Athletics (Track & Field),10485800
+245,Hungary,5,Athletics (Track & Field),9874784
+246,Indonesia,1,Athletics (Track & Field),258316051
+247,Isle of Man,12,Athletics (Track & Field),88195
+248,India,4,Athletics (Track & Field),1266883598
+249,Ireland,17,Athletics (Track & Field),4952473
+250,Iran,4,Athletics (Track & Field),80987449
+251,Iceland,10,Athletics (Track & Field),335878
+252,Israel,3,Athletics (Track & Field),8174527
+253,Italy,5,Athletics (Track & Field),62007540
+254,Jamaica,100,Athletics (Track & Field),2970340
+255,Jersey,15,Athletics (Track & Field),98069
+256,Jordan,1,Athletics (Track & Field),10041098
+257,Japan,3,Athletics (Track & Field),126702133
+258,Kazakhstan,3,Athletics (Track & Field),18360353
+259,Kenya,15,Athletics (Track & Field),46790758
+260,Kyrgyzstan,2,Athletics (Track & Field),5727553
+261,Cambodia,1,Athletics (Track & Field),15957223
+262,Saint Kitts and Nevis,53,Athletics (Track & Field),52329
+263,South Korea,2,Athletics (Track & Field),50924172
+264,Kuwait,2,Athletics (Track & Field),2832776
+265,Lebanon,1,Athletics (Track & Field),6237738
+266,Liberia,3,Athletics (Track & Field),4575528
+267,Libya,1,Athletics (Track & Field),6541948
+268,Saint Lucia,40,Athletics (Track & Field),164464
+269,Sri Lanka,8,Athletics (Track & Field),22235000
+270,Lesotho,13,Athletics (Track & Field),1953070
+271,Lithuania,3,Athletics (Track & Field),2854235
+272,Luxembourg,7,Athletics (Track & Field),582291
+273,Latvia,7,Athletics (Track & Field),1965686
+274,Macau,1,Athletics (Track & Field),597425
+275,Morocco,3,Athletics (Track & Field),33655786
+276,Moldova,1,Athletics (Track & Field),3510485
+277,Madagascar,4,Athletics (Track & Field),24430325
+278,Maldives,7,Athletics (Track & Field),392960
+279,Mexico,5,Athletics (Track & Field),123166749
+280,Macedonia,6,Athletics (Track & Field),2100025
+281,Mali,8,Athletics (Track & Field),17352160
+282,Malta,6,Athletics (Track & Field),415196
+283,Myanmar,1,Athletics (Track & Field),54616716
+284,Montenegro,9,Athletics (Track & Field),644578
+285,Mongolia,3,Athletics (Track & Field),3031330
+286,Mozambique,5,Athletics (Track & Field),25930150
+287,Mauritania,2,Athletics (Track & Field),3677293
+288,Martinique,19,Athletics (Track & Field),385551
+289,Mauritius,13,Athletics (Track & Field),1348242
+290,Malawi,4,Athletics (Track & Field),18570321
+291,Malaysia,4,Athletics (Track & Field),30949962
+292,Namibia,21,Athletics (Track & Field),2436469
+293,New Caledonia,8,Athletics (Track & Field),275355
+294,Niger,4,Athletics (Track & Field),18638600
+295,Nigeria,6,Athletics (Track & Field),186053386
+296,Nicaragua,6,Athletics (Track & Field),5966798
+297,Netherlands,11,Athletics (Track & Field),17016967
+298,Norway,6,Athletics (Track & Field),5265158
+299,Nepal,3,Athletics (Track & Field),29033914
+300,New Zealand,15,Athletics (Track & Field),4474549
+301,Oman,3,Athletics (Track & Field),3355262
+302,Pakistan,1,Athletics (Track & Field),201995540
+303,Panama,30,Athletics (Track & Field),3705246
+304,Peru,8,Athletics (Track & Field),30741062
+305,Philippines,3,Athletics (Track & Field),102624209
+306,Papua New Guinea,13,Athletics (Track & Field),6791317
+307,Poland,8,Athletics (Track & Field),38523261
+308,Puerto Rico,24,Athletics (Track & Field),3411489
+309,Portugal,12,Athletics (Track & Field),10833816
+310,Paraguay,9,Athletics (Track & Field),6862812
+311,French Polynesia,7,Athletics (Track & Field),285321
+312,Qatar,6,Athletics (Track & Field),2258283
+313,Reunion,5,Athletics (Track & Field),850996
+314,Romania,2,Athletics (Track & Field),21599736
+315,Russia,2,Athletics (Track & Field),142355415
+316,Rwanda,4,Athletics (Track & Field),11604797
+317,Saudi Arabia,1,Athletics (Track & Field),28160273
+318,Sudan,1,Athletics (Track & Field),36729501
+319,Senegal,18,Athletics (Track & Field),14320055
+320,Singapore,7,Athletics (Track & Field),5781728
+321,Solomon Islands,16,Athletics (Track & Field),635027
+322,Sierra Leone,8,Athletics (Track & Field),6018888
+323,El Salvador,5,Athletics (Track & Field),6156670
+324,San Marino,7,Athletics (Track & Field),33285
+325,Somalia,11,Athletics (Track & Field),10817354
+326,Serbia,12,Athletics (Track & Field),7143921
+327,South Sudan,5,Athletics (Track & Field),12530717
+328,Suriname,15,Athletics (Track & Field),585824
+329,Slovakia,3,Athletics (Track & Field),5445802
+330,Slovenia,6,Athletics (Track & Field),1978029
+331,Sweden,6,Athletics (Track & Field),9880604
+332,Swaziland,11,Athletics (Track & Field),1451428
+333,Sint Maarten,11,Athletics (Track & Field),41486
+334,Seychelles,7,Athletics (Track & Field),93186
+335,Turks and Caicos Islands,19,Athletics (Track & Field),51430
+336,Chad,5,Athletics (Track & Field),11852462
+337,Togo,6,Athletics (Track & Field),7756937
+338,Tajikistan,9,Athletics (Track & Field),8330946
+339,Turkmenistan,2,Athletics (Track & Field),5291317
+340,Trinidad and Tobago,53,Athletics (Track & Field),1220479
+341,Tunisia,7,Athletics (Track & Field),11285452
+342,Turkey,1,Athletics (Track & Field),80274604
+343,Taiwan,1,Athletics (Track & Field),23464787
+344,Tanzania,4,Athletics (Track & Field),52482726
+345,Uganda,15,Athletics (Track & Field),38319241
+346,Ukraine,1,Athletics (Track & Field),44209733
+347,Uruguay,18,Athletics (Track & Field),3351016
+348,United States,9,Athletics (Track & Field),323127513
+349,Uzbekistan,2,Athletics (Track & Field),29473614
+350,Saint Vincent and the Grenadines,38,Athletics (Track & Field),102350
+351,Venezuela,8,Athletics (Track & Field),30912302
+352,British Virgin Islands,20,Athletics (Track & Field),34232
+353,U.S. Virgin Islands,9,Athletics (Track & Field),107510
+354,Vanuatu,14,Athletics (Track & Field),277554
+355,Samoa,14,Athletics (Track & Field),198926
+356,Kosovo,4,Athletics (Track & Field),1883018
+357,South Africa,23,Athletics (Track & Field),54300704
+358,Zambia,7,Athletics (Track & Field),15510711
+359,Zimbabwe,22,Athletics (Track & Field),13600580
+360,Andorra,2,Badminton,85660
+361,United Arab Emirates,5,Badminton,5927482
+362,Australia,1,Badminton,22992654
+363,Bulgaria,1,Badminton,7144653
+364,Bahrain,4,Badminton,1378904
+365,Brunei,13,Badminton,436620
+366,Bhutan,2,Badminton,750125
+367,Canada,1,Badminton,35362905
+368,China,2,Badminton,1373541278
+369,Denmark,4,Badminton,5593785
+370,Spain,3,Badminton,48563476
+371,Estonia,1,Badminton,1258545
+372,Great Britain,1,Badminton,64430428
+373,Guatemala,1,Badminton,15189958
+374,Hong Kong,6,Badminton,7167403
+375,Indonesia,6,Badminton,258316051
+376,India,13,Badminton,1266883598
+377,Ireland,1,Badminton,4952473
+378,Japan,2,Badminton,126702133
+379,Cambodia,1,Badminton,15957223
+380,South Korea,1,Badminton,50924172
+381,Kuwait,3,Badminton,2832776
+382,Sri Lanka,1,Badminton,22235000
+383,Macau,1,Badminton,597425
+384,Maldives,3,Badminton,392960
+385,Mauritius,3,Badminton,1348242
+386,Malaysia,21,Badminton,30949962
+387,Nepal,2,Badminton,29033914
+388,New Zealand,1,Badminton,4474549
+389,Oman,5,Badminton,3355262
+390,Qatar,5,Badminton,2258283
+391,Saudi Arabia,1,Badminton,28160273
+392,Singapore,12,Badminton,5781728
+393,Thailand,1,Badminton,68200824
+394,Taiwan,3,Badminton,23464787
+395,United States,1,Badminton,323127513
+396,Vietnam,2,Badminton,95261021
+397,Angola,1,Basketball,28289713
+398,Argentina,5,Basketball,43886748
+399,Australia,4,Basketball,22992654
+400,Belgium,1,Basketball,11409077
+401,Bulgaria,1,Basketball,7144653
+402,Bahamas,4,Basketball,327316
+403,Bosnia and Herzegovina,11,Basketball,3861912
+404,Belize,2,Basketball,353858
+405,Bolivia,1,Basketball,10969649
+406,Brazil,1,Basketball,205823665
+407,Barbados,1,Basketball,291495
+408,Canada,1,Basketball,35362905
+409,Switzerland,1,Basketball,8179294
+410,Chile,1,Basketball,17650114
+411,Ivory Coast,1,Basketball,23740424
+412,Cameroon,2,Basketball,24360803
+413,Republic of the Congo,2,Basketball,4852412
+414,Costa Rica,1,Basketball,4872543
+415,Cyprus,1,Basketball,1205575
+416,Czech Republic,1,Basketball,10660932
+417,Denmark,1,Basketball,5593785
+418,Dominican Republic,2,Basketball,10606865
+419,Spain,6,Basketball,48563476
+420,Estonia,2,Basketball,1258545
+421,Finland,1,Basketball,5498211
+422,France,3,Basketball,66836154
+423,Gabon,1,Basketball,1738541
+424,Georgia,1,Basketball,4928052
+425,Guadeloupe,2,Basketball,402119
+426,Greece,2,Basketball,10773253
+427,Hong Kong,1,Basketball,7167403
+428,Croatia,6,Basketball,4313707
+429,Haiti,1,Basketball,10485800
+430,Ireland,1,Basketball,4952473
+431,Israel,1,Basketball,8174527
+432,Italy,2,Basketball,62007540
+433,Jamaica,1,Basketball,2970340
+434,Kuwait,1,Basketball,2832776
+435,Lebanon,1,Basketball,6237738
+436,Lithuania,8,Basketball,2854235
+437,Latvia,2,Basketball,1965686
+438,Macau,1,Basketball,597425
+439,Madagascar,1,Basketball,24430325
+440,Macedonia,5,Basketball,2100025
+441,Montenegro,9,Basketball,644578
+442,Mongolia,2,Basketball,3031330
+443,Martinique,1,Basketball,385551
+444,Nigeria,1,Basketball,186053386
+445,Norway,1,Basketball,5265158
+446,New Zealand,1,Basketball,4474549
+447,Panama,1,Basketball,3705246
+448,Peru,1,Basketball,30741062
+449,Philippines,3,Basketball,102624209
+450,Puerto Rico,4,Basketball,3411489
+451,Portugal,1,Basketball,10833816
+452,Paraguay,1,Basketball,6862812
+453,Reunion,1,Basketball,850996
+454,Senegal,4,Basketball,14320055
+455,Singapore,1,Basketball,5781728
+456,Serbia,17,Basketball,7143921
+457,Suriname,1,Basketball,585824
+458,Slovenia,2,Basketball,1978029
+459,Sweden,1,Basketball,9880604
+460,Turkey,1,Basketball,80274604
+461,Taiwan,1,Basketball,23464787
+462,Uruguay,4,Basketball,3351016
+463,United States,3,Basketball,323127513
+464,Venezuela,1,Basketball,30912302
+465,Kosovo,1,Basketball,1883018
+466,Australia,1,Beach volleyball,22992654
+467,Austria,1,Beach volleyball,8711770
+468,Bahamas,1,Beach volleyball,327316
+469,Brazil,1,Beach volleyball,205823665
+470,Canada,2,Beach volleyball,35362905
+471,Switzerland,3,Beach volleyball,8179294
+472,Chile,1,Beach volleyball,17650114
+473,Costa Rica,1,Beach volleyball,4872543
+474,Cayman Islands,2,Beach volleyball,57268
+475,Czech Republic,1,Beach volleyball,10660932
+476,Germany,2,Beach volleyball,80722792
+477,Spain,1,Beach volleyball,48563476
+478,Finland,1,Beach volleyball,5498211
+479,Guatemala,1,Beach volleyball,15189958
+480,Italy,1,Beach volleyball,62007540
+481,Latvia,2,Beach volleyball,1965686
+482,Mexico,1,Beach volleyball,123166749
+483,Netherlands,1,Beach volleyball,17016967
+484,Panama,1,Beach volleyball,3705246
+485,Poland,1,Beach volleyball,38523261
+486,Puerto Rico,1,Beach volleyball,3411489
+487,El Salvador,1,Beach volleyball,6156670
+488,United States,3,Beach volleyball,323127513
+489,Azerbaijan,1,Boxing,9872765
+490,Cameroon,1,Boxing,24360803
+491,Cuba,2,Boxing,11179995
+492,Algeria,1,Boxing,40263711
+493,France,1,Boxing,66836154
+494,Great Britain,1,Boxing,64430428
+495,Guadeloupe,1,Boxing,402119
+496,French Guiana,2,Boxing,250109
+497,Croatia,1,Boxing,4313707
+498,Ireland,13,Boxing,4952473
+499,Iran,2,Boxing,80987449
+500,Italy,1,Boxing,62007540
+501,Kazakhstan,14,Boxing,18360353
+502,Lithuania,1,Boxing,2854235
+503,Martinique,2,Boxing,385551
+504,Panama,1,Boxing,3705246
+505,Puerto Rico,1,Boxing,3411489
+506,Uzbekistan,1,Boxing,29473614
+507,Czech Republic,1,Canoeing,10660932
+508,Denmark,2,Canoeing,5593785
+509,Spain,1,Canoeing,48563476
+510,Hungary,3,Canoeing,9874784
+511,New Zealand,3,Canoeing,4474549
+512,Portugal,1,Canoeing,10833816
+513,Serbia,1,Canoeing,7143921
+514,Slovakia,1,Canoeing,5445802
+515,Slovenia,2,Canoeing,1978029
+516,Australia,2,Cycling,22992654
+517,Austria,1,Cycling,8711770
+518,Belgium,4,Cycling,11409077
+519,Canada,1,Cycling,35362905
+520,Switzerland,3,Cycling,8179294
+521,Colombia,11,Cycling,47220856
+522,Costa Rica,2,Cycling,4872543
+523,Cyprus,1,Cycling,1205575
+524,Czech Republic,2,Cycling,10660932
+525,Germany,1,Cycling,80722792
+526,Denmark,4,Cycling,5593785
+527,Ecuador,1,Cycling,16080778
+528,Spain,1,Cycling,48563476
+529,Estonia,1,Cycling,1258545
+530,Finland,2,Cycling,5498211
+531,France,2,Cycling,66836154
+532,Great Britain,9,Cycling,64430428
+533,Guernsey,13,Cycling,66297
+534,Guadeloupe,1,Cycling,402119
+535,Hong Kong,1,Cycling,7167403
+536,Croatia,1,Cycling,4313707
+537,Hungary,1,Cycling,9874784
+538,Isle of Man,26,Cycling,88195
+539,Ireland,3,Cycling,4952473
+540,Italy,2,Cycling,62007540
+541,Jersey,10,Cycling,98069
+542,Lithuania,1,Cycling,2854235
+543,Luxembourg,2,Cycling,582291
+544,Latvia,2,Cycling,1965686
+545,Martinique,1,Cycling,385551
+546,Malaysia,1,Cycling,30949962
+547,Namibia,1,Cycling,2436469
+548,Netherlands,6,Cycling,17016967
+549,Norway,1,Cycling,5265158
+550,New Zealand,1,Cycling,4474549
+551,Panama,1,Cycling,3705246
+552,Poland,2,Cycling,38523261
+553,Portugal,1,Cycling,10833816
+554,Slovakia,3,Cycling,5445802
+555,Slovenia,2,Cycling,1978029
+556,Sweden,1,Cycling,9880604
+557,Trinidad and Tobago,2,Cycling,1220479
+558,United States,1,Cycling,323127513
+559,Venezuela,1,Cycling,30912302
+560,South Africa,1,Cycling,54300704
+561,Argentina,1,Diving,43886748
+562,Australia,1,Diving,22992654
+563,Austria,1,Diving,8711770
+564,Belgium,1,Diving,11409077
+565,Brazil,2,Diving,205823665
+566,Barbados,1,Diving,291495
+567,Brunei,2,Diving,436620
+568,Canada,2,Diving,35362905
+569,Switzerland,1,Diving,8179294
+570,Chile,1,Diving,17650114
+571,China,2,Diving,1373541278
+572,Colombia,1,Diving,47220856
+573,Costa Rica,2,Diving,4872543
+574,Cuba,2,Diving,11179995
+575,Cyprus,1,Diving,1205575
+576,Germany,1,Diving,80722792
+577,Denmark,1,Diving,5593785
+578,Dominican Republic,1,Diving,10606865
+579,Ecuador,1,Diving,16080778
+580,Spain,1,Diving,48563476
+581,Estonia,1,Diving,1258545
+582,Finland,1,Diving,5498211
+583,Great Britain,4,Diving,64430428
+584,Guernsey,5,Diving,66297
+585,Greece,1,Diving,10773253
+586,Guatemala,1,Diving,15189958
+587,Hong Kong,3,Diving,7167403
+588,Honduras,1,Diving,8893259
+589,Croatia,1,Diving,4313707
+590,Hungary,1,Diving,9874784
+591,Isle of Man,4,Diving,88195
+592,Ireland,3,Diving,4952473
+593,Iceland,2,Diving,335878
+594,Italy,6,Diving,62007540
+595,Jersey,2,Diving,98069
+596,Luxembourg,1,Diving,582291
+597,Macau,3,Diving,597425
+598,Maldives,1,Diving,392960
+599,Mexico,4,Diving,123166749
+600,Macedonia,1,Diving,2100025
+601,Malta,2,Diving,415196
+602,Montenegro,1,Diving,644578
+603,Malaysia,4,Diving,30949962
+604,Nicaragua,1,Diving,5966798
+605,Netherlands,1,Diving,17016967
+606,Norway,1,Diving,5265158
+607,New Zealand,1,Diving,4474549
+608,Panama,2,Diving,3705246
+609,Peru,1,Diving,30741062
+610,Puerto Rico,1,Diving,3411489
+611,Portugal,1,Diving,10833816
+612,Paraguay,1,Diving,6862812
+613,Singapore,1,Diving,5781728
+614,El Salvador,1,Diving,6156670
+615,Serbia,1,Diving,7143921
+616,Slovenia,1,Diving,1978029
+617,Sweden,1,Diving,9880604
+618,Trinidad and Tobago,1,Diving,1220479
+619,Taiwan,1,Diving,23464787
+620,Uruguay,1,Diving,3351016
+621,United States,1,Diving,323127513
+622,Venezuela,1,Diving,30912302
+623,South Africa,1,Diving,54300704
+624,Belgium,1,Equestrian,11409077
+625,Switzerland,1,Equestrian,8179294
+626,China,1,Equestrian,1373541278
+627,Germany,2,Equestrian,80722792
+628,France,1,Equestrian,66836154
+629,Great Britain,1,Equestrian,64430428
+630,Guernsey,6,Equestrian,66297
+631,Isle of Man,2,Equestrian,88195
+632,Ireland,1,Equestrian,4952473
+633,Jersey,3,Equestrian,98069
+634,Netherlands,1,Equestrian,17016967
+635,New Zealand,1,Equestrian,4474549
+636,Sweden,1,Equestrian,9880604
+637,Armenia,1,Fencing,3051250
+638,Estonia,2,Fencing,1258545
+639,France,1,Fencing,66836154
+640,Guadeloupe,3,Fencing,402119
+641,Hungary,8,Fencing,9874784
+642,Iran,1,Fencing,80987449
+643,Italy,3,Fencing,62007540
+644,Kyrgyzstan,1,Fencing,5727553
+645,South Korea,1,Fencing,50924172
+646,Martinique,1,Fencing,385551
+647,Panama,1,Fencing,3705246
+648,Reunion,1,Fencing,850996
+649,Romania,1,Fencing,21599736
+650,Russia,1,Fencing,142355415
+651,Somalia,1,Fencing,10817354
+652,Tunisia,3,Fencing,11285452
+653,Venezuela,2,Fencing,30912302
+654,Argentina,2,Field hockey,43886748
+655,Belgium,1,Field hockey,11409077
+656,Great Britain,1,Field hockey,64430428
+657,Netherlands,3,Field hockey,17016967
+658,New Zealand,1,Field hockey,4474549
+659,Uruguay,1,Field hockey,3351016
+660,Aruba,2,Football (Soccer),113648
+661,Afghanistan,1,Football (Soccer),33332025
+662,Angola,4,Football (Soccer),28289713
+663,Albania,2,Football (Soccer),3038594
+664,United Arab Emirates,1,Football (Soccer),5927482
+665,Argentina,2,Football (Soccer),43886748
+666,Armenia,1,Football (Soccer),3051250
+667,Australia,1,Football (Soccer),22992654
+668,Austria,1,Football (Soccer),8711770
+669,Azerbaijan,1,Football (Soccer),9872765
+670,Burundi,17,Football (Soccer),11099298
+671,Belgium,1,Football (Soccer),11409077
+672,Benin,5,Football (Soccer),10741458
+673,Burkina Faso,8,Football (Soccer),19512533
+674,Bangladesh,1,Football (Soccer),156186882
+675,Bulgaria,1,Football (Soccer),7144653
+676,Bahrain,1,Football (Soccer),1378904
+677,Bahamas,1,Football (Soccer),327316
+678,Bosnia and Herzegovina,1,Football (Soccer),3861912
+679,Belize,2,Football (Soccer),353858
+680,Bolivia,2,Football (Soccer),10969649
+681,Brazil,5,Football (Soccer),205823665
+682,Barbados,2,Football (Soccer),291495
+683,Brunei,1,Football (Soccer),436620
+684,Bhutan,4,Football (Soccer),750125
+685,Botswana,3,Football (Soccer),2180597
+686,Canada,3,Football (Soccer),35362905
+687,Switzerland,1,Football (Soccer),8179294
+688,Chile,1,Football (Soccer),17650114
+689,Ivory Coast,4,Football (Soccer),23740424
+690,Cameroon,4,Football (Soccer),24360803
+691,Democratic Republic of the Congo,18,Football (Soccer),81331050
+692,Republic of the Congo,7,Football (Soccer),4852412
+693,Colombia,3,Football (Soccer),47220856
+694,Cape Verde,3,Football (Soccer),553432
+695,Costa Rica,2,Football (Soccer),4872543
+696,Cuba,4,Football (Soccer),11179995
+697,Cayman Islands,2,Football (Soccer),57268
+698,Cyprus,1,Football (Soccer),1205575
+699,Germany,2,Football (Soccer),80722792
+700,Djibouti,5,Football (Soccer),846687
+701,Denmark,1,Football (Soccer),5593785
+702,Dominican Republic,1,Football (Soccer),10606865
+703,Algeria,1,Football (Soccer),40263711
+704,Ecuador,2,Football (Soccer),16080778
+705,Egypt,1,Football (Soccer),94666993
+706,Spain,1,Football (Soccer),48563476
+707,Estonia,1,Football (Soccer),1258545
+708,Ethiopia,1,Football (Soccer),102374044
+709,Finland,1,Football (Soccer),5498211
+710,Fiji,3,Football (Soccer),915303
+711,France,2,Football (Soccer),66836154
+712,Gabon,5,Football (Soccer),1738541
+713,Great Britain,1,Football (Soccer),64430428
+714,Georgia,1,Football (Soccer),4928052
+715,Ghana,3,Football (Soccer),26908262
+716,Guinea,17,Football (Soccer),12093349
+717,Guadeloupe,2,Football (Soccer),402119
+718,Gambia,6,Football (Soccer),2009648
+719,Guinea-Bissau,17,Football (Soccer),1759159
+720,Greece,1,Football (Soccer),10773253
+721,Guatemala,2,Football (Soccer),15189958
+722,French Guiana,2,Football (Soccer),250109
+723,Guyana,2,Football (Soccer),735909
+724,Hong Kong,1,Football (Soccer),7167403
+725,Honduras,5,Football (Soccer),8893259
+726,Croatia,1,Football (Soccer),4313707
+727,Haiti,15,Football (Soccer),10485800
+728,Hungary,1,Football (Soccer),9874784
+729,Indonesia,1,Football (Soccer),258316051
+730,Ireland,1,Football (Soccer),4952473
+731,Iran,1,Football (Soccer),80987449
+732,Iraq,5,Football (Soccer),38146025
+733,Iceland,3,Football (Soccer),335878
+734,Israel,1,Football (Soccer),8174527
+735,Italy,2,Football (Soccer),62007540
+736,Jamaica,3,Football (Soccer),2970340
+737,Jordan,1,Football (Soccer),10041098
+738,Japan,1,Football (Soccer),126702133
+739,Kazakhstan,1,Football (Soccer),18360353
+740,Kenya,2,Football (Soccer),46790758
+741,Kyrgyzstan,2,Football (Soccer),5727553
+742,Cambodia,1,Football (Soccer),15957223
+743,South Korea,1,Football (Soccer),50924172
+744,Kuwait,1,Football (Soccer),2832776
+745,Laos,1,Football (Soccer),7019073
+746,Lebanon,2,Football (Soccer),6237738
+747,Liberia,7,Football (Soccer),4575528
+748,Libya,1,Football (Soccer),6541948
+749,Lesotho,2,Football (Soccer),1953070
+750,Luxembourg,1,Football (Soccer),582291
+751,Latvia,1,Football (Soccer),1965686
+752,Morocco,1,Football (Soccer),33655786
+753,Moldova,1,Football (Soccer),3510485
+754,Madagascar,5,Football (Soccer),24430325
+755,Maldives,2,Football (Soccer),392960
+756,Mexico,2,Football (Soccer),123166749
+757,Macedonia,2,Football (Soccer),2100025
+758,Mali,10,Football (Soccer),17352160
+759,Malta,2,Football (Soccer),415196
+760,Myanmar,2,Football (Soccer),54616716
+761,Montenegro,1,Football (Soccer),644578
+762,Mongolia,1,Football (Soccer),3031330
+763,Mozambique,8,Football (Soccer),25930150
+764,Mauritania,5,Football (Soccer),3677293
+765,Martinique,2,Football (Soccer),385551
+766,Mauritius,2,Football (Soccer),1348242
+767,Malawi,2,Football (Soccer),18570321
+768,Malaysia,1,Football (Soccer),30949962
+769,Namibia,2,Football (Soccer),2436469
+770,New Caledonia,1,Football (Soccer),275355
+771,Niger,4,Football (Soccer),18638600
+772,Nigeria,4,Football (Soccer),186053386
+773,Nicaragua,2,Football (Soccer),5966798
+774,Netherlands,1,Football (Soccer),17016967
+775,Norway,2,Football (Soccer),5265158
+776,Nepal,2,Football (Soccer),29033914
+777,New Zealand,1,Football (Soccer),4474549
+778,Oman,1,Football (Soccer),3355262
+779,Panama,2,Football (Soccer),3705246
+780,Peru,1,Football (Soccer),30741062
+781,Papua New Guinea,3,Football (Soccer),6791317
+782,Puerto Rico,1,Football (Soccer),3411489
+783,Portugal,2,Football (Soccer),10833816
+784,Paraguay,2,Football (Soccer),6862812
+785,Qatar,1,Football (Soccer),2258283
+786,Reunion,1,Football (Soccer),850996
+787,Rwanda,4,Football (Soccer),11604797
+788,Sudan,2,Football (Soccer),36729501
+789,Senegal,7,Football (Soccer),14320055
+790,Singapore,1,Football (Soccer),5781728
+791,Solomon Islands,16,Football (Soccer),635027
+792,Sierra Leone,6,Football (Soccer),6018888
+793,El Salvador,2,Football (Soccer),6156670
+794,Somalia,4,Football (Soccer),10817354
+795,Serbia,1,Football (Soccer),7143921
+796,South Sudan,3,Football (Soccer),12530717
+797,Suriname,2,Football (Soccer),585824
+798,Slovakia,1,Football (Soccer),5445802
+799,Slovenia,1,Football (Soccer),1978029
+800,Sweden,6,Football (Soccer),9880604
+801,Chad,7,Football (Soccer),11852462
+802,Togo,6,Football (Soccer),7756937
+803,Tajikistan,2,Football (Soccer),8330946
+804,Turkmenistan,3,Football (Soccer),5291317
+805,Timor-Leste,4,Football (Soccer),1261072
+806,Trinidad and Tobago,2,Football (Soccer),1220479
+807,Tunisia,2,Football (Soccer),11285452
+808,Tanzania,2,Football (Soccer),52482726
+809,Uganda,3,Football (Soccer),38319241
+810,Uruguay,2,Football (Soccer),3351016
+811,United States,2,Football (Soccer),323127513
+812,Uzbekistan,1,Football (Soccer),29473614
+813,Venezuela,1,Football (Soccer),30912302
+814,Vanuatu,24,Football (Soccer),277554
+815,Kosovo,2,Football (Soccer),1883018
+816,Yemen,1,Football (Soccer),27392779
+817,South Africa,2,Football (Soccer),54300704
+818,Zambia,2,Football (Soccer),15510711
+819,Zimbabwe,3,Football (Soccer),13600580
+820,Canada,1,Golf,35362905
+821,Finland,1,Golf,5498211
+822,Great Britain,1,Golf,64430428
+823,Ireland,1,Golf,4952473
+824,South Korea,1,Golf,50924172
+825,Norway,1,Golf,5265158
+826,New Zealand,1,Golf,4474549
+827,Paraguay,1,Golf,6862812
+828,Sweden,3,Golf,9880604
+829,Bosnia and Herzegovina,1,Handball,3861912
+830,Denmark,3,Handball,5593785
+831,France,2,Handball,66836154
+832,Gabon,1,Handball,1738541
+833,Croatia,2,Handball,4313707
+834,Iceland,1,Handball,335878
+835,Montenegro,3,Handball,644578
+836,Netherlands,2,Handball,17016967
+837,Norway,6,Handball,5265158
+838,Poland,1,Handball,38523261
+839,Romania,1,Handball,21599736
+840,Slovenia,1,Handball,1978029
+841,Sweden,1,Handball,9880604
+842,Tunisia,1,Handball,11285452
+843,Albania,1,Indoor volleyball,3038594
+844,Argentina,1,Indoor volleyball,43886748
+845,Bosnia and Herzegovina,3,Indoor volleyball,3861912
+846,Brazil,2,Indoor volleyball,205823665
+847,Canada,1,Indoor volleyball,35362905
+848,Costa Rica,1,Indoor volleyball,4872543
+849,Hong Kong,1,Indoor volleyball,7167403
+850,Iran,3,Indoor volleyball,80987449
+851,Italy,3,Indoor volleyball,62007540
+852,Japan,1,Indoor volleyball,126702133
+853,South Korea,2,Indoor volleyball,50924172
+854,Macau,1,Indoor volleyball,597425
+855,Mexico,1,Indoor volleyball,123166749
+856,Macedonia,1,Indoor volleyball,2100025
+857,Montenegro,2,Indoor volleyball,644578
+858,Netherlands,1,Indoor volleyball,17016967
+859,Poland,2,Indoor volleyball,38523261
+860,Puerto Rico,2,Indoor volleyball,3411489
+861,Serbia,6,Indoor volleyball,7143921
+862,Uruguay,1,Indoor volleyball,3351016
+863,United States,1,Indoor volleyball,323127513
+864,Albania,2,Judo,3038594
+865,Argentina,3,Judo,43886748
+866,Austria,1,Judo,8711770
+867,Azerbaijan,2,Judo,9872765
+868,Belgium,2,Judo,11409077
+869,Benin,1,Judo,10741458
+870,Burkina Faso,1,Judo,19512533
+871,Brazil,2,Judo,205823665
+872,Switzerland,1,Judo,8179294
+873,Ivory Coast,1,Judo,23740424
+874,Cameroon,2,Judo,24360803
+875,Democratic Republic of the Congo,2,Judo,81331050
+876,Republic of the Congo,2,Judo,4852412
+877,Colombia,1,Judo,47220856
+878,Cuba,2,Judo,11179995
+879,Czech Republic,3,Judo,10660932
+880,Egypt,1,Judo,94666993
+881,France,6,Judo,66836154
+882,Gabon,3,Judo,1738541
+883,Georgia,6,Judo,4928052
+884,Guinea,1,Judo,12093349
+885,Guadeloupe,13,Judo,402119
+886,Greece,1,Judo,10773253
+887,French Guiana,4,Judo,250109
+888,Hungary,3,Judo,9874784
+889,Israel,4,Judo,8174527
+890,Japan,3,Judo,126702133
+891,Kazakhstan,2,Judo,18360353
+892,Kyrgyzstan,1,Judo,5727553
+893,Luxembourg,2,Judo,582291
+894,Morocco,1,Judo,33655786
+895,Madagascar,1,Judo,24430325
+896,Macedonia,1,Judo,2100025
+897,Mali,2,Judo,17352160
+898,Montenegro,1,Judo,644578
+899,Mongolia,4,Judo,3031330
+900,Martinique,10,Judo,385551
+901,Mauritius,1,Judo,1348242
+902,New Caledonia,4,Judo,275355
+903,Netherlands,1,Judo,17016967
+904,Portugal,3,Judo,10833816
+905,French Polynesia,3,Judo,285321
+906,Reunion,4,Judo,850996
+907,Russia,1,Judo,142355415
+908,Senegal,2,Judo,14320055
+909,Slovenia,4,Judo,1978029
+910,Tajikistan,3,Judo,8330946
+911,Turkmenistan,4,Judo,5291317
+912,Tunisia,1,Judo,11285452
+913,Uruguay,1,Judo,3351016
+914,Uzbekistan,3,Judo,29473614
+915,Kosovo,15,Judo,1883018
+916,Lithuania,1,Modern pentathlon,2854235
+917,Israel,1,Rhythmic gymnastics,8174527
+918,South Korea,2,Rhythmic gymnastics,50924172
+919,Czech Republic,1,Rowing,10660932
+920,Denmark,1,Rowing,5593785
+921,Estonia,1,Rowing,1258545
+922,Great Britain,1,Rowing,64430428
+923,Croatia,3,Rowing,4313707
+924,Isle of Man,2,Rowing,88195
+925,Ireland,1,Rowing,4952473
+926,Iran,1,Rowing,80987449
+927,Jersey,3,Rowing,98069
+928,Lithuania,1,Rowing,2854235
+929,Norway,1,Rowing,5265158
+930,New Zealand,3,Rowing,4474549
+931,Paraguay,1,Rowing,6862812
+932,Fiji,9,Rugby sevens,915303
+933,Great Britain,1,Rugby sevens,64430428
+934,New Zealand,2,Rugby sevens,4474549
+935,Argentina,1,Sailing,43886748
+936,Belgium,1,Sailing,11409077
+937,Cyprus,2,Sailing,1205575
+938,Finland,1,Sailing,5498211
+939,Guatemala,1,Sailing,15189958
+940,Croatia,2,Sailing,4313707
+941,Ireland,3,Sailing,4952473
+942,Israel,1,Sailing,8174527
+943,Lithuania,1,Sailing,2854235
+944,Netherlands,2,Sailing,17016967
+945,New Zealand,1,Sailing,4474549
+946,Slovenia,2,Sailing,1978029
+947,Uruguay,2,Sailing,3351016
+948,Bahrain,1,Shooting,1378904
+949,Bosnia and Herzegovina,1,Shooting,3861912
+950,Cyprus,1,Shooting,1205575
+951,Finland,1,Shooting,5498211
+952,Hong Kong,1,Shooting,7167403
+953,Croatia,1,Shooting,4313707
+954,India,1,Shooting,1266883598
+955,Iran,1,Shooting,80987449
+956,Italy,1,Shooting,62007540
+957,South Korea,1,Shooting,50924172
+958,Kuwait,4,Shooting,2832776
+959,Lebanon,1,Shooting,6237738
+960,Macau,1,Shooting,597425
+961,Malta,2,Shooting,415196
+962,Montenegro,1,Shooting,644578
+963,Mongolia,1,Shooting,3031330
+964,Qatar,1,Shooting,2258283
+965,Serbia,1,Shooting,7143921
+966,Vietnam,3,Shooting,95261021
+967,Aruba,20,Swimming,113648
+968,Afghanistan,3,Swimming,33332025
+969,Angola,3,Swimming,28289713
+970,Albania,5,Swimming,3038594
+971,Andorra,8,Swimming,85660
+972,United Arab Emirates,4,Swimming,5927482
+973,Argentina,4,Swimming,43886748
+974,Armenia,2,Swimming,3051250
+975,Antigua and Barbuda,11,Swimming,93581
+976,Australia,14,Swimming,22992654
+977,Austria,4,Swimming,8711770
+978,Azerbaijan,1,Swimming,9872765
+979,Belgium,5,Swimming,11409077
+980,Benin,1,Swimming,10741458
+981,Burkina Faso,2,Swimming,19512533
+982,Bangladesh,2,Swimming,156186882
+983,Bulgaria,4,Swimming,7144653
+984,Bahrain,3,Swimming,1378904
+985,Bahamas,30,Swimming,327316
+986,Bosnia and Herzegovina,3,Swimming,3861912
+987,Belarus,3,Swimming,9570376
+988,Belize,7,Swimming,353858
+989,Bermuda,28,Swimming,70537
+990,Bolivia,5,Swimming,10969649
+991,Brazil,4,Swimming,205823665
+992,Barbados,23,Swimming,291495
+993,Brunei,10,Swimming,436620
+994,Bhutan,4,Swimming,750125
+995,Botswana,4,Swimming,2180597
+996,Canada,13,Swimming,35362905
+997,Switzerland,5,Swimming,8179294
+998,Chile,5,Swimming,17650114
+999,China,15,Swimming,1373541278
+1000,Ivory Coast,2,Swimming,23740424
+1001,Cameroon,4,Swimming,24360803
+1002,Democratic Republic of the Congo,2,Swimming,81331050
+1003,Republic of the Congo,2,Swimming,4852412
+1004,Colombia,5,Swimming,47220856
+1005,Cape Verde,5,Swimming,553432
+1006,Costa Rica,11,Swimming,4872543
+1007,Cuba,12,Swimming,11179995
+1008,Cayman Islands,26,Swimming,57268
+1009,Cyprus,6,Swimming,1205575
+1010,Czech Republic,4,Swimming,10660932
+1011,Germany,3,Swimming,80722792
+1012,Djibouti,4,Swimming,846687
+1013,Dominica,9,Swimming,73757
+1014,Denmark,11,Swimming,5593785
+1015,Dominican Republic,6,Swimming,10606865
+1016,Algeria,1,Swimming,40263711
+1017,Ecuador,5,Swimming,16080778
+1018,Egypt,1,Swimming,94666993
+1019,Spain,9,Swimming,48563476
+1020,Estonia,3,Swimming,1258545
+1021,Ethiopia,1,Swimming,102374044
+1022,Finland,5,Swimming,5498211
+1023,Fiji,7,Swimming,915303
+1024,France,7,Swimming,66836154
+1025,Faroe Islands,29,Swimming,50456
+1026,Gabon,2,Swimming,1738541
+1027,Great Britain,7,Swimming,64430428
+1028,Georgia,3,Swimming,4928052
+1029,Guernsey,8,Swimming,66297
+1030,Ghana,2,Swimming,26908262
+1031,Gibraltar,4,Swimming,29328
+1032,Guinea,2,Swimming,12093349
+1033,Guadeloupe,11,Swimming,402119
+1034,Gambia,4,Swimming,2009648
+1035,Greece,5,Swimming,10773253
+1036,Grenada,8,Swimming,111219
+1037,Guatemala,7,Swimming,15189958
+1038,French Guiana,8,Swimming,250109
+1039,Guam,15,Swimming,166898
+1040,Guyana,13,Swimming,735909
+1041,Hong Kong,14,Swimming,7167403
+1042,Honduras,7,Swimming,8893259
+1043,Croatia,5,Swimming,4313707
+1044,Haiti,5,Swimming,10485800
+1045,Hungary,28,Swimming,9874784
+1046,Indonesia,1,Swimming,258316051
+1047,Isle of Man,6,Swimming,88195
+1048,India,2,Swimming,1266883598
+1049,Ireland,10,Swimming,4952473
+1050,Iran,2,Swimming,80987449
+1051,Iceland,9,Swimming,335878
+1052,Israel,5,Swimming,8174527
+1053,Italy,12,Swimming,62007540
+1054,Jamaica,14,Swimming,2970340
+1055,Jersey,6,Swimming,98069
+1056,Jordan,1,Swimming,10041098
+1057,Japan,4,Swimming,126702133
+1058,Kazakhstan,5,Swimming,18360353
+1059,Kenya,2,Swimming,46790758
+1060,Kyrgyzstan,3,Swimming,5727553
+1061,Cambodia,2,Swimming,15957223
+1062,Saint Kitts and Nevis,15,Swimming,52329
+1063,South Korea,2,Swimming,50924172
+1064,Kuwait,3,Swimming,2832776
+1065,Lebanon,2,Swimming,6237738
+1066,Libya,1,Swimming,6541948
+1067,Saint Lucia,9,Swimming,164464
+1068,Sri Lanka,5,Swimming,22235000
+1069,Lesotho,3,Swimming,1953070
+1070,Lithuania,9,Swimming,2854235
+1071,Luxembourg,6,Swimming,582291
+1072,Latvia,4,Swimming,1965686
+1073,Macau,13,Swimming,597425
+1074,Morocco,2,Swimming,33655786
+1075,Monaco,9,Swimming,30581
+1076,Moldova,1,Swimming,3510485
+1077,Madagascar,3,Swimming,24430325
+1078,Maldives,5,Swimming,392960
+1079,Mexico,7,Swimming,123166749
+1080,Macedonia,5,Swimming,2100025
+1081,Mali,1,Swimming,17352160
+1082,Malta,9,Swimming,415196
+1083,Myanmar,2,Swimming,54616716
+1084,Montenegro,3,Swimming,644578
+1085,Mongolia,6,Swimming,3031330
+1086,Mozambique,2,Swimming,25930150
+1087,Martinique,11,Swimming,385551
+1088,Mauritius,10,Swimming,1348242
+1089,Malawi,1,Swimming,18570321
+1090,Malaysia,6,Swimming,30949962
+1091,Namibia,4,Swimming,2436469
+1092,New Caledonia,11,Swimming,275355
+1093,Nigeria,2,Swimming,186053386
+1094,Nicaragua,7,Swimming,5966798
+1095,Netherlands,6,Swimming,17016967
+1096,Norway,4,Swimming,5265158
+1097,Nepal,3,Swimming,29033914
+1098,New Zealand,9,Swimming,4474549
+1099,Oman,1,Swimming,3355262
+1100,Pakistan,1,Swimming,201995540
+1101,Panama,14,Swimming,3705246
+1102,Peru,5,Swimming,30741062
+1103,Philippines,5,Swimming,102624209
+1104,Papua New Guinea,6,Swimming,6791317
+1105,Poland,2,Swimming,38523261
+1106,Puerto Rico,14,Swimming,3411489
+1107,Portugal,7,Swimming,10833816
+1108,Paraguay,9,Swimming,6862812
+1109,French Polynesia,9,Swimming,285321
+1110,Qatar,4,Swimming,2258283
+1111,Reunion,6,Swimming,850996
+1112,Romania,2,Swimming,21599736
+1113,Russia,2,Swimming,142355415
+1114,Rwanda,2,Swimming,11604797
+1115,Saudi Arabia,1,Swimming,28160273
+1116,Senegal,4,Swimming,14320055
+1117,Singapore,40,Swimming,5781728
+1118,El Salvador,7,Swimming,6156670
+1119,San Marino,18,Swimming,33285
+1120,Somalia,1,Swimming,10817354
+1121,Serbia,3,Swimming,7143921
+1122,South Sudan,3,Swimming,12530717
+1123,Suriname,9,Swimming,585824
+1124,Slovakia,4,Swimming,5445802
+1125,Slovenia,5,Swimming,1978029
+1126,Sweden,8,Swimming,9880604
+1127,Swaziland,3,Swimming,1451428
+1128,Sint Maarten,10,Swimming,41486
+1129,Seychelles,6,Swimming,93186
+1130,Turks and Caicos Islands,22,Swimming,51430
+1131,Thailand,1,Swimming,68200824
+1132,Tajikistan,1,Swimming,8330946
+1133,Turkmenistan,2,Swimming,5291317
+1134,Trinidad and Tobago,23,Swimming,1220479
+1135,Tunisia,8,Swimming,11285452
+1136,Turkey,1,Swimming,80274604
+1137,Taiwan,5,Swimming,23464787
+1138,Tanzania,1,Swimming,52482726
+1139,Uganda,3,Swimming,38319241
+1140,Ukraine,1,Swimming,44209733
+1141,Uruguay,13,Swimming,3351016
+1142,United States,22,Swimming,323127513
+1143,Uzbekistan,2,Swimming,29473614
+1144,Saint Vincent and the Grenadines,9,Swimming,102350
+1145,Venezuela,7,Swimming,30912302
+1146,British Virgin Islands,8,Swimming,34232
+1147,U.S. Virgin Islands,12,Swimming,107510
+1148,Vietnam,2,Swimming,95261021
+1149,Samoa,10,Swimming,198926
+1150,Kosovo,4,Swimming,1883018
+1151,South Africa,9,Swimming,54300704
+1152,Zambia,2,Swimming,15510711
+1153,Zimbabwe,13,Swimming,13600580
+1154,Andorra,2,Synchronized swimming,85660
+1155,Spain,1,Synchronized swimming,48563476
+1156,China,4,Table tennis,1373541278
+1157,Germany,1,Table tennis,80722792
+1158,Hong Kong,4,Table tennis,7167403
+1159,Iran,1,Table tennis,80987449
+1160,Japan,8,Table tennis,126702133
+1161,Macau,3,Table tennis,597425
+1162,Nigeria,1,Table tennis,186053386
+1163,Portugal,1,Table tennis,10833816
+1164,Singapore,6,Table tennis,5781728
+1165,Serbia,1,Table tennis,7143921
+1166,Slovenia,1,Table tennis,1978029
+1167,Taiwan,3,Table tennis,23464787
+1168,Bosnia and Herzegovina,1,Taekwondo,3861912
+1169,Gabon,6,Taekwondo,1738541
+1170,Great Britain,1,Taekwondo,64430428
+1171,Croatia,1,Taekwondo,4313707
+1172,Isle of Man,2,Taekwondo,88195
+1173,Iran,4,Taekwondo,80987449
+1174,Montenegro,1,Taekwondo,644578
+1175,Panama,1,Taekwondo,3705246
+1176,Senegal,1,Taekwondo,14320055
+1177,Serbia,3,Taekwondo,7143921
+1178,Aruba,3,Tennis,113648
+1179,Angola,1,Tennis,28289713
+1180,Albania,1,Tennis,3038594
+1181,Andorra,11,Tennis,85660
+1182,United Arab Emirates,2,Tennis,5927482
+1183,Argentina,38,Tennis,43886748
+1184,Armenia,12,Tennis,3051250
+1185,Antigua and Barbuda,7,Tennis,93581
+1186,Australia,3,Tennis,22992654
+1187,Austria,3,Tennis,8711770
+1188,Belgium,6,Tennis,11409077
+1189,Bangladesh,1,Tennis,156186882
+1190,Bulgaria,5,Tennis,7144653
+1191,Bahrain,1,Tennis,1378904
+1192,Bahamas,5,Tennis,327316
+1193,Bosnia and Herzegovina,9,Tennis,3861912
+1194,Belarus,1,Tennis,9570376
+1195,Bermuda,10,Tennis,70537
+1196,Bolivia,6,Tennis,10969649
+1197,Brazil,3,Tennis,205823665
+1198,Barbados,8,Tennis,291495
+1199,Brunei,1,Tennis,436620
+1200,Botswana,2,Tennis,2180597
+1201,Canada,5,Tennis,35362905
+1202,Switzerland,6,Tennis,8179294
+1203,Chile,6,Tennis,17650114
+1204,Ivory Coast,2,Tennis,23740424
+1205,Cameroon,5,Tennis,24360803
+1206,Democratic Republic of the Congo,1,Tennis,81331050
+1207,Republic of the Congo,4,Tennis,4852412
+1208,Colombia,4,Tennis,47220856
+1209,Costa Rica,3,Tennis,4872543
+1210,Cuba,2,Tennis,11179995
+1211,Cayman Islands,4,Tennis,57268
+1212,Cyprus,3,Tennis,1205575
+1213,Czech Republic,15,Tennis,10660932
+1214,Germany,5,Tennis,80722792
+1215,Denmark,5,Tennis,5593785
+1216,Dominican Republic,3,Tennis,10606865
+1217,Algeria,1,Tennis,40263711
+1218,Ecuador,4,Tennis,16080778
+1219,Egypt,1,Tennis,94666993
+1220,Spain,19,Tennis,48563476
+1221,Estonia,3,Tennis,1258545
+1222,Finland,3,Tennis,5498211
+1223,Fiji,1,Tennis,915303
+1224,France,5,Tennis,66836154
+1225,Gabon,3,Tennis,1738541
+1226,Great Britain,7,Tennis,64430428
+1227,Georgia,2,Tennis,4928052
+1228,Guernsey,15,Tennis,66297
+1229,Ghana,1,Tennis,26908262
+1230,Guinea,1,Tennis,12093349
+1231,Guadeloupe,6,Tennis,402119
+1232,Greece,4,Tennis,10773253
+1233,Guatemala,2,Tennis,15189958
+1234,French Guiana,2,Tennis,250109
+1235,Guyana,4,Tennis,735909
+1236,Hong Kong,2,Tennis,7167403
+1237,Honduras,3,Tennis,8893259
+1238,Croatia,6,Tennis,4313707
+1239,Haiti,1,Tennis,10485800
+1240,Hungary,2,Tennis,9874784
+1241,Isle of Man,7,Tennis,88195
+1242,India,3,Tennis,1266883598
+1243,Ireland,4,Tennis,4952473
+1244,Iran,1,Tennis,80987449
+1245,Iceland,2,Tennis,335878
+1246,Israel,1,Tennis,8174527
+1247,Italy,6,Tennis,62007540
+1248,Jamaica,3,Tennis,2970340
+1249,Jersey,12,Tennis,98069
+1250,Japan,7,Tennis,126702133
+1251,Kazakhstan,1,Tennis,18360353
+1252,Kenya,1,Tennis,46790758
+1253,Kyrgyzstan,1,Tennis,5727553
+1254,Saint Kitts and Nevis,5,Tennis,52329
+1255,Kuwait,1,Tennis,2832776
+1256,Lebanon,1,Tennis,6237738
+1257,Libya,1,Tennis,6541948
+1258,Saint Lucia,4,Tennis,164464
+1259,Sri Lanka,1,Tennis,22235000
+1260,Lithuania,3,Tennis,2854235
+1261,Luxembourg,8,Tennis,582291
+1262,Latvia,3,Tennis,1965686
+1263,Morocco,2,Tennis,33655786
+1264,Moldova,2,Tennis,3510485
+1265,Madagascar,2,Tennis,24430325
+1266,Maldives,1,Tennis,392960
+1267,Mexico,2,Tennis,123166749
+1268,Macedonia,5,Tennis,2100025
+1269,Mali,1,Tennis,17352160
+1270,Malta,4,Tennis,415196
+1271,Montenegro,16,Tennis,644578
+1272,Mongolia,1,Tennis,3031330
+1273,Mozambique,1,Tennis,25930150
+1274,Martinique,7,Tennis,385551
+1275,Mauritius,2,Tennis,1348242
+1276,Malawi,3,Tennis,18570321
+1277,Malaysia,1,Tennis,30949962
+1278,Namibia,1,Tennis,2436469
+1279,Nigeria,2,Tennis,186053386
+1280,Nicaragua,3,Tennis,5966798
+1281,Netherlands,2,Tennis,17016967
+1282,Norway,2,Tennis,5265158
+1283,Nepal,1,Tennis,29033914
+1284,New Zealand,2,Tennis,4474549
+1285,Oman,2,Tennis,3355262
+1286,Pakistan,1,Tennis,201995540
+1287,Panama,4,Tennis,3705246
+1288,Peru,5,Tennis,30741062
+1289,Philippines,1,Tennis,102624209
+1290,Papua New Guinea,2,Tennis,6791317
+1291,Poland,3,Tennis,38523261
+1292,Puerto Rico,78,Tennis,3411489
+1293,Portugal,3,Tennis,10833816
+1294,Paraguay,10,Tennis,6862812
+1295,French Polynesia,1,Tennis,285321
+1296,Qatar,2,Tennis,2258283
+1297,Reunion,3,Tennis,850996
+1298,Romania,7,Tennis,21599736
+1299,Russia,1,Tennis,142355415
+1300,Rwanda,1,Tennis,11604797
+1301,Saudi Arabia,1,Tennis,28160273
+1302,Senegal,2,Tennis,14320055
+1303,Singapore,2,Tennis,5781728
+1304,El Salvador,3,Tennis,6156670
+1305,Serbia,13,Tennis,7143921
+1306,Suriname,1,Tennis,585824
+1307,Slovakia,4,Tennis,5445802
+1308,Slovenia,5,Tennis,1978029
+1309,Sweden,2,Tennis,9880604
+1310,Turkmenistan,1,Tennis,5291317
+1311,Trinidad and Tobago,5,Tennis,1220479
+1312,Tunisia,2,Tennis,11285452
+1313,Turkey,1,Tennis,80274604
+1314,Taiwan,1,Tennis,23464787
+1315,Tanzania,1,Tennis,52482726
+1316,Uganda,2,Tennis,38319241
+1317,Ukraine,2,Tennis,44209733
+1318,Uruguay,24,Tennis,3351016
+1319,United States,3,Tennis,323127513
+1320,Uzbekistan,1,Tennis,29473614
+1321,Venezuela,3,Tennis,30912302
+1322,Kosovo,2,Tennis,1883018
+1323,South Africa,2,Tennis,54300704
+1324,Zambia,1,Tennis,15510711
+1325,Zimbabwe,3,Tennis,13600580
+1326,Canada,1,Trampolining,35362905
+1327,Bermuda,3,Triathlon,70537
+1328,Costa Rica,1,Triathlon,4872543
+1329,Croatia,1,Water polo,4313707
+1330,Hungary,2,Water polo,9874784
+1331,Italy,1,Water polo,62007540
+1332,Montenegro,3,Water polo,644578
+1333,Serbia,1,Water polo,7143921
+1334,Armenia,2,Weightlifting,3051250
+1335,Chile,1,Weightlifting,17650114
+1336,Ecuador,1,Weightlifting,16080778
+1337,Spain,1,Weightlifting,48563476
+1338,Estonia,1,Weightlifting,1258545
+1339,Georgia,1,Weightlifting,4928052
+1340,Iran,9,Weightlifting,80987449
+1341,Japan,1,Weightlifting,126702133
+1342,Kazakhstan,1,Weightlifting,18360353
+1343,Kyrgyzstan,1,Weightlifting,5727553
+1344,Lithuania,1,Weightlifting,2854235
+1345,Macau,1,Weightlifting,597425
+1346,Philippines,1,Weightlifting,102624209
+1347,Poland,1,Weightlifting,38523261
+1348,Turkmenistan,2,Weightlifting,5291317
+1349,Uzbekistan,1,Weightlifting,29473614
+1350,United Arab Emirates,1,Wrestling,5927482
+1351,Armenia,8,Wrestling,3051250
+1352,Azerbaijan,7,Wrestling,9872765
+1353,Bulgaria,1,Wrestling,7144653
+1354,Bahrain,1,Wrestling,1378904
+1355,Bosnia and Herzegovina,1,Wrestling,3861912
+1356,Belarus,1,Wrestling,9570376
+1357,Bhutan,2,Wrestling,750125
+1358,Canada,1,Wrestling,35362905
+1359,Colombia,1,Wrestling,47220856
+1360,Cuba,10,Wrestling,11179995
+1361,Denmark,1,Wrestling,5593785
+1362,Estonia,3,Wrestling,1258545
+1363,Finland,2,Wrestling,5498211
+1364,Georgia,2,Wrestling,4928052
+1365,Guinea-Bissau,19,Wrestling,1759159
+1366,Croatia,1,Wrestling,4313707
+1367,Hungary,1,Wrestling,9874784
+1368,India,3,Wrestling,1266883598
+1369,Iran,12,Wrestling,80987449
+1370,Japan,6,Wrestling,126702133
+1371,Kazakhstan,2,Wrestling,18360353
+1372,Kyrgyzstan,13,Wrestling,5727553
+1373,Kuwait,1,Wrestling,2832776
+1374,Montenegro,1,Wrestling,644578
+1375,Oman,1,Wrestling,3355262
+1376,Puerto Rico,3,Wrestling,3411489
+1377,Qatar,1,Wrestling,2258283
+1378,Russia,1,Wrestling,142355415
+1379,Senegal,1,Wrestling,14320055
+1380,Serbia,3,Wrestling,7143921
+1381,Sweden,1,Wrestling,9880604
+1382,Tunisia,1,Wrestling,11285452
+1383,Turkey,1,Wrestling,80274604
+1384,Ukraine,1,Wrestling,44209733

@@ -1,3 +1,117 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:55fc03089f24d56f53fc7aea7ee89937be0781d95dba7fdcd35825a6a25a314d
-size 6209
+patient_id,gender,age,type_of_diabetes,metformin,glipizide,insulin,treatment_type
+10109,F,39,Type 2 Mellitus,YES,NO,NO,Metformin
+10143,M,44,Diabetes Mellitus,NO,NO,NO,No Treatment
+10170,F,45,Type 2 Mellitus,NO,NO,NO,No Treatment
+10182,M,53,Type 2 Mellitus,YES,NO,NO,Metformin
+10194,F,93,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+10199,M,55,Mellitus,YES,NO,NO,Metformin
+10207,M,42,Diabetes Mellitus,NO,NO,YES,Insulin
+10232,M,49,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+10245,M,50,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+10258,M,58,Diabetes Mellitus,NO,NO,YES,Insulin
+10266,M,52,Diabetes Mellitus,YES,NO,NO,Metformin
+10291,F,58,Type 2 Mellitus,NO,NO,NO,No Treatment
+10295,M,64,Diabetes Mellitus,YES,NO,NO,Metformin
+10313,M,55,Diabetes Mellitus,NO,NO,YES,Insulin
+10323,M,60,Mellitus,NO,NO,YES,Insulin
+10386,F,49,Type 2 Mellitus,YES,NO,NO,Metformin
+10392,F,65,Type 2 Mellitus,YES,YES,NO,Metformin-Glipizide
+10426,F,54,Diabetes Mellitus,NO,YES,YES,Glipizide-Insulin
+10442,M,40,Diabetes Mellitus,YES,NO,NO,Metformin
+10470,M,28,Diabetes Mellitus,YES,NO,YES,Metformin-Insulin
+10485,F,64,Diabetes Mellitus,NO,NO,YES,Insulin
+10492,M,70,Type 2 Mellitus,YES,YES,NO,Metformin-Glipizide
+10499,M,51,Diabetes Mellitus,YES,YES,YES,Metformin-Glipizide-Insulin
+10526,F,49,Diabetes Mellitus,YES,NO,YES,Metformin-Insulin
+10555,F,55,Diabetes Mellitus,YES,NO,NO,Metformin
+10566,M,57,Type 2 Mellitus,NO,NO,NO,No Treatment
+10575,M,65,Diabetes Mellitus,NO,NO,NO,No Treatment
+10589,M,58,Type 2 Mellitus,YES,YES,NO,Metformin-Glipizide
+10590,M,50,Diabetes Mellitus,YES,NO,NO,Metformin
+10604,F,57,Type 2 Mellitus,YES,YES,NO,Metformin-Glipizide
+10605,M,50,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+10613,M,51,Diabetes Mellitus,NO,NO,YES,Insulin
+10619,F,53,Diabetes Mellitus,NO,NO,YES,Insulin
+10661,M,61,Type 2 Mellitus,YES,YES,YES,Metformin-Glipizide-Insulin
+10681,M,61,Diabetes Mellitus,NO,NO,YES,Insulin
+10685,F,75,Diabetes Mellitus,NO,YES,YES,Glipizide-Insulin
+10757,M,60,Diabetes Mellitus,YES,NO,YES,Metformin-Insulin
+10761,M,64,Type 2 Mellitus,NO,YES,YES,Glipizide-Insulin
+10769,M,47,Diabetes Mellitus,NO,NO,YES,Insulin
+10798,F,36,Type 2 Mellitus,NO,YES,YES,Glipizide-Insulin
+10816,M,46,Diabetes Mellitus,NO,NO,YES,Insulin
+10820,F,62,Diabetes Mellitus,YES,NO,YES,Metformin-Insulin
+10828,M,46,Diabetes Mellitus,YES,NO,YES,Metformin-Insulin
+10830,F,51,Mellitus,NO,YES,NO,Glipizide
+10832,F,79,Type 2 Mellitus,YES,NO,NO,Metformin
+10866,M,56,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+10913,F,40,Type 2 Mellitus,NO,NO,YES,Insulin
+10926,M,32,Diabetes Mellitus,NO,NO,YES,Insulin
+10928,M,61,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+10936,M,54,Diabetes Mellitus,YES,NO,NO,Metformin
+10941,M,49,Type 2 Mellitus,YES,NO,NO,Metformin
+10952,F,54,Type 2 Mellitus,YES,YES,NO,Metformin-Glipizide
+10963,M,54,Diabetes Mellitus,YES,NO,YES,Metformin-Insulin
+11024,F,79,Type 2 Mellitus,NO,YES,YES,Glipizide-Insulin
+11076,M,72,Diabetes Mellitus,YES,NO,NO,Metformin
+11088,F,56,Diabetes Mellitus,YES,NO,NO,Metformin
+11092,M,45,Diabetes Mellitus,YES,NO,NO,Metformin
+11131,F,73,Diabetes Mellitus,YES,NO,NO,Metformin
+11148,F,58,Diabetes Mellitus,YES,NO,NO,Metformin
+11172,F,79,Type 2 Mellitus,YES,NO,NO,Metformin
+11176,F,59,Diabetes Mellitus,NO,NO,NO,No Treatment
+11180,F,42,Diabetes Mellitus,YES,NO,NO,Metformin
+11184,F,42,Diabetes Mellitus,YES,NO,NO,Metformin
+11191,F,52,Hyperkalemia,YES,NO,NO,Metformin
+11193,F,57,Diabetes Mellitus,YES,NO,NO,Metformin
+11198,F,27,Hyperglycemia,NO,NO,YES,Insulin
+11214,F,74,Diabetes Mellitus,NO,NO,NO,No Treatment
+11225,M,45,Diabetes Mellitus,NO,NO,NO,No Treatment
+11247,F,58,Diabetes Mellitus,NO,NO,YES,Insulin
+11248,F,35,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+11274,M,64,Type 2 Mellitus,YES,YES,NO,Metformin-Glipizide
+11304,M,64,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+11317,M,56,Type 2 Mellitus,YES,NO,NO,Metformin
+11322,F,46,Diabetes Mellitus,YES,NO,YES,Metformin-Insulin
+11328,M,52,Diabetes Mellitus,NO,NO,NO,No Treatment
+11354,F,61,Type 2 Mellitus,NO,NO,NO,No Treatment
+11370,F,47,Diabetes Mellitus,NO,YES,YES,Glipizide-Insulin
+11390,F,60,Diabetes Mellitus,NO,NO,YES,Insulin
+11401,M,67,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+11407,F,77,Diabetes Mellitus,NO,NO,YES,Insulin
+11427,F,50,Diabetes Mellitus,NO,NO,YES,Insulin
+11429,F,47,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+11457,F,59,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+11458,F,57,Diabetes Mellitus,YES,NO,YES,Metformin-Insulin
+11463,M,55,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+11471,M,33,Diabetes Mellitus,NO,NO,YES,Insulin
+11473,F,23,Diabetes Mellitus,NO,NO,YES,Insulin
+11484,M,54,Diabetes Mellitus,YES,NO,NO,Metformin
+11494,M,61,Diabetes Mellitus,YES,YES,YES,Metformin-Glipizide-Insulin
+11528,M,55,Type 2 Mellitus,YES,YES,YES,Metformin-Glipizide-Insulin
+11565,F,63,Diabetes Mellitus,NO,YES,YES,Glipizide-Insulin
+11567,M,65,Diabetes Mellitus,NO,NO,YES,Insulin
+11580,F,55,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+11581,M,61,Diabetes Mellitus,YES,NO,YES,Metformin-Insulin
+11582,M,46,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+11584,M,57,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+11585,F,53,Type 2 Mellitus,NO,YES,YES,Glipizide-Insulin
+11586,F,51,Type 2 Mellitus,YES,NO,NO,Metformin
+11610,M,58,Diabetes Mellitus,YES,NO,NO,Metformin
+11616,F,60,Type 2 Mellitus,NO,YES,NO,Glipizide
+11620,F,67,Diabetes Mellitus,YES,NO,NO,Metformin
+11625,F,62,Diabetes Mellitus,NO,NO,YES,Insulin
+11628,M,60,Type 2 Mellitus,YES,NO,NO,Metformin
+11644,F,50,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+11726,F,44,Diabetes Mellitus,YES,NO,NO,Metformin
+11740,F,60,Diabetes Mellitus,YES,YES,YES,Metformin-Glipizide-Insulin
+11772,F,74,Diabetes Mellitus,NO,NO,YES,Insulin
+11780,M,51,Diabetes Mellitus,NO,NO,YES,Insulin
+11787,F,55,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+11819,M,46,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+11822,F,54,Diabetes Mellitus,YES,NO,NO,Metformin
+11894,M,64,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+11898,M,43,Type 2 Mellitus,YES,YES,NO,Metformin-Glipizide
+11905,F,64,Diabetes Mellitus,YES,YES,NO,Metformin-Glipizide
+11953,F,68,Diabetes Mellitus,NO,NO,NO,No Treatment
+11964,F,61,Diabetes Mellitus,NO,YES,YES,Glipizide-Insulin

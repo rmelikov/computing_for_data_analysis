@@ -1,3 +1,1043 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:01df16d706cf48c7a035291c350008ee61b21b5dc614161ded08b10da93b0e76
-size 32002
+complaint_type,city_name,complaint_count
+air quality,ASTORIA,142
+animal abuse,ASTORIA,174
+animal facility - no permit,ASTORIA,3
+animal in a park,ASTORIA,29
+appliance,ASTORIA,70
+asbestos,ASTORIA,36
+beach/pool/sauna complaint,ASTORIA,2
+best/site safety,ASTORIA,18
+bike rack condition,ASTORIA,3
+bike/roller/skate chronic,ASTORIA,7
+blocked driveway,ASTORIA,3338
+boilers,ASTORIA,42
+bottled water,ASTORIA,1
+bridge condition,ASTORIA,1
+broken muni meter,ASTORIA,835
+broken parking meter,ASTORIA,34
+building/use,ASTORIA,435
+bus stop shelter placement,ASTORIA,5
+city vehicle placard complaint,ASTORIA,1
+collection truck noise,ASTORIA,6
+construction,ASTORIA,558
+consumer complaint,ASTORIA,281
+cranes and derricks,ASTORIA,2
+curb condition,ASTORIA,30
+damaged tree,ASTORIA,335
+dead tree,ASTORIA,168
+derelict bicycle,ASTORIA,24
+derelict vehicle,ASTORIA,392
+derelict vehicles,ASTORIA,285
+dirty conditions,ASTORIA,558
+disorderly youth,ASTORIA,6
+dof property - reduction issue,ASTORIA,53
+door/window,ASTORIA,335
+dpr internal,ASTORIA,10
+drinking,ASTORIA,43
+drinking water,ASTORIA,2
+electric,ASTORIA,317
+electrical,ASTORIA,41
+elevator,ASTORIA,82
+emergency response team (ert),ASTORIA,2
+fire alarm - new system,ASTORIA,4
+fire alarm - reinspection,ASTORIA,5
+fire safety director - f58,ASTORIA,2
+flooring/stairs,ASTORIA,204
+food establishment,ASTORIA,202
+food poisoning,ASTORIA,52
+for hire vehicle complaint,ASTORIA,53
+for hire vehicle report,ASTORIA,5
+found property,ASTORIA,6
+general,ASTORIA,333
+general construction/plumbing,ASTORIA,438
+graffiti,ASTORIA,363
+harboring bees/wasps,ASTORIA,5
+hazardous materials,ASTORIA,49
+heat/hot water,ASTORIA,3396
+highway condition,ASTORIA,45
+homeless encampment,ASTORIA,35
+homeless person assistance,ASTORIA,66
+illegal animal kept as pet,ASTORIA,7
+illegal fireworks,ASTORIA,3
+illegal parking,ASTORIA,1455
+illegal tree damage,ASTORIA,87
+indoor air quality,ASTORIA,75
+indoor sewage,ASTORIA,9
+industrial waste,ASTORIA,24
+investigations and discipline (iad),ASTORIA,17
+lead,ASTORIA,63
+litter basket / request,ASTORIA,44
+maintenance or facility,ASTORIA,349
+missed collection (all materials),ASTORIA,346
+mold,ASTORIA,2
+municipal parking facility,ASTORIA,10
+noise,ASTORIA,1084
+noise - commercial,ASTORIA,2053
+noise - helicopter,ASTORIA,18
+noise - house of worship,ASTORIA,22
+noise - park,ASTORIA,70
+noise - street/sidewalk,ASTORIA,539
+noise - vehicle,ASTORIA,264
+non-residential heat,ASTORIA,27
+open flame permit,ASTORIA,1
+other enforcement,ASTORIA,126
+outside building,ASTORIA,17
+overflowing litter baskets,ASTORIA,22
+overgrown tree/branches,ASTORIA,223
+paint/plaster,ASTORIA,565
+panhandling,ASTORIA,1
+plant,ASTORIA,38
+plumbing,ASTORIA,658
+poison ivy,ASTORIA,2
+posting advertisement,ASTORIA,3
+public assembly,ASTORIA,3
+public payphone complaint,ASTORIA,2
+recycling enforcement,ASTORIA,16
+rodent,ASTORIA,352
+root/sewer/sidewalk condition,ASTORIA,156
+safety,ASTORIA,138
+sanitation condition,ASTORIA,479
+scaffold safety,ASTORIA,3
+school maintenance,ASTORIA,15
+scrie,ASTORIA,137
+senior center complaint,ASTORIA,2
+sewer,ASTORIA,418
+sidewalk condition,ASTORIA,103
+smoking,ASTORIA,41
+snow,ASTORIA,310
+special enforcement,ASTORIA,199
+special projects inspection team (spit),ASTORIA,43
+stalled sites,ASTORIA,1
+standing water,ASTORIA,28
+street condition,ASTORIA,1669
+street light condition,ASTORIA,1533
+street sign - damaged,ASTORIA,90
+street sign - dangling,ASTORIA,18
+street sign - missing,ASTORIA,59
+sweeping/inadequate,ASTORIA,12
+sweeping/missed,ASTORIA,40
+taxi complaint,ASTORIA,358
+taxi report,ASTORIA,45
+traffic,ASTORIA,60
+traffic signal condition,ASTORIA,813
+unleashed dog,ASTORIA,7
+unsanitary animal facility,ASTORIA,3
+unsanitary animal pvt property,ASTORIA,56
+unsanitary condition,ASTORIA,790
+unsanitary pigeon condition,ASTORIA,17
+urinating in public,ASTORIA,9
+vacant lot,ASTORIA,10
+vector,ASTORIA,3
+vending,ASTORIA,55
+violation of park rules,ASTORIA,21
+water conservation,ASTORIA,71
+water leak,ASTORIA,303
+water quality,ASTORIA,19
+water system,ASTORIA,1172
+window guard,ASTORIA,1
+adopt-a-basket,BRONX,7
+agency,BRONX,1
+air quality,BRONX,666
+animal abuse,BRONX,1973
+animal facility - no permit,BRONX,10
+animal in a park,BRONX,189
+appliance,BRONX,3758
+asbestos,BRONX,264
+beach/pool/sauna complaint,BRONX,13
+best/site safety,BRONX,22
+bike rack condition,BRONX,9
+bike/roller/skate chronic,BRONX,17
+blocked driveway,BRONX,15608
+boilers,BRONX,435
+bottled water,BRONX,1
+bridge condition,BRONX,61
+broken muni meter,BRONX,2542
+broken parking meter,BRONX,109
+building/use,BRONX,3026
+bus stop shelter placement,BRONX,33
+city vehicle placard complaint,BRONX,52
+collection truck noise,BRONX,18
+construction,BRONX,61
+consumer complaint,BRONX,2676
+cranes and derricks,BRONX,13
+curb condition,BRONX,183
+damaged tree,BRONX,1494
+dead tree,BRONX,871
+derelict bicycle,BRONX,5
+derelict vehicle,BRONX,2147
+derelict vehicles,BRONX,2531
+dirty conditions,BRONX,4918
+disorderly youth,BRONX,66
+dof parking - tax exemption,BRONX,2
+dof property - reduction issue,BRONX,583
+door/window,BRONX,12270
+dpr internal,BRONX,200
+drinking,BRONX,205
+drinking water,BRONX,33
+eap inspection - f59,BRONX,34
+electric,BRONX,8601
+electrical,BRONX,324
+elevator,BRONX,3187
+emergency response team (ert),BRONX,10
+fire alarm - addition,BRONX,3
+fire alarm - modification,BRONX,11
+fire alarm - new system,BRONX,15
+fire alarm - reinspection,BRONX,62
+fire safety director - f58,BRONX,112
+flooring/stairs,BRONX,8113
+food establishment,BRONX,929
+food poisoning,BRONX,379
+for hire vehicle complaint,BRONX,456
+for hire vehicle report,BRONX,32
+found property,BRONX,4
+general,BRONX,6472
+general construction/plumbing,BRONX,2502
+graffiti,BRONX,2388
+harboring bees/wasps,BRONX,49
+hazardous materials,BRONX,304
+hazmat storage/use,BRONX,1
+heat/hot water,BRONX,79690
+highway condition,BRONX,656
+homeless encampment,BRONX,265
+homeless person assistance,BRONX,147
+illegal animal kept as pet,BRONX,35
+illegal animal sold,BRONX,8
+illegal fireworks,BRONX,26
+illegal parking,BRONX,9186
+illegal tree damage,BRONX,234
+indoor air quality,BRONX,616
+indoor sewage,BRONX,242
+industrial waste,BRONX,147
+investigations and discipline (iad),BRONX,42
+lead,BRONX,154
+legal services provider complaint,BRONX,1
+lifeguard,BRONX,1
+literature request,BRONX,9
+litter basket / request,BRONX,265
+maintenance or facility,BRONX,1483
+miscellaneous categories,BRONX,16
+missed collection (all materials),BRONX,1743
+mold,BRONX,33
+municipal parking facility,BRONX,15
+noise,BRONX,2900
+noise - commercial,BRONX,2703
+noise - helicopter,BRONX,27
+noise - house of worship,BRONX,109
+noise - park,BRONX,534
+noise - street/sidewalk,BRONX,8719
+noise - vehicle,BRONX,3407
+non-residential heat,BRONX,213
+open flame permit,BRONX,1
+other enforcement,BRONX,544
+outside building,BRONX,385
+overflowing litter baskets,BRONX,154
+overflowing recycling baskets,BRONX,1
+overgrown tree/branches,BRONX,1623
+paint/plaster,BRONX,22408
+panhandling,BRONX,16
+plant,BRONX,3
+plumbing,BRONX,17579
+poison ivy,BRONX,27
+posting advertisement,BRONX,19
+public payphone complaint,BRONX,37
+public toilet,BRONX,2
+radioactive material,BRONX,1
+recycling enforcement,BRONX,81
+rodent,BRONX,6576
+root/sewer/sidewalk condition,BRONX,986
+safety,BRONX,2497
+sanitation condition,BRONX,3534
+scaffold safety,BRONX,29
+school maintenance,BRONX,362
+scrie,BRONX,1443
+senior center complaint,BRONX,67
+sewer,BRONX,3454
+sg-98,BRONX,2
+sg-99,BRONX,1
+sidewalk condition,BRONX,454
+smoking,BRONX,406
+snow,BRONX,1706
+special enforcement,BRONX,1023
+special natural area district (snad),BRONX,2
+special projects inspection team (spit),BRONX,186
+sprinkler - mechanical,BRONX,1
+stalled sites,BRONX,1
+standing water,BRONX,135
+standpipe - mechanical,BRONX,1
+street condition,BRONX,12112
+street light condition,BRONX,7924
+street sign - damaged,BRONX,332
+street sign - dangling,BRONX,173
+street sign - missing,BRONX,491
+sweeping/inadequate,BRONX,29
+sweeping/missed,BRONX,86
+tanning,BRONX,1
+tattooing,BRONX,17
+taxi complaint,BRONX,564
+taxi report,BRONX,55
+traffic,BRONX,391
+traffic signal condition,BRONX,1737
+transportation provider complaint,BRONX,1
+unleashed dog,BRONX,115
+unsanitary animal facility,BRONX,21
+unsanitary animal pvt property,BRONX,470
+unsanitary condition,BRONX,23440
+unsanitary pigeon condition,BRONX,65
+urinating in public,BRONX,61
+vacant lot,BRONX,284
+vector,BRONX,46
+vending,BRONX,417
+violation of park rules,BRONX,342
+water conservation,BRONX,847
+water leak,BRONX,10942
+water quality,BRONX,164
+water system,BRONX,10965
+window guard,BRONX,8
+adopt-a-basket,BROOKLYN,23
+air quality,BROOKLYN,2418
+animal abuse,BROOKLYN,3244
+animal facility - no permit,BROOKLYN,22
+animal in a park,BROOKLYN,384
+appliance,BROOKLYN,3616
+asbestos,BROOKLYN,627
+beach/pool/sauna complaint,BROOKLYN,37
+best/site safety,BROOKLYN,173
+bike rack condition,BROOKLYN,55
+bike/roller/skate chronic,BROOKLYN,127
+blocked driveway,BROOKLYN,34351
+boilers,BROOKLYN,377
+bottled water,BROOKLYN,2
+bridge condition,BROOKLYN,95
+broken muni meter,BROOKLYN,5211
+broken parking meter,BROOKLYN,197
+building condition,BROOKLYN,1
+building/use,BROOKLYN,7583
+bus stop shelter placement,BROOKLYN,57
+city vehicle placard complaint,BROOKLYN,92
+collection truck noise,BROOKLYN,37
+construction,BROOKLYN,101
+consumer complaint,BROOKLYN,4621
+cranes and derricks,BROOKLYN,71
+curb condition,BROOKLYN,624
+damaged tree,BROOKLYN,5727
+dead tree,BROOKLYN,2764
+derelict bicycle,BROOKLYN,542
+derelict vehicle,BROOKLYN,5516
+derelict vehicles,BROOKLYN,7146
+dirty conditions,BROOKLYN,11527
+disorderly youth,BROOKLYN,77
+dof parking - tax exemption,BROOKLYN,8
+dof property - reduction issue,BROOKLYN,706
+door/window,BROOKLYN,14226
+dpr internal,BROOKLYN,281
+drinking,BROOKLYN,317
+drinking water,BROOKLYN,37
+eap inspection - f59,BROOKLYN,82
+electric,BROOKLYN,11253
+electrical,BROOKLYN,1159
+elevator,BROOKLYN,2604
+emergency response team (ert),BROOKLYN,30
+fire alarm - modification,BROOKLYN,3
+fire alarm - new system,BROOKLYN,40
+fire alarm - reinspection,BROOKLYN,71
+fire alarm - replacement,BROOKLYN,1
+fire safety director - f58,BROOKLYN,279
+flooring/stairs,BROOKLYN,9617
+foam ban enforcement,BROOKLYN,3
+food establishment,BROOKLYN,2436
+food poisoning,BROOKLYN,738
+for hire vehicle complaint,BROOKLYN,887
+for hire vehicle report,BROOKLYN,88
+forensic engineering,BROOKLYN,2
+found property,BROOKLYN,48
+general,BROOKLYN,7641
+general construction/plumbing,BROOKLYN,9470
+graffiti,BROOKLYN,7197
+harboring bees/wasps,BROOKLYN,70
+hazardous materials,BROOKLYN,924
+hazmat storage/use,BROOKLYN,1
+heat/hot water,BROOKLYN,72410
+highway condition,BROOKLYN,594
+homeless encampment,BROOKLYN,898
+homeless person assistance,BROOKLYN,777
+illegal animal kept as pet,BROOKLYN,107
+illegal animal sold,BROOKLYN,18
+illegal fireworks,BROOKLYN,64
+illegal parking,BROOKLYN,30495
+illegal tree damage,BROOKLYN,777
+indoor air quality,BROOKLYN,1333
+indoor sewage,BROOKLYN,470
+industrial waste,BROOKLYN,414
+investigations and discipline (iad),BROOKLYN,203
+lead,BROOKLYN,934
+legal services provider complaint,BROOKLYN,8
+lifeguard,BROOKLYN,9
+literature request,BROOKLYN,20
+litter basket / request,BROOKLYN,961
+maintenance or facility,BROOKLYN,3265
+miscellaneous categories,BROOKLYN,15
+missed collection (all materials),BROOKLYN,7370
+mold,BROOKLYN,119
+municipal parking facility,BROOKLYN,28
+noise,BROOKLYN,14362
+noise - commercial,BROOKLYN,13283
+noise - helicopter,BROOKLYN,369
+noise - house of worship,BROOKLYN,388
+noise - park,BROOKLYN,1511
+noise - street/sidewalk,BROOKLYN,12906
+noise - vehicle,BROOKLYN,5676
+non-residential heat,BROOKLYN,373
+open flame permit,BROOKLYN,9
+other enforcement,BROOKLYN,2170
+outside building,BROOKLYN,603
+overflowing litter baskets,BROOKLYN,405
+overflowing recycling baskets,BROOKLYN,6
+overgrown tree/branches,BROOKLYN,5435
+paint/plaster,BROOKLYN,24240
+panhandling,BROOKLYN,47
+plant,BROOKLYN,113
+plumbing,BROOKLYN,20145
+poison ivy,BROOKLYN,18
+posting advertisement,BROOKLYN,50
+public assembly,BROOKLYN,3
+public assembly - temporary,BROOKLYN,1
+public payphone complaint,BROOKLYN,98
+public toilet,BROOKLYN,13
+recycling enforcement,BROOKLYN,286
+rodent,BROOKLYN,9070
+root/sewer/sidewalk condition,BROOKLYN,3157
+safety,BROOKLYN,3539
+sanitation condition,BROOKLYN,11404
+scaffold safety,BROOKLYN,66
+school maintenance,BROOKLYN,497
+scrie,BROOKLYN,2140
+senior center complaint,BROOKLYN,84
+sewer,BROOKLYN,9246
+sidewalk condition,BROOKLYN,1696
+smoking,BROOKLYN,434
+snow,BROOKLYN,4049
+special enforcement,BROOKLYN,762
+special natural area district (snad),BROOKLYN,4
+special projects inspection team (spit),BROOKLYN,980
+squeegee,BROOKLYN,1
+stalled sites,BROOKLYN,23
+standing water,BROOKLYN,328
+street condition,BROOKLYN,34426
+street light condition,BROOKLYN,19080
+street sign - damaged,BROOKLYN,1416
+street sign - dangling,BROOKLYN,514
+street sign - missing,BROOKLYN,1444
+sweeping/inadequate,BROOKLYN,253
+sweeping/missed,BROOKLYN,736
+tattooing,BROOKLYN,25
+taxi complaint,BROOKLYN,2612
+taxi report,BROOKLYN,288
+traffic,BROOKLYN,1138
+traffic signal condition,BROOKLYN,12319
+transportation provider complaint,BROOKLYN,6
+unleashed dog,BROOKLYN,143
+unsanitary animal facility,BROOKLYN,23
+unsanitary animal pvt property,BROOKLYN,677
+unsanitary condition,BROOKLYN,28668
+unsanitary pigeon condition,BROOKLYN,145
+urinating in public,BROOKLYN,145
+vacant lot,BROOKLYN,676
+vector,BROOKLYN,131
+vending,BROOKLYN,560
+violation of park rules,BROOKLYN,293
+water conservation,BROOKLYN,1509
+water leak,BROOKLYN,13610
+water quality,BROOKLYN,324
+water system,BROOKLYN,19245
+window guard,BROOKLYN,13
+x-ray machine/equipment,BROOKLYN,1
+air quality,FLUSHING,107
+animal abuse,FLUSHING,177
+animal facility - no permit,FLUSHING,1
+animal in a park,FLUSHING,15
+appliance,FLUSHING,106
+asbestos,FLUSHING,49
+beach/pool/sauna complaint,FLUSHING,4
+best/site safety,FLUSHING,6
+bike rack condition,FLUSHING,1
+bike/roller/skate chronic,FLUSHING,4
+blocked driveway,FLUSHING,3407
+boilers,FLUSHING,17
+broken muni meter,FLUSHING,1115
+broken parking meter,FLUSHING,36
+building/use,FLUSHING,1110
+bus stop shelter placement,FLUSHING,7
+city vehicle placard complaint,FLUSHING,2
+collection truck noise,FLUSHING,4
+construction,FLUSHING,895
+consumer complaint,FLUSHING,471
+cranes and derricks,FLUSHING,4
+curb condition,FLUSHING,21
+damaged tree,FLUSHING,656
+dead tree,FLUSHING,343
+derelict bicycle,FLUSHING,5
+derelict vehicle,FLUSHING,501
+derelict vehicles,FLUSHING,175
+dirty conditions,FLUSHING,860
+disorderly youth,FLUSHING,1
+dof property - reduction issue,FLUSHING,41
+door/window,FLUSHING,300
+dpr internal,FLUSHING,31
+drinking,FLUSHING,45
+drinking water,FLUSHING,3
+eap inspection - f59,FLUSHING,10
+electric,FLUSHING,215
+electrical,FLUSHING,32
+elevator,FLUSHING,220
+emergency response team (ert),FLUSHING,2
+fire alarm - modification,FLUSHING,1
+fire alarm - new system,FLUSHING,4
+fire alarm - reinspection,FLUSHING,10
+fire safety director - f58,FLUSHING,128
+flooring/stairs,FLUSHING,163
+foam ban enforcement,FLUSHING,3
+food establishment,FLUSHING,279
+food poisoning,FLUSHING,91
+for hire vehicle complaint,FLUSHING,67
+for hire vehicle report,FLUSHING,6
+found property,FLUSHING,1
+general,FLUSHING,231
+general construction/plumbing,FLUSHING,563
+graffiti,FLUSHING,178
+harboring bees/wasps,FLUSHING,7
+hazardous materials,FLUSHING,54
+heat/hot water,FLUSHING,2741
+highway condition,FLUSHING,423
+homeless encampment,FLUSHING,26
+homeless person assistance,FLUSHING,36
+illegal animal sold,FLUSHING,3
+illegal fireworks,FLUSHING,1
+illegal parking,FLUSHING,1866
+illegal tree damage,FLUSHING,66
+indoor air quality,FLUSHING,57
+indoor sewage,FLUSHING,13
+industrial waste,FLUSHING,42
+investigations and discipline (iad),FLUSHING,6
+lead,FLUSHING,37
+literature request,FLUSHING,3
+litter basket / request,FLUSHING,46
+maintenance or facility,FLUSHING,176
+missed collection (all materials),FLUSHING,1220
+mold,FLUSHING,5
+municipal parking facility,FLUSHING,8
+noise,FLUSHING,765
+noise - commercial,FLUSHING,220
+noise - helicopter,FLUSHING,2
+noise - house of worship,FLUSHING,7
+noise - park,FLUSHING,126
+noise - street/sidewalk,FLUSHING,242
+noise - vehicle,FLUSHING,149
+non-residential heat,FLUSHING,33
+other enforcement,FLUSHING,151
+outside building,FLUSHING,25
+overflowing litter baskets,FLUSHING,32
+overflowing recycling baskets,FLUSHING,2
+overgrown tree/branches,FLUSHING,403
+paint/plaster,FLUSHING,688
+panhandling,FLUSHING,1
+plumbing,FLUSHING,511
+poison ivy,FLUSHING,2
+public assembly,FLUSHING,1
+public payphone complaint,FLUSHING,8
+public toilet,FLUSHING,1
+recycling enforcement,FLUSHING,7
+rodent,FLUSHING,206
+root/sewer/sidewalk condition,FLUSHING,264
+safety,FLUSHING,96
+sanitation condition,FLUSHING,766
+scaffold safety,FLUSHING,2
+school maintenance,FLUSHING,30
+scrie,FLUSHING,277
+senior center complaint,FLUSHING,10
+sewer,FLUSHING,716
+sg-98,FLUSHING,1
+sidewalk condition,FLUSHING,104
+smoking,FLUSHING,70
+snow,FLUSHING,409
+special enforcement,FLUSHING,204
+special natural area district (snad),FLUSHING,1
+special projects inspection team (spit),FLUSHING,107
+stalled sites,FLUSHING,3
+standing water,FLUSHING,31
+street condition,FLUSHING,3464
+street light condition,FLUSHING,1764
+street sign - damaged,FLUSHING,190
+street sign - dangling,FLUSHING,50
+street sign - missing,FLUSHING,112
+sweeping/inadequate,FLUSHING,9
+sweeping/missed,FLUSHING,36
+tanning,FLUSHING,1
+tattooing,FLUSHING,3
+taxi complaint,FLUSHING,103
+taxi report,FLUSHING,23
+traffic,FLUSHING,68
+traffic signal condition,FLUSHING,619
+transportation provider complaint,FLUSHING,1
+unleashed dog,FLUSHING,11
+unsanitary animal facility,FLUSHING,3
+unsanitary animal pvt property,FLUSHING,22
+unsanitary condition,FLUSHING,694
+unsanitary pigeon condition,FLUSHING,23
+urinating in public,FLUSHING,11
+vacant lot,FLUSHING,19
+vector,FLUSHING,13
+vending,FLUSHING,44
+violation of park rules,FLUSHING,30
+water conservation,FLUSHING,149
+water leak,FLUSHING,387
+water quality,FLUSHING,26
+water system,FLUSHING,1394
+window guard,FLUSHING,1
+x-ray machine/equipment,FLUSHING,1
+air quality,JAMAICA,83
+animal abuse,JAMAICA,310
+animal in a park,JAMAICA,24
+appliance,JAMAICA,255
+asbestos,JAMAICA,31
+beach/pool/sauna complaint,JAMAICA,4
+best/site safety,JAMAICA,4
+bike rack condition,JAMAICA,2
+bike/roller/skate chronic,JAMAICA,2
+blocked driveway,JAMAICA,3430
+boilers,JAMAICA,20
+bottled water,JAMAICA,1
+broken muni meter,JAMAICA,423
+broken parking meter,JAMAICA,25
+building/use,JAMAICA,1295
+bus stop shelter placement,JAMAICA,8
+city vehicle placard complaint,JAMAICA,4
+collection truck noise,JAMAICA,2
+construction,JAMAICA,541
+consumer complaint,JAMAICA,629
+curb condition,JAMAICA,29
+damaged tree,JAMAICA,623
+dead tree,JAMAICA,327
+derelict bicycle,JAMAICA,6
+derelict vehicle,JAMAICA,1048
+derelict vehicles,JAMAICA,1034
+dirty conditions,JAMAICA,1153
+disorderly youth,JAMAICA,12
+dof property - reduction issue,JAMAICA,84
+door/window,JAMAICA,689
+dpr internal,JAMAICA,14
+drinking,JAMAICA,41
+drinking water,JAMAICA,4
+eap inspection - f59,JAMAICA,16
+electric,JAMAICA,698
+electrical,JAMAICA,66
+elevator,JAMAICA,204
+fire alarm - addition,JAMAICA,1
+fire alarm - new system,JAMAICA,1
+fire alarm - reinspection,JAMAICA,2
+fire alarm - replacement,JAMAICA,1
+fire safety director - f58,JAMAICA,153
+flooring/stairs,JAMAICA,436
+food establishment,JAMAICA,228
+food poisoning,JAMAICA,77
+for hire vehicle complaint,JAMAICA,187
+for hire vehicle report,JAMAICA,22
+found property,JAMAICA,3
+general,JAMAICA,442
+general construction/plumbing,JAMAICA,639
+graffiti,JAMAICA,203
+harboring bees/wasps,JAMAICA,6
+hazardous materials,JAMAICA,75
+heat/hot water,JAMAICA,3376
+highway condition,JAMAICA,391
+homeless encampment,JAMAICA,94
+homeless person assistance,JAMAICA,25
+illegal animal kept as pet,JAMAICA,4
+illegal fireworks,JAMAICA,4
+illegal parking,JAMAICA,1573
+illegal tree damage,JAMAICA,47
+indoor air quality,JAMAICA,79
+indoor sewage,JAMAICA,34
+industrial waste,JAMAICA,48
+investigations and discipline (iad),JAMAICA,12
+laboratory,JAMAICA,1
+lead,JAMAICA,36
+literature request,JAMAICA,1
+litter basket / request,JAMAICA,47
+maintenance or facility,JAMAICA,263
+missed collection (all materials),JAMAICA,799
+mold,JAMAICA,12
+noise,JAMAICA,465
+noise - commercial,JAMAICA,523
+noise - helicopter,JAMAICA,6
+noise - house of worship,JAMAICA,19
+noise - park,JAMAICA,39
+noise - street/sidewalk,JAMAICA,364
+noise - vehicle,JAMAICA,312
+non-residential heat,JAMAICA,40
+other enforcement,JAMAICA,139
+outside building,JAMAICA,52
+overflowing litter baskets,JAMAICA,40
+overgrown tree/branches,JAMAICA,632
+paint/plaster,JAMAICA,1041
+panhandling,JAMAICA,4
+plumbing,JAMAICA,1308
+poison ivy,JAMAICA,4
+posting advertisement,JAMAICA,8
+public assembly,JAMAICA,2
+public payphone complaint,JAMAICA,14
+public toilet,JAMAICA,2
+recycling enforcement,JAMAICA,21
+rodent,JAMAICA,662
+root/sewer/sidewalk condition,JAMAICA,355
+safety,JAMAICA,195
+sanitation condition,JAMAICA,1304
+scaffold safety,JAMAICA,3
+school maintenance,JAMAICA,42
+scrie,JAMAICA,149
+senior center complaint,JAMAICA,8
+sewer,JAMAICA,2288
+sidewalk condition,JAMAICA,82
+smoking,JAMAICA,16
+snow,JAMAICA,374
+special enforcement,JAMAICA,150
+special natural area district (snad),JAMAICA,1
+special projects inspection team (spit),JAMAICA,28
+stalled sites,JAMAICA,1
+standing water,JAMAICA,32
+street condition,JAMAICA,3392
+street light condition,JAMAICA,2471
+street sign - damaged,JAMAICA,156
+street sign - dangling,JAMAICA,71
+street sign - missing,JAMAICA,123
+sweeping/inadequate,JAMAICA,3
+sweeping/missed,JAMAICA,26
+tattooing,JAMAICA,22
+taxi complaint,JAMAICA,471
+taxi report,JAMAICA,107
+traffic,JAMAICA,579
+traffic signal condition,JAMAICA,1033
+unleashed dog,JAMAICA,27
+unsanitary animal facility,JAMAICA,1
+unsanitary animal pvt property,JAMAICA,90
+unsanitary condition,JAMAICA,1548
+unsanitary pigeon condition,JAMAICA,5
+urinating in public,JAMAICA,34
+vacant apartment,JAMAICA,1
+vacant lot,JAMAICA,130
+vector,JAMAICA,13
+vending,JAMAICA,28
+violation of park rules,JAMAICA,8
+water conservation,JAMAICA,312
+water leak,JAMAICA,574
+water quality,JAMAICA,38
+water system,JAMAICA,2231
+window guard,JAMAICA,1
+adopt-a-basket,NEW YORK,9
+air quality,NEW YORK,3406
+animal abuse,NEW YORK,1852
+animal facility - no permit,NEW YORK,17
+animal in a park,NEW YORK,711
+appliance,NEW YORK,2215
+asbestos,NEW YORK,842
+beach/pool/sauna complaint,NEW YORK,33
+best/site safety,NEW YORK,134
+bike rack condition,NEW YORK,50
+bike/roller/skate chronic,NEW YORK,283
+blocked driveway,NEW YORK,2710
+boilers,NEW YORK,459
+bottled water,NEW YORK,2
+bridge condition,NEW YORK,150
+broken muni meter,NEW YORK,10985
+broken parking meter,NEW YORK,363
+building condition,NEW YORK,2
+building/use,NEW YORK,1828
+bus stop shelter placement,NEW YORK,41
+calorie labeling,NEW YORK,7
+city vehicle placard complaint,NEW YORK,97
+collection truck noise,NEW YORK,74
+construction,NEW YORK,49
+consumer complaint,NEW YORK,4835
+cranes and derricks,NEW YORK,147
+curb condition,NEW YORK,72
+damaged tree,NEW YORK,1040
+dead tree,NEW YORK,1275
+derelict bicycle,NEW YORK,488
+derelict vehicle,NEW YORK,601
+derelict vehicles,NEW YORK,393
+dirty conditions,NEW YORK,5346
+disorderly youth,NEW YORK,127
+dof parking - tax exemption,NEW YORK,904
+dof property - reduction issue,NEW YORK,549
+door/window,NEW YORK,7665
+dpr internal,NEW YORK,764
+drinking,NEW YORK,311
+drinking water,NEW YORK,34
+eap inspection - f59,NEW YORK,998
+electric,NEW YORK,5071
+electrical,NEW YORK,709
+elevator,NEW YORK,2874
+emergency response team (ert),NEW YORK,35
+fire alarm - addition,NEW YORK,16
+fire alarm - modification,NEW YORK,128
+fire alarm - new system,NEW YORK,54
+fire alarm - reinspection,NEW YORK,143
+fire alarm - replacement,NEW YORK,7
+fire safety director - f58,NEW YORK,3710
+flooring/stairs,NEW YORK,5948
+foam ban enforcement,NEW YORK,4
+food establishment,NEW YORK,3456
+food poisoning,NEW YORK,1253
+for hire vehicle complaint,NEW YORK,1164
+for hire vehicle report,NEW YORK,106
+found property,NEW YORK,272
+general,NEW YORK,7881
+general construction/plumbing,NEW YORK,7012
+graffiti,NEW YORK,2358
+harboring bees/wasps,NEW YORK,14
+hazardous materials,NEW YORK,719
+hazmat storage/use,NEW YORK,2
+heat/hot water,NEW YORK,55545
+highway condition,NEW YORK,660
+homeless encampment,NEW YORK,2740
+homeless person assistance,NEW YORK,3095
+illegal animal kept as pet,NEW YORK,31
+illegal animal sold,NEW YORK,7
+illegal fireworks,NEW YORK,37
+illegal parking,NEW YORK,13317
+illegal tree damage,NEW YORK,537
+indoor air quality,NEW YORK,2059
+indoor sewage,NEW YORK,222
+industrial waste,NEW YORK,259
+investigations and discipline (iad),NEW YORK,165
+lead,NEW YORK,542
+legal services provider complaint,NEW YORK,2
+lifeguard,NEW YORK,3
+literature request,NEW YORK,13
+litter basket / request,NEW YORK,613
+maintenance or facility,NEW YORK,2892
+miscellaneous categories,NEW YORK,45
+missed collection (all materials),NEW YORK,2440
+mold,NEW YORK,77
+municipal parking facility,NEW YORK,13
+noise,NEW YORK,25943
+noise - commercial,NEW YORK,18090
+noise - helicopter,NEW YORK,1157
+noise - house of worship,NEW YORK,248
+noise - park,NEW YORK,1192
+noise - street/sidewalk,NEW YORK,20775
+noise - vehicle,NEW YORK,5800
+non-residential heat,NEW YORK,432
+open flame permit,NEW YORK,30
+other enforcement,NEW YORK,1451
+outside building,NEW YORK,408
+overflowing litter baskets,NEW YORK,406
+overflowing recycling baskets,NEW YORK,22
+overgrown tree/branches,NEW YORK,593
+paint/plaster,NEW YORK,14379
+panhandling,NEW YORK,155
+plant,NEW YORK,8
+plumbing,NEW YORK,12975
+poison ivy,NEW YORK,1
+posting advertisement,NEW YORK,38
+public assembly,NEW YORK,12
+public assembly - temporary,NEW YORK,1
+public payphone complaint,NEW YORK,248
+public toilet,NEW YORK,17
+radioactive material,NEW YORK,2
+rangehood,NEW YORK,2
+recycling enforcement,NEW YORK,182
+rodent,NEW YORK,6801
+root/sewer/sidewalk condition,NEW YORK,200
+safety,NEW YORK,1887
+sanitation condition,NEW YORK,3304
+scaffold safety,NEW YORK,106
+school maintenance,NEW YORK,300
+scrie,NEW YORK,2492
+senior center complaint,NEW YORK,77
+sewer,NEW YORK,3442
+sidewalk condition,NEW YORK,1608
+smoking,NEW YORK,550
+snow,NEW YORK,1032
+special enforcement,NEW YORK,333
+special projects inspection team (spit),NEW YORK,1268
+sprinkler - mechanical,NEW YORK,6
+squeegee,NEW YORK,4
+stalled sites,NEW YORK,7
+standing water,NEW YORK,146
+standpipe - mechanical,NEW YORK,2
+street condition,NEW YORK,19110
+street light condition,NEW YORK,2099
+street sign - damaged,NEW YORK,617
+street sign - dangling,NEW YORK,264
+street sign - missing,NEW YORK,431
+sweeping/inadequate,NEW YORK,37
+sweeping/missed,NEW YORK,199
+tanning,NEW YORK,1
+tattooing,NEW YORK,24
+taxi complaint,NEW YORK,10245
+taxi report,NEW YORK,1695
+traffic,NEW YORK,1642
+traffic signal condition,NEW YORK,1251
+transportation provider complaint,NEW YORK,6
+unleashed dog,NEW YORK,72
+unsanitary animal facility,NEW YORK,12
+unsanitary animal pvt property,NEW YORK,295
+unsanitary condition,NEW YORK,15560
+unsanitary pigeon condition,NEW YORK,163
+urinating in public,NEW YORK,224
+vacant apartment,NEW YORK,1
+vacant lot,NEW YORK,102
+vector,NEW YORK,48
+vending,NEW YORK,2554
+violation of park rules,NEW YORK,678
+water conservation,NEW YORK,441
+water leak,NEW YORK,6856
+water quality,NEW YORK,284
+water system,NEW YORK,12482
+window guard,NEW YORK,9
+x-ray machine/equipment,NEW YORK,3
+adopt-a-basket,STATEN ISLAND,3
+air quality,STATEN ISLAND,221
+animal abuse,STATEN ISLAND,807
+animal facility - no permit,STATEN ISLAND,3
+animal in a park,STATEN ISLAND,90
+appliance,STATEN ISLAND,250
+asbestos,STATEN ISLAND,92
+beach/pool/sauna complaint,STATEN ISLAND,41
+best/site safety,STATEN ISLAND,8
+bike/roller/skate chronic,STATEN ISLAND,10
+blocked driveway,STATEN ISLAND,2702
+boilers,STATEN ISLAND,16
+bottled water,STATEN ISLAND,1
+bridge condition,STATEN ISLAND,3
+broken muni meter,STATEN ISLAND,262
+broken parking meter,STATEN ISLAND,17
+building/use,STATEN ISLAND,1535
+bus stop shelter placement,STATEN ISLAND,16
+calorie labeling,STATEN ISLAND,2
+city vehicle placard complaint,STATEN ISLAND,9
+collection truck noise,STATEN ISLAND,9
+construction,STATEN ISLAND,6
+consumer complaint,STATEN ISLAND,475
+cranes and derricks,STATEN ISLAND,3
+curb condition,STATEN ISLAND,28
+damaged tree,STATEN ISLAND,1800
+dead tree,STATEN ISLAND,1155
+derelict bicycle,STATEN ISLAND,1
+derelict vehicle,STATEN ISLAND,1993
+derelict vehicles,STATEN ISLAND,829
+dirty conditions,STATEN ISLAND,2878
+disorderly youth,STATEN ISLAND,32
+dof parking - tax exemption,STATEN ISLAND,3
+dof property - reduction issue,STATEN ISLAND,19
+door/window,STATEN ISLAND,753
+dpr internal,STATEN ISLAND,122
+drinking,STATEN ISLAND,72
+drinking water,STATEN ISLAND,14
+eap inspection - f59,STATEN ISLAND,14
+electric,STATEN ISLAND,657
+electrical,STATEN ISLAND,149
+elevator,STATEN ISLAND,81
+emergency response team (ert),STATEN ISLAND,4
+fire alarm - addition,STATEN ISLAND,1
+fire alarm - new system,STATEN ISLAND,3
+fire alarm - reinspection,STATEN ISLAND,6
+fire safety director - f58,STATEN ISLAND,22
+flooring/stairs,STATEN ISLAND,541
+food establishment,STATEN ISLAND,415
+food poisoning,STATEN ISLAND,130
+for hire vehicle complaint,STATEN ISLAND,101
+for hire vehicle report,STATEN ISLAND,8
+general,STATEN ISLAND,398
+general construction/plumbing,STATEN ISLAND,1351
+graffiti,STATEN ISLAND,296
+harboring bees/wasps,STATEN ISLAND,36
+hazardous materials,STATEN ISLAND,181
+heat/hot water,STATEN ISLAND,2280
+highway condition,STATEN ISLAND,463
+homeless encampment,STATEN ISLAND,54
+homeless person assistance,STATEN ISLAND,18
+illegal animal kept as pet,STATEN ISLAND,21
+illegal animal sold,STATEN ISLAND,1
+illegal fireworks,STATEN ISLAND,10
+illegal parking,STATEN ISLAND,5837
+illegal tree damage,STATEN ISLAND,173
+indoor air quality,STATEN ISLAND,84
+indoor sewage,STATEN ISLAND,54
+industrial waste,STATEN ISLAND,148
+investigations and discipline (iad),STATEN ISLAND,33
+lead,STATEN ISLAND,66
+lifeguard,STATEN ISLAND,1
+literature request,STATEN ISLAND,6
+litter basket / request,STATEN ISLAND,189
+maintenance or facility,STATEN ISLAND,625
+missed collection (all materials),STATEN ISLAND,3900
+mold,STATEN ISLAND,58
+municipal parking facility,STATEN ISLAND,2
+noise,STATEN ISLAND,1532
+noise - commercial,STATEN ISLAND,763
+noise - helicopter,STATEN ISLAND,49
+noise - house of worship,STATEN ISLAND,12
+noise - park,STATEN ISLAND,67
+noise - street/sidewalk,STATEN ISLAND,911
+noise - vehicle,STATEN ISLAND,451
+non-residential heat,STATEN ISLAND,33
+other enforcement,STATEN ISLAND,412
+outside building,STATEN ISLAND,51
+overflowing litter baskets,STATEN ISLAND,107
+overflowing recycling baskets,STATEN ISLAND,1
+overgrown tree/branches,STATEN ISLAND,1951
+paint/plaster,STATEN ISLAND,981
+panhandling,STATEN ISLAND,8
+plant,STATEN ISLAND,4
+plumbing,STATEN ISLAND,1382
+poison ivy,STATEN ISLAND,49
+posting advertisement,STATEN ISLAND,111
+public payphone complaint,STATEN ISLAND,35
+public toilet,STATEN ISLAND,1
+recycling enforcement,STATEN ISLAND,34
+rodent,STATEN ISLAND,1352
+root/sewer/sidewalk condition,STATEN ISLAND,1482
+safety,STATEN ISLAND,228
+sanitation condition,STATEN ISLAND,2768
+scaffold safety,STATEN ISLAND,3
+school maintenance,STATEN ISLAND,83
+scrie,STATEN ISLAND,132
+senior center complaint,STATEN ISLAND,6
+sewer,STATEN ISLAND,3753
+sidewalk condition,STATEN ISLAND,240
+smoking,STATEN ISLAND,33
+snow,STATEN ISLAND,1686
+special enforcement,STATEN ISLAND,220
+special natural area district (snad),STATEN ISLAND,41
+special projects inspection team (spit),STATEN ISLAND,59
+srde,STATEN ISLAND,3
+stalled sites,STATEN ISLAND,8
+standing water,STATEN ISLAND,298
+street condition,STATEN ISLAND,16889
+street light condition,STATEN ISLAND,6197
+street sign - damaged,STATEN ISLAND,294
+street sign - dangling,STATEN ISLAND,137
+street sign - missing,STATEN ISLAND,325
+sweeping/inadequate,STATEN ISLAND,1
+sweeping/missed,STATEN ISLAND,1
+tanning,STATEN ISLAND,2
+tattooing,STATEN ISLAND,2
+taxi complaint,STATEN ISLAND,35
+taxi report,STATEN ISLAND,3
+traffic,STATEN ISLAND,224
+traffic signal condition,STATEN ISLAND,1613
+unleashed dog,STATEN ISLAND,98
+unsanitary animal facility,STATEN ISLAND,6
+unsanitary animal pvt property,STATEN ISLAND,294
+unsanitary condition,STATEN ISLAND,1890
+unsanitary pigeon condition,STATEN ISLAND,33
+urinating in public,STATEN ISLAND,23
+vacant lot,STATEN ISLAND,325
+vector,STATEN ISLAND,117
+vending,STATEN ISLAND,15
+violation of park rules,STATEN ISLAND,63
+water conservation,STATEN ISLAND,999
+water leak,STATEN ISLAND,582
+water quality,STATEN ISLAND,121
+water system,STATEN ISLAND,6183

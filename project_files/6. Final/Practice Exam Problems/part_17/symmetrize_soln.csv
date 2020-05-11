@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:05ed8783084e30e7ed0acd0a8d3e3e58ca4715c2cd838015b80191fb9936b602
-size 124
+source,target
+alice,dave
+alice,edith
+bob,carol
+carol,bob
+carol,dave
+dave,alice
+dave,carol
+dave,edith
+edith,alice
+edith,dave
